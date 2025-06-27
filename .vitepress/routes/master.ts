@@ -128,12 +128,10 @@ const routes = [
     text: 'Website',
     collapsed: false,
     items: [
-      { text: 'Introduction', link: '/master/websites/introduction' },
-      { text: 'Upgrade Guide', link: '/master/prologue/upgrade-guide' },
-      {
-        text: 'Contribution Guide',
-        link: '/master/prologue/contribution-guide'
-      }
+      { text: 'Blog Posts', link: '/master/website/blog-posts' },
+      { text: 'Pages', link: '/master/website/pages' },
+      { text: 'Customers', link: '/master/website/customers' },
+      { text: 'Configuartions', link: '/master/website/configuartions' },
     ]
   },
   {
