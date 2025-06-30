@@ -104,12 +104,8 @@ const routes = [
     text: 'Contacts',
     collapsed: false,
     items: [
-      { text: 'Introduction', link: '/master/contacts/introduction' },
-      { text: 'Upgrade Guide', link: '/master/prologue/upgrade-guide' },
-      {
-        text: 'Contribution Guide',
-        link: '/master/prologue/contribution-guide'
-      }
+      { text: 'Contacts', link: '/master/contact/contacts' },
+      { text: 'Configurations', link: '/master/contact/configurations' },
     ]
   },
   {
@@ -131,7 +127,8 @@ const routes = [
       { text: 'Blog Posts', link: '/master/website/blog-posts' },
       { text: 'Pages', link: '/master/website/pages' },
       { text: 'Customers', link: '/master/website/customers' },
-      { text: 'Configuartions', link: '/master/website/configuartions' },
+      { text: 'Configuartions', link: '/master/website/configurations' },
+      { text: 'Settings', link: '/master/website/settings' },
     ]
   },
   {
