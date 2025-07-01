@@ -8,7 +8,7 @@ The **Contacts** plugin in **AureusERP** helps you manage all types of business 
 
 1. Navigate to **Contacts >> Contacts >> Create Contact**
 
-   ![Create Contact](../../../images/customer_create_1.png)
+   ![Create Contact](../../../images1/contacts/1.png)
 
 2. Fill out the form with the following details:
 
@@ -27,6 +27,8 @@ The **Contacts** plugin in **AureusERP** helps you manage all types of business 
    - **_Tags:_** Labels or categories to organize contacts better.
    - **_Address:_** Fill in full address details including street, city, zip code, state, and country.
 
+   ![General Contact](../../../images1/contacts/5.png)
+
    ### Sales and Purchase Section
 
    - **Sales Subsection**
@@ -39,19 +41,19 @@ The **Contacts** plugin in **AureusERP** helps you manage all types of business 
      - **_Reference:_** Optional code for cross-referencing.
      - **_Industry:_** Select the business sector this contact belongs to.
 
-   ![Contact Details](../../../images/customer_create_others.png)
+   ![General Contact](../../../images1/contacts/3.png)
 
 ## After Creating a Contact
 
 Click **Create** to save the contact. You'll be redirected to the **View Partner** page.
 
-![View Contact](../../../images/customer_create_view.png)
+![View Contact](../../../images1/contacts/7.png)
 
 ### Edit Partner
 
 You can edit or update any of the contact's information by clicking the **Edit Partner** button. This is helpful for future updates or correcting data.
 
-## 👥 Manage Contacts Tab
+## Manage Contacts Tab
 
 - Go to the **Contacts** tab on the View Partner page.
 - Click **Add Contact** to open a modal form.
@@ -62,26 +64,24 @@ This allows you to:
 - Add multiple representatives or staff members for a business contact.
 - Store different contact roles (salesperson, support, billing, etc.).
 
-![Manage Contacts](../../../images/customer_create_contact.png)
+![Manage Contacts](../../../images1/contacts/8.png)
 
 > 📌 **Use Case:** Useful for organizations that need to store multiple points of contact under one company.
 
-## 🏠 Manage Addresses Tab
+## Manage Addresses Tab
 
 - Go to the **Address** tab on the View Partner page.
 - Click **Add Address** to open a modal form.
 
 ### Address Modal Includes:
 
-- **Toggles:** Choose the address type—Permanent, Present, Invoice, Delivery, or Other.
+- **Types:** Choose the address type—Permanent, Present, Invoice, Delivery, or Other.
 - **Fields:** Fill in details like name, email, phone, mobile, and complete address.
 
-![Manage Address](../../../images/customer_create_address.png)
+![Manage Address](../../../images1/contacts/9.png)
 
 This structure ensures that all address-related information is properly categorized and easily accessible.
 
----
-
-## ✅ Summary
+## Summary
 
 The **Contacts Plugin** in AureusERP offers a unified system for managing all business relationships—customers, vendors, or internal users. With sections for general info, contacts, and addresses, it's easy to keep data organized and up-to-date.

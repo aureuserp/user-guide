@@ -1,6 +1,8 @@
 import { defineConfig } from 'vitepress'
 import sidebar from './routes'
 
+
+
 export default defineConfig({
   vite: {
     server: {
@@ -111,3 +113,4 @@ export default defineConfig({
     }
   }
 })
+
