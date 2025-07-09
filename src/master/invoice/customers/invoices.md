@@ -8,11 +8,11 @@ The Invoice module in AureusERP allows users to generate professional invoices w
 
 1.  Navigate to **Invoices >> Customers >> New Invoice** as shown in the below image.
 
-    ![Create Invoice](../../../images/invoice_create_1.png)
+    ![Create Invoice](../../../images1/invoices/invoices.png)
 
 2.  Filling up fields as per the **section** defeind below :
 
-    ### 🧾 General Section
+    ### General Section
 
     This section captures the basic invoice metadata.
 
@@ -22,7 +22,7 @@ The Invoice module in AureusERP allows users to generate professional invoices w
     - **_Payment Term:_** Select a predefined payment term (e.g., Net 30, Immediate).
       > 🛈 When a payment term is selected, the **Due Date** field will be automatically replaced with the calculated date based on the selected term.
 
-    ![Create Invoice](../../../images/invoice_create_general.png)
+    ![Create Invoice](../../../images1/invoices/invoices_create.png)
 
     ### 📦 Invoice Lines
 
@@ -38,9 +38,9 @@ The Invoice module in AureusERP allows users to generate professional invoices w
       - **_Unit Price:_** Input price per unit.
       - **_Subtotal:_** Automatically calculated as `(Quantity x Unit Price - Discount) + Taxes`.
 
-    ![Create Invoice](../../../images/invoice_create_invoicelines.png)
+    ![Create Invoice](../../../images1/invoices/invoices_product.png)
 
-    ### 📝 Other Information
+    ### Other Information
 
     - **Invoice Subsection**
 
@@ -50,7 +50,7 @@ The Invoice module in AureusERP allows users to generate professional invoices w
       - **_Payment Reference:_** Add a payment transaction or reference code.
       - **_Delivery Date:_** Mention the expected or actual delivery date.
 
-      ![Create Invoice](../../../images/invoice_create_other_1.png)
+      ![Create Invoice](../../../images1/invoices/invoices_other.png)
 
     - **Accounting Subsection**
 
@@ -60,14 +60,14 @@ The Invoice module in AureusERP allows users to generate professional invoices w
       - **_Auto Post:_** Enable to automatically post this invoice upon creation.
       - **_Checked:_** Use for internal review or verification before processing.
 
-      ![Create Invoice](../../../images/invoice_create_other_2.png)
+      ![Create Invoice](../../../images1/invoices/invoices_accounting.png)
 
     - **Additional Information Subsection**
 
       - **_Company:_** Select the company issuing the invoice (multi-company support).
       - **_Currency:_** Choose the currency for the invoice. USD is selected by default.
 
-      ![Create Invoice](../../../images/invoice_create_other_3.png)
+      ![Create Invoice](../../../images1/invoices/invoices_additional.png)
 
     - **Marketing Subsection**
 
@@ -75,7 +75,7 @@ The Invoice module in AureusERP allows users to generate professional invoices w
       - **_Medium:_** Identify the medium (e.g., Email, Social Media).
       - **_Source:_** Specify the source (e.g., Google, Referral).
 
-      ![Create Invoice](../../../images/invoice_create_other_4.png)
+      ![Create Invoice](../../../images1/invoices/invoices_marketing.png)
 
 3.  Action Buttons
 
@@ -89,14 +89,14 @@ The Invoice module in AureusERP allows users to generate professional invoices w
 
 After clicking **Create**, the system redirects to the **Invoice View** page.
 
-### 🛠️ Initial Actions (When Invoice is in Draft)
+### Initial Actions (When Invoice is in Draft)
 
 - **Edit**: Modify invoice fields.
 - **Confirm**: Finalize the invoice and change its status from **Draft** to **Posted**.
 - **Cancel**: Mark the invoice as cancelled.
 - **Delete**: Permanently remove the invoice.
 
-![Create Invoice](../../../images/invoice_view.png)
+![Create Invoice](../../../images1/invoices/invoices_view.png)
 
 ## Invoice After Confirmation
 
@@ -111,13 +111,13 @@ Once the invoice is **Confirmed** (status becomes Posted), the following actions
   - **Communication\***: Auto-filled invoice number (e.g., INV/2025/05/13).
 
   > 🛈 Clicking **Submit** updates invoice status to **Paid**.
-  > ![Create Invoice](../../../images/invoice_pay.png)
+  > ![Create Invoice](../../../images1/invoices/invoices_pay_modal.png)
 
 - **Reset to Draft**: Revert the invoice back to **Draft** state.
 - **Preview**: Display a printable version of the invoice.
 - **Credit Note**: Create a credit note with **Reason** and **Date**.
 - **Delete**: Remove the invoice if needed.
 
-![Create Invoice](../../../images/invoice_confirm.png)
+![Create Invoice](../../../images1/invoices/invoices_pay.png)
 
 ---
