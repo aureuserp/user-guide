@@ -22,18 +22,22 @@ Use this when you want to cancel or adjust a previously posted invoice.
 
 1. Navigate to **Invoices >> Customers >> Invoices** as shown in the below image.
 
-   ![Create Credit Note](../../../images/credit_note_create_1.png)
+   ![Create Credit Note](../../../images1/invoices/creditnote.png)
 
 2. Open the invoice you wish to adjust
 3. Click on the Credit Note button
+   ![Create Credit Note](../../../images1/invoices/creditnote_1.png)
 4. Fill in the popup form with:
 
    - Reason for credit note
    - Date of credit note
 
 5. Click Submit
+   ![Create Credit Note](../../../images1/invoices/creditnote_modal.png)
 6. A draft credit note will be created
+   ![Create Credit Note](../../../images1/invoices/creditnote_savechanges.png)
 7. Review and click Confirm to post it
+   ![Create Credit Note](../../../images1/invoices/creditnote_confirm.png)
 
 ### Method 2: Create Credit Note Manually
 
@@ -47,7 +51,7 @@ Use this when:
 
 1. Navigate to **Invoices >> Customers >> Credit Notes >> New Credit Note** as shown in the below image.
 
-   ![Create Credit Note](../../../images/credit_note_create_1.png)
+   ![Create Credit Note](../../../images1/invoices/creditnote_create.png)
 
 2. Fill in the form as per the following sections:
 
@@ -61,7 +65,7 @@ Use this when:
    - **_Payment Term:_** Choose a payment term from the dropdown (e.g., Net 15, Immediate).
      > 🛈 Selecting a payment term will replace the **Due Date** field with an auto-calculated one based on the term.
 
-   ![General Section](../../../images/credit_note_general.png)
+   ![Create Credit Note](../../../images1/invoices/creditnote_general.png)
 
    ### 📦 Invoice Lines
 
@@ -75,7 +79,7 @@ Use this when:
      - **_Unit Price:_** Unit price of the product.
      - **_Subtotal:_** Auto-calculated value `(Quantity x Unit Price - Discount) + Taxes`.
 
-     ![Credit Note Lines](../../../images/credit_note_lines.png)
+     ![Create Credit Note](../../../images1/invoices/creditnote_invoiceline.png)
 
    ### 📝 Other Information
 
@@ -87,7 +91,7 @@ Use this when:
      - **_Payment Reference:_** Optional payment transaction reference.
      - **_Delivery Date:_** Enter delivery date if applicable.
 
-     ![Other Info - Invoice](../../../images/credit_note_other_1.png)
+     ![Create Credit Note](../../../images1/invoices/creditnote_other.png)
 
    - **Accounting Subsection**
 
@@ -97,14 +101,14 @@ Use this when:
      - **_Auto Post:_** Toggle to automatically post the credit note.
      - **_Checked:_** Toggle to mark for review.
 
-     ![Other Info - Accounting](../../../images/invoice_create_other_2.png)
+     ![Other Info - Accounting](../../../images1/invoices/creditnote_accounting.png)
 
    - **Additional Information Subsection**
 
      - **_Company:_** Select issuing company (multi-company supported).
      - **_Currency:_** Default is USD but can be changed.
 
-     ![Other Info - Additional](../../../images/invoice_create_other_3.png)
+     ![Other Info - Additional](../../../images1/invoices/creditnote_additional.png)
 
    - **Marketing Subsection**
 
@@ -112,7 +116,7 @@ Use this when:
      - **_Medium:_** Specify marketing medium.
      - **_Source:_** Identify lead source.
 
-     ![Other Info - Marketing](../../../images/credit_note_other_4.png)
+     ![Other Info - Marketing](../../../images1/invoices/creditnote_marketing.png)
 
 3. Action Buttons
 
@@ -133,7 +137,7 @@ After clicking **Create**, the system redirects to the **Credit Note View** page
 - **Cancel:** Mark the credit note as cancelled.
 - **Delete:** Remove the credit note.
 
-![Create Invoice](../../../images/credit_note_view.png)
+![Create Invoice](../../../images1/invoices/creditnote_view.png)
 
 ## Credit Note After Confirmation
 
@@ -148,12 +152,12 @@ Once the credit note is **confirmed**, the following options become available:
   - **Communication\***: Credit note number (e.g., RINV/2025/05/13).
 
   > 🛈 Clicking **Submit** will update the credit note’s status to **Paid**.
-  > ![Create Invoice](../../../images/credit_note_pay.png)
+  > ![Create Invoice](../../../images1/invoices/creditnote_paymodal.png)
 
 - **Reset to Draft:** Reverts the credit note to editable draft mode.
 - **Preview:** Opens a printable version of the credit note.
 - **Delete:** Removes the credit note permanently.
 
-![Create Invoice](../../../images/credit_note_confirm.png)
+![Create Invoice](../../../images1/invoices/creditnote_pay.png)
 
 ---
