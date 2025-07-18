@@ -112,12 +112,10 @@ const routes = [
     text: 'Project',
     collapsed: false,
     items: [
-      { text: 'Introduction', link: '/master/projects/introduction' },
-      { text: 'Upgrade Guide', link: '/master/prologue/upgrade-guide' },
-      {
-        text: 'Contribution Guide',
-        link: '/master/prologue/contribution-guide'
-      }
+      { text: 'Projects', link: '/master/project/projects' },
+      { text: 'Tasks', link: '/master/project/tasks' },
+      { text: 'Configurations', link: '/master/project/configurations' },
+      { text: 'Settings', link: '/master/project/settings' }
     ]
   },
   {
