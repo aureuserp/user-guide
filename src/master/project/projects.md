@@ -1,84 +1,98 @@
-# Project Plugin User Guide
+# Project
 
 The **Project Plugin** helps you manage your company's projects, assign team members, track deadlines, organize tasks, and streamline communication. It is ideal for any organization that handles client-based work, internal project planning, or service-based workflows.
 
-## 📁 Create a New Project
+## Create a New Project
 
 ### Steps to Create a Project
 
-1. Navigate to **Project >> Projects >> Create Project**.
+1. Navigate to **Project >> Projects >> New Project** as shown in the below image.
+
+   ![Create Project](../../../images1/project/project_create.png)
+
 2. Fill out the following details in the form that appears:
 
-### 🧾 General Section
+   ### General Section
 
-- **Name**: Enter the name of the project (e.g., Website Redesign, Client Onboarding).
-- **Description**: Provide a brief overview or purpose of the project. Helps team members understand the goal.
+   - **_Name:_** Enter the name of the project (e.g., Website Redesign, Client Onboarding).
+   - **_Description:_** Provide a brief overview or purpose of the project. Helps team members understand the goal.
 
-### 📌 Additional Information
+![General Project](../../../images1/project/project_general.png)
 
-- **Project Manager**: Assign the team member responsible for managing the project.
-- **Customer**: Link the project to a specific customer or client. Useful for client-based work.
-- **Start Date**: Choose the date when the project will begin.
-- **End Date**: Select the expected date of project completion.
-- **Allocated Hours**: Define the total number of working hours expected for the project. Helps in workload planning.
-- **Tags**: Add labels to organize and filter projects (e.g., Urgent, Internal, Long-Term).
-- **Company**: Select the company under which this project is being managed, if applicable.
+### Additional Information
 
-### ⚙️ Settings
+- **_Project Manager:_** Assign the team member responsible for managing the project.
+- **_Customer:_** Link the project to a specific customer or client. Useful for client-based work.
+- **_Start Date:_** Choose the date when the project will begin.
+- **_End Date:_** Select the expected date of project completion.
+- **_Allocated Hours:_** Define the total number of working hours expected for the project. Helps in workload planning.
+- **_Tags:_** Add labels to organize and filter projects (e.g., Urgent, Internal, Long-Term).
+- **_Company:_** Select the company under which this project is being managed, if applicable.
 
-#### Visibility Options
+![Additional Project](../../../images1/project/project_additional.png)
 
-- **Private**: Only invited internal users can see the project.
-- **Internal**: All internal users can view the project.
-- **Public**: Internal users and invited external (portal) users can view the project.
+### Settings
 
-#### Time Management
+- **Visibility Options**
 
-- **Allow Timesheets (Toggle)**: Enable to allow users to log their time against this project.
+  - **_Private:_** Only invited internal users can see the project.
+  - **_Internal:_** All internal users can view the project.
+  - **_Public:_** Internal users and invited external (portal) users can view the project.
 
-#### Task Management
+- **Time Management**
 
-- **Allow Milestones (Toggle)**: Enable to track significant phases of the project like design, development, testing, etc.
+  - **_Allow Timesheets (Toggle):_** Enable to allow users to log their time against this project.
 
-### After Creating the Project
+- **Task Management**
 
-Click **Create**. You will be redirected to the **View Project** page. Here, you'll see:
+  - **_Allow Milestones (Toggle):_** Enable to track significant phases of the project like design, development, testing, etc.
 
-- **Edit Project** (button at the top-right): Modify project details.
-- **Tasks**: Manage all tasks under this project.
-- **Milestone**: Track major progress points (if enabled).
+  ![Setting Project](../../../images1/project/project_settings.png)
 
----
+3. After Creating the Project
 
-## ✅ Task Creation in a Project
+   Click **Create**. You will be redirected to the **View Project** page. Here, you'll see:
+
+   - **Edit Project:** Modify project details.
+   - **Tasks:** Manage all tasks under this project.
+   - **Milestone:** Track major progress points (if enabled).
+
+   ![Setting Project](../../../images1/project/project_view.png)
+
+## Task Creation in a Project
 
 ### Steps to Create a Task
 
 1. On the **View Project** page, click **Tasks**.
 2. Click on the **New Task** button.
+   ![Task Project](../../../images1/project/project_task.png)
 3. Fill out the task creation form:
 
-### 🧾 General Section
+   ### General Section
 
-- **Title**: Task title (e.g., Design Landing Page, API Integration).
-- **State**: Task progress state:
+   - **_Title:_** Task title (e.g., Design Landing Page, API Integration).
+   - **_State:_** Task progress state:
 
-  - In Progress
-  - Change Requested
-  - Approved
-  - Cancelled
-  - Done
+     - In Progress
+     - Change Requested
+     - Approved
+     - Cancelled
+     - Done
 
-- **Tags**: Add tags or create new ones using (+) button to label or group tasks.
-- **Description**: Provide a detailed explanation of the task.
+   - **_Tags:_** Add tags or create new ones using (+) button to label or group tasks.
+   - **_Description:_** Provide a detailed explanation of the task.
 
-### ⚙️ Settings Section
+   ![Task Project](../../../images1/project/project_task_general.png)
 
-- **Project**: Select the project this task belongs to. Defaults to the current project.
-- **Customer**: Link to a customer, if applicable.
-- **Assignees**: Choose users responsible for this task. The task becomes visible in their dashboard.
-- **Deadline**: Set the task completion date.
-- **Allocated Hours**: Estimate time required for the task.
+### Settings Section
+
+- **_Project:_** Select the project this task belongs to. Defaults to the current project.
+- **_Customer:_** Link to a customer, if applicable.
+- **_Assignees:_** Choose users responsible for this task. The task becomes visible in their dashboard.
+- **_Deadline:_** Set the task completion date.
+- **_Allocated Hours:_** Estimate time required for the task.
+
+![Task Project](../../../images1/project/project_task_setting.png)
 
 Click **Create** to save the task. You will be redirected to the **View Task** page.
 
@@ -88,40 +102,45 @@ Click **Create** to save the task. You will be redirected to the **View Task** p
 - **Delete**: Permanently remove the task.
 - **Sub Tasks**: Click to create smaller, trackable items within this task.
 
----
+![Task Project](../../../images1/project/project_task_view.png)
 
-## 🧩 Sub Task Creation
+## Sub Task Creation
 
 ### Steps to Create a Sub Task
 
 1. On the **View Task** page, click **Sub Tasks**.
 2. Click the **Create Sub Task** button.
+
+![Task Project](../../../images1/project/project_subtask.png)
+
 3. A modal form will appear. Fill in the details:
 
-### 🧾 General Section
+   ### General Section
 
-- **Title**: Sub task title.
-- **State**: Same progress stages as tasks.
-- **Tags**: Add or create new tags.
-- **Description**: Detail the sub task requirements.
+   - **_Title:_** Sub task title.
+   - **_State:_** Same progress stages as tasks.
+   - **_Tags:_** Add or create new tags.
+   - **_Description:_** Detail the sub task requirements.
 
-### ⚙️ Settings Section
+   ![Task Project](../../../images1/project/project_subtask_general.png)
 
-- **Project**: Automatically selected based on the parent task.
-- **Customer**: Link if applicable.
-- **Assignees**: Select users to work on the sub task.
-- **Deadline**: Set the deadline.
-- **Allocated Hours**: Estimated hours for this sub task.
+   ### Settings Section
 
-### Sub Task Actions
+   - **_Project:_** Automatically selected based on the parent task.
+   - **_Customer:_** Link if applicable.
+   - **_Assignees:_** Select users to work on the sub task.
+   - **_Deadline:_** Set the deadline.
+   - **_Allocated Hours:_** Estimated hours for this sub task.
 
-- **Create**: Save the sub task.
-- **Create & Create Another**: Save and open a new sub task form.
-- **Cancel**: Close the form without saving.
+   ![Task Project](../../../images1/project/project_subtask_settings.png)
+
+4. Sub Task Actions
+
+- **_Create:_** Save the sub task.
+- **_Create & Create Another:_** Save and open a new sub task form.
+- **_Cancel:_** Close the form without saving.
 
 Once created, sub tasks will appear under the **Sub Tasks** section in the **View Task** page.
-
----
 
 ## 📌 Use Case Example
 
@@ -134,7 +153,5 @@ Once created, sub tasks will appear under the **Sub Tasks** section in the **Vie
 - Track key stages using Milestones like "Design Phase Complete" or "Beta Launch".
 
 This structured approach keeps the team aligned and helps management monitor progress easily.
-
----
 
 Let me know if you'd like to continue with the **Milestones**, **Timesheets**, or **Task Stages** documentation!
