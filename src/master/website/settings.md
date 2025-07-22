@@ -42,7 +42,7 @@ Click **Save Changes** after updating your contact details and social links. The
 
 After updating the contact information, it is important to manage who has access to these settings. For this:
 
-1. Navigate to **Settings >> Roles & Permissions >>Edit**. as shown in the below image.
+1. Navigate to **Settings >> Roles & Permissions >>Edit** as shown in the below image.
 
 ![Settings](../../../images/roles.png)
 

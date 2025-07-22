@@ -145,12 +145,8 @@ const routes = [
     text: 'Recruitments',
     collapsed: false,
     items: [
-      { text: 'Introduction', link: '/master/recruitment/introduction' },
-      { text: 'Upgrade Guide', link: '/master/prologue/upgrade-guide' },
-      {
-        text: 'Contribution Guide',
-        link: '/master/prologue/contribution-guide'
-      }
+      { text: 'Applications', link: '/master/recruitment/applications' },
+      { text: 'Configurations', link: '/master/recruitment/configuration' },
     ]
   },
   {

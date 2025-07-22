@@ -2,7 +2,7 @@
 
 Before accessing any functionality in the **Invoices Plugin**, permissions must be granted to user roles. This ensures that only authorized users can view or manage sensitive invoice-related data.
 
-## 🔐 Managing Roles & Permissions
+## Managing Roles & Permissions
 
 Navigate to **Settings >> Roles >> [Select Role] >>edit** as shown in the below image.
 
