@@ -4,210 +4,212 @@ This document explains the **Configuration** section of the Recruitment Plugin i
 
 ## Activity Plans
 
-**Purpose**: Activity Plans help in planning and organizing steps in the recruitment process, such as initial screening, interviews, etc.
+Activity Plans help in planning and organizing steps in the recruitment process, such as initial screening, interviews, etc.
 
-**Steps to Create**:
+### Steps to Create
 
-- Navigate to: `Recruitments >> Configuration >> Activities >> Activity Plans`
+1. Navigate to **Recruitments >> Configuration >> Activities >> Activity Plans** as shown in the below image.
 
-- Click **New Activity Plan**
-- Fill in:
+   ![Config. Activity](../../../images1/recruitment/config_activity.png)
 
-  - **Name**: Title of the activity plan (e.g., Initial Interview Plan)
-  - **Department**: The department for which this plan is applicable
-  - **Company**: The company where the recruitment is taking place
-  - **Status**: Set whether the activity plan is active
+2. Fill in:
 
-- Click **Create** or **Create & Create Another**
+   - **Name**: Title of the activity plan (e.g., Initial Interview Plan)
+   - **Department**: The department for which this plan is applicable
+   - **Company**: The company where the recruitment is taking place
+   - **Status**: Set whether the activity plan is active
+
+3. Action Buttons
+   Click **Create** , **Create & Create Another** or **Cancel**
 
 ## Activity Types
 
-**Purpose**: Define specific types of recruitment actions (e.g., phone call, meeting, upload documents).
+Define specific types of recruitment actions (e.g., phone call, meeting, upload documents).
 
-**Steps to Create**:
+### Steps to Create
 
-- Navigate to: `Recruitments >> Configuration >> Activities >> Activity Types`
-- Click **New Activity Type**
-- Fill in:
+1.  Navigate to **Recruitments >> Configuration >> Activities >> Activity Types** as shown in the below image.
 
-### General Information:
+![Config. Activity](../../../images1/recruitment/config_activity_types.png)
 
-- **Activity Type**: Select from existing types or define new
-- **Action**: Specify what action will be triggered (e.g., Open Form, Upload File)
-- **Default User**: Person assigned to handle this activity by default
-- **Summary**: Short description
-- **Note**: Additional details
+2. Fill in:
 
-### Advanced Information:
+   ### General Information:
 
-- **Icon**: Visual icon to represent this activity
-- **Decoration Type**: Alert type (Alert/Error)
-- **Chaining Type**: Whether to suggest or trigger next activity automatically
-- **Suggest/Trigger**: Choose the next activity based on chaining type
+   - **_Activity Type:_** Select from existing types or define new
+   - **_Action:_** Specify what action will be triggered (e.g., Open Form, Upload File)
+   - **_Default User:_** Person assigned to handle this activity by default
+   - **_Summary:_** Short description
+   - **_Note:_** Additional details
 
-### Status & Configuration:
+   ### Advanced Information:
 
-- **Status**: Whether this activity type is active
-- **Keep Done Activities**: Whether to keep record of completed ones
+   - **_Icon:_** Visual icon to represent this activity
+   - **_Decoration Type:_** Alert type (Alert/Error)
+   - **_Chaining Type:_** Whether to suggest or trigger next activity automatically
+   - **_Suggest/Trigger:_** Choose the next activity based on chaining type
 
-### Delay Information:
+   ### Status & Configuration:
 
-- **Delay Count** and **Unit**: Set delays (e.g., 2 Days)
-- **Delay From**: Choose between previous deadline or completion date
+   - **_Status:_** Whether this activity type is active
+   - **_Keep Done Activities:_** Whether to keep record of completed ones
+
+   ### Delay Information:
+
+   - **Delay Count** and **Unit**: Set delays (e.g., 2 Days)
+   - **_Delay From:_** Choose between previous deadline or completion date
 
 ## Tags
 
-**Purpose**: Tags help categorize applications (e.g., Urgent, Skilled, Fresher)
+Tags help categorize applications (e.g., Urgent, Skilled, Fresher)
 
-**Steps to Create**:
+### Steps to Create
 
-- Navigate to: `Recruitments >> Configuration >> Applications >> Tags`
-- Click **New Tag**
-- Fill in:
+1. Navigate to **Recruitments >> Configuration >> Applications >> Tags** as shown in the below image.
 
-  - **Name**
-  - **Color** (for easy identification)
+2. Fill in:
+
+   - **Name**
+   - **Color** (for easy identification)
 
 ## Degrees
 
-**Purpose**: Define the academic qualifications applicable for a position.
+Define the academic qualifications applicable for a position.
 
-**Steps to Create**:
+### Steps to Create
 
-- Navigate to: `Recruitments >> Configuration >> Applications >> Degrees`
-- Click **New Degree**
-- Enter the **Name** (e.g., MBA, B.Tech)
+1. Navigate to **Recruitments >> Configuration >> Applications >> Degrees** as shown in the below image.
+
+2. Enter the **Name** (e.g., MBA, B.Tech)
 
 ## Refuse Reasons
 
-**Purpose**: Set predefined reasons for rejecting applicants.
+Set predefined reasons for rejecting applicants.
 
-**Steps to Create**:
+### Steps to Create
 
-- Navigate to: `Recruitments >> Configuration >> Applications >> Refuse Reasons`
-- Click **New Refuse Reason**
-- Fill in:
+1. Navigate to **Recruitments >> Configuration >> Applications >> Refuse Reasons** as shown in the below image.
 
-  - **Name**: Reason (e.g., Lack of Experience)
-  - **Template**: Select appropriate template (e.g., Applicant Refused, Not Interested)
+2. Fill in:
+
+   - **_Name:_** Reason (e.g., Lack of Experience)
+   - **_Template:_** Select appropriate template (e.g., Applicant Refused, Not Interested)
 
 ## Mediums
 
-**Purpose**: Define marketing or application mediums (e.g., Social Media, Job Portal).
+Define marketing or application mediums (e.g., Social Media, Job Portal).
 
-**Steps to Create**:
+### Steps to Create
 
-- Navigate to: `Recruitments >> Configuration >> UTMs >> Mediums`
-- Click **New Medium**
-- Enter **Name** (e.g., LinkedIn, Indeed)
+1. Navigate to **Recruitments >> Configuration >> UTMs >> Mediums** as shown in the below image.
+
+2. Enter **Name** (e.g., LinkedIn, Indeed)
 
 ## Sources
 
-**Purpose**: Identify sources from where applicants are coming.
+Identify sources from where applicants are coming.
 
-**Steps to Create**:
+### Steps to Create
 
-- Navigate to: `Recruitments >> Configuration >> UTMs >> Sources`
-- Click **New Source**
-- Enter **Name** (e.g., Referral, College Drive)
+1. Navigate to **Recruitments >> Configuration >> UTMs >> Sources** as shown in the below image.
+
+2. Enter **Name** (e.g., Referral, College Drive)
 
 ## Skill Types
 
-**Purpose**: Define skills required in employees (e.g., Programming, Communication).
+Define skills required in employees (e.g., Programming, Communication).
 
-**Steps to Create**:
+### Steps to Create
 
-- Navigate to: `Recruitments >> Configuration >> Employees >> Skill Types`
-- Click **New Skill Type**
-- Fill in:
+1. Navigate to **Recruitments >> Configuration >> Employees >> Skill Types** as shown in the below image.
 
-  - **Name**
-  - **Color**
-  - **Status**: Enable/Disable toggle
+2. Fill in:
+
+   - **Name**
+   - **Color**
+   - **Status:** Enable/Disable toggle
 
 ## Departments
 
-**Purpose**: Organize your company structure by departments (e.g., HR, Development).
+Organize your company structure by departments (e.g., HR, Development).
 
-**Steps to Create**:
+### Steps to Create
 
-- Navigate to: `Recruitments >> Configuration >> Employees >> Departments`
-- Click **New Department**
-- Fill in:
+1. Navigate to **Recruitments >> Configuration >> Employees >> Departments** as shown in the below image.
 
-  - **Name**
-  - **Parent Department**: (Optional)
-  - **Manager**
-  - **Company**
-  - **Color**: Tag color
+2. Fill in:
+
+   - **Name**
+   - **Parent Department:** (Optional)
+   - **Manager**
+   - **Company**
+   - **Color:** Tag color
 
 ## Stages
 
-**Purpose**: Define steps in the recruitment pipeline (e.g., Applied, Interview, Hired).
+Define steps in the recruitment pipeline (e.g., Applied, Interview, Hired).
 
-**Steps to Create**:
+### Steps to Create
 
-- Navigate to: `Recruitments >> Configuration >> Job Positions >> Stages`
-- Click **New Stage**
+1.  Navigate to **Recruitments >> Configuration >> Job Positions >> Stages** as shown in the below image.
 
-### General Information:
+    ### General Information:
 
-- **Stage Name**: Name of the stage
-- **Requirements Department**: Related department
+    - **_Stage Name:_** Name of the stage
+    - **_Requirements Department:_** Related department
 
-### Tooltips:
+    ### Tooltips:
 
-- **Gray/Red/Green Label**: Custom tooltips for visual cues
+    - **_Gray/Red/Green Label:_** Custom tooltips for visual cues
 
-### Additional Info:
+    ### Additional Info:
 
-- **Folded**: Collapse this stage on Kanban
-- **Hired Stage**: Marks the stage as final
-- **Default Stage**: Set as initial stage
+    - **_Folded:_** Collapse this stage on Kanban
+    - **_Hired Stage:_** Marks the stage as final
+    - **_Default Stage:_** Set as initial stage
 
 ## Employment Types
 
-**Purpose**: Define job types like Full-Time, Part-Time, Internship.
+Define job types like Full-Time, Part-Time, Internship.
 
-**Steps to Create**:
+### Steps to Create
 
-- Navigate to: `Recruitments >> Configuration >> Job Positions >> Employment Types`
-- Click **New Employment Type**
-- Fill in:
+1. Navigate to **Recruitments >> Configuration >> Job Positions >> Employment Types** as shown in the below image.
 
-  - **Employment Type** (e.g., Internship)
-  - **Country**
+2. Fill in:
+
+   - **Employment Type** (e.g., Internship)
+   - **Country**
 
 ## Job Positions
 
-**Purpose**: Add and manage open positions in your organization.
+Add and manage open positions in your organization.
 
-**Steps to Create**:
+### Steps to Create
 
-- Navigate to: `Recruitments >> Configuration >> Job Positions >> Job Positions`
-- Click **New Job Position**
+1.  Navigate to **Recruitments >> Configuration >> Job Positions >> Job Positions** as shown in the below image.
 
-### Employment Information:
+    ### Employment Information:
 
-- **Job Position Title**: Name of the job (e.g., Software Engineer)
-- **Department**: Choose from the list or create
-- **Country**: Job location country
-- **Manager**: Person responsible for this position
-- **Company**: Select the company
-- **Recruiter**: Recruiter responsible
-- **Interviewers**: Add interviewers
-- **Job Location**: Office location
-- **Industry**: Related industry
-- **Job Description**: Detailed job overview
-- **Job Requirements**: Required qualifications/skills
-- **Date From / To**: Recruitment duration
-- **Recruitment Target**: Number of people to recruit
-- **No. of Employees**: Existing count
-- **Expected Employees**: Planned employee count
-- **No. of Hired Employees**: Final count hired
-- **Expected Skills**: Skills needed (select from list)
-- **Employment Type**: Select from previously created types
-- **Status**: Toggle to enable/disable the position
+    - **_Job Position Title:_** Name of the job (e.g., Software Engineer)
+    - **_Department:_** Choose from the list or create
+    - **_Country:_** Job location country
+    - **_Manager:_** Person responsible for this position
+    - **_Company:_** Select the company
+    - **_Recruiter:_** Recruiter responsible
+    - **_Interviewers:_** Add interviewers
+    - **_Job Location:_** Office location
+    - **_Industry:_** Related industry
+    - **_Job Description:_** Detailed job overview
+    - **_Job Requirements:_** Required qualifications/skills
+    - **_Date From / To:_** Recruitment duration
+    - **_Recruitment Target:_** Number of people to recruit
+    - **_No. of Employees:_** Existing count
+    - **_Expected Employees:_** Planned employee count
+    - **_No. of Hired Employees:_** Final count hired
+    - **_Expected Skills:_** Skills needed (select from list)
+    - **_Employment Type:_** Select from previously created types
+    - **_Status:_** Toggle to enable/disable the position
 
 ---
 
