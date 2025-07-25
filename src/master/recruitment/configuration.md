@@ -28,9 +28,9 @@ Define specific types of recruitment actions (e.g., phone call, meeting, upload 
 
 ### Steps to Create
 
-1.  Navigate to **Recruitments >> Configuration >> Activities >> Activity Types** as shown in the below image.
+1. Navigate to **Recruitments >> Configuration >> Activities >> Activity Types** as shown in the below image.
 
-![Config. Activity](../../../images1/recruitment/config_activity_types.png)
+   ![Config. Activity Types](../../../images1/recruitment/config_activity_types.png)
 
 2. Fill in:
 
@@ -67,6 +67,8 @@ Tags help categorize applications (e.g., Urgent, Skilled, Fresher)
 
 1. Navigate to **Recruitments >> Configuration >> Applications >> Tags** as shown in the below image.
 
+   ![Config. Tags](../../../images1/recruitment/config_tags.png)
+
 2. Fill in:
 
    - **Name**
@@ -80,6 +82,8 @@ Define the academic qualifications applicable for a position.
 
 1. Navigate to **Recruitments >> Configuration >> Applications >> Degrees** as shown in the below image.
 
+   ![Config. Degrees](../../../images1/recruitment/config_degrees.png)
+
 2. Enter the **Name** (e.g., MBA, B.Tech)
 
 ## Refuse Reasons
@@ -89,6 +93,8 @@ Set predefined reasons for rejecting applicants.
 ### Steps to Create
 
 1. Navigate to **Recruitments >> Configuration >> Applications >> Refuse Reasons** as shown in the below image.
+
+   ![Config. Refuse](../../../images1/recruitment/config_refuse.png)
 
 2. Fill in:
 
@@ -103,6 +109,8 @@ Define marketing or application mediums (e.g., Social Media, Job Portal).
 
 1. Navigate to **Recruitments >> Configuration >> UTMs >> Mediums** as shown in the below image.
 
+   ![Config. Mediums](../../../images1/recruitment/config_activity_mediums.png)
+
 2. Enter **Name** (e.g., LinkedIn, Indeed)
 
 ## Sources
@@ -113,6 +121,8 @@ Identify sources from where applicants are coming.
 
 1. Navigate to **Recruitments >> Configuration >> UTMs >> Sources** as shown in the below image.
 
+   ![Config. Sources](../../../images1/recruitment/config_sources.png)
+
 2. Enter **Name** (e.g., Referral, College Drive)
 
 ## Skill Types
@@ -122,6 +132,8 @@ Define skills required in employees (e.g., Programming, Communication).
 ### Steps to Create
 
 1. Navigate to **Recruitments >> Configuration >> Employees >> Skill Types** as shown in the below image.
+
+   ![Config. Skills](../../../images1/recruitment/config_skill_types.png)
 
 2. Fill in:
 
@@ -137,6 +149,8 @@ Organize your company structure by departments (e.g., HR, Development).
 
 1. Navigate to **Recruitments >> Configuration >> Employees >> Departments** as shown in the below image.
 
+   ![Config. Departments](../../../images1/recruitment/config_departments.png)
+
 2. Fill in:
 
    - **Name**
@@ -151,22 +165,26 @@ Define steps in the recruitment pipeline (e.g., Applied, Interview, Hired).
 
 ### Steps to Create
 
-1.  Navigate to **Recruitments >> Configuration >> Job Positions >> Stages** as shown in the below image.
+1. Navigate to **Recruitments >> Configuration >> Job Positions >> Stages** as shown in the below image.
 
-    ### General Information:
+   ![Config. Stages](../../../images1/recruitment/config_stages.png)
 
-    - **_Stage Name:_** Name of the stage
-    - **_Requirements Department:_** Related department
+2. Fill in:
 
-    ### Tooltips:
+   ### General Information:
 
-    - **_Gray/Red/Green Label:_** Custom tooltips for visual cues
+   - **_Stage Name:_** Name of the stage
+   - **_Requirements Department:_** Related department
 
-    ### Additional Info:
+   ### Tooltips:
 
-    - **_Folded:_** Collapse this stage on Kanban
-    - **_Hired Stage:_** Marks the stage as final
-    - **_Default Stage:_** Set as initial stage
+   - **_Gray/Red/Green Label:_** Custom tooltips for visual cues
+
+   ### Additional Info:
+
+   - **_Folded:_** Collapse this stage on Kanban
+   - **_Hired Stage:_** Marks the stage as final
+   - **_Default Stage:_** Set as initial stage
 
 ## Employment Types
 
@@ -175,6 +193,8 @@ Define job types like Full-Time, Part-Time, Internship.
 ### Steps to Create
 
 1. Navigate to **Recruitments >> Configuration >> Job Positions >> Employment Types** as shown in the below image.
+
+   ![Config. Employment Types](../../../images1/recruitment/config_employment_types.png)
 
 2. Fill in:
 
@@ -187,29 +207,33 @@ Add and manage open positions in your organization.
 
 ### Steps to Create
 
-1.  Navigate to **Recruitments >> Configuration >> Job Positions >> Job Positions** as shown in the below image.
+1. Navigate to **Recruitments >> Configuration >> Job Positions >> Job Positions** as shown in the below image.
 
-    ### Employment Information:
+   ![Config. Employment Types](../../../images1/recruitment/config_job_positions.png)
 
-    - **_Job Position Title:_** Name of the job (e.g., Software Engineer)
-    - **_Department:_** Choose from the list or create
-    - **_Country:_** Job location country
-    - **_Manager:_** Person responsible for this position
-    - **_Company:_** Select the company
-    - **_Recruiter:_** Recruiter responsible
-    - **_Interviewers:_** Add interviewers
-    - **_Job Location:_** Office location
-    - **_Industry:_** Related industry
-    - **_Job Description:_** Detailed job overview
-    - **_Job Requirements:_** Required qualifications/skills
-    - **_Date From / To:_** Recruitment duration
-    - **_Recruitment Target:_** Number of people to recruit
-    - **_No. of Employees:_** Existing count
-    - **_Expected Employees:_** Planned employee count
-    - **_No. of Hired Employees:_** Final count hired
-    - **_Expected Skills:_** Skills needed (select from list)
-    - **_Employment Type:_** Select from previously created types
-    - **_Status:_** Toggle to enable/disable the position
+2. Fill in:
+
+   ### Employment Information:
+
+   - **_Job Position Title:_** Name of the job (e.g., Software Engineer)
+   - **_Department:_** Choose from the list or create
+   - **_Country:_** Job location country
+   - **_Manager:_** Person responsible for this position
+   - **_Company:_** Select the company
+   - **_Recruiter:_** Recruiter responsible
+   - **_Interviewers:_** Add interviewers
+   - **_Job Location:_** Office location
+   - **_Industry:_** Related industry
+   - **_Job Description:_** Detailed job overview
+   - **_Job Requirements:_** Required qualifications/skills
+   - **_Date From / To:_** Recruitment duration
+   - **_Recruitment Target:_** Number of people to recruit
+   - **_No. of Employees:_** Existing count
+   - **_Expected Employees:_** Planned employee count
+   - **_No. of Hired Employees:_** Final count hired
+   - **_Expected Skills:_** Skills needed (select from list)
+   - **_Employment Type:_** Select from previously created types
+   - **_Status:_** Toggle to enable/disable the position
 
 ---
 
