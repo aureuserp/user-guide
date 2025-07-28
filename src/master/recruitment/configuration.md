@@ -1,6 +1,6 @@
 # Configuration
 
-This document explains the **Configuration** section of the Recruitment Plugin in **AureusERP**. Configuration is crucial for setting up the hiring process, including job positions, applicants, and candidate evaluation. Below is a detailed explanation of each configurable item in simple and clear language.
+This document explains the **Configuration** section of the Recruitment Plugin in **AureusERP**. Configuration is crucial for setting up the hiring process, including job positions, applicants, and candidate evaluation. Below is a detailed explanation of each configurable item
 
 ## Activity Plans
 
@@ -18,6 +18,8 @@ Activity Plans help in planning and organizing steps in the recruitment process,
    - **Department**: The department for which this plan is applicable
    - **Company**: The company where the recruitment is taking place
    - **Status**: Set whether the activity plan is active
+
+   ![General Activity](../../../images1/recruitment/activity_general.png)
 
 3. Action Buttons
    Click **Create** , **Create & Create Another** or **Cancel**
@@ -74,6 +76,8 @@ Tags help categorize applications (e.g., Urgent, Skilled, Fresher)
    - **Name**
    - **Color** (for easy identification)
 
+   ![General tags](../../../images1/recruitment/tags_general.png)
+
 ## Degrees
 
 Define the academic qualifications applicable for a position.
@@ -85,6 +89,8 @@ Define the academic qualifications applicable for a position.
    ![Config. Degrees](../../../images1/recruitment/config_degrees.png)
 
 2. Enter the **Name** (e.g., MBA, B.Tech)
+
+   ![General degree](../../../images1/recruitment/degree_general.png)
 
 ## Refuse Reasons
 
@@ -101,6 +107,8 @@ Set predefined reasons for rejecting applicants.
    - **_Name:_** Reason (e.g., Lack of Experience)
    - **_Template:_** Select appropriate template (e.g., Applicant Refused, Not Interested)
 
+   ![General refuse](../../../images1/recruitment/refuse_general.png)
+
 ## Mediums
 
 Define marketing or application mediums (e.g., Social Media, Job Portal).
@@ -113,6 +121,8 @@ Define marketing or application mediums (e.g., Social Media, Job Portal).
 
 2. Enter **Name** (e.g., LinkedIn, Indeed)
 
+   ![General medium](../../../images1/recruitment/medium_general.png)
+
 ## Sources
 
 Identify sources from where applicants are coming.
@@ -124,6 +134,8 @@ Identify sources from where applicants are coming.
    ![Config. Sources](../../../images1/recruitment/config_sources.png)
 
 2. Enter **Name** (e.g., Referral, College Drive)
+
+   ![General sources](../../../images1/recruitment/sources_general.png)
 
 ## Skill Types
 
@@ -140,6 +152,8 @@ Define skills required in employees (e.g., Programming, Communication).
    - **Name**
    - **Color**
    - **Status:** Enable/Disable toggle
+
+   ![General skill](../../../images1/recruitment/skill_general.png)
 
 ## Departments
 
@@ -158,6 +172,8 @@ Organize your company structure by departments (e.g., HR, Development).
    - **Manager**
    - **Company**
    - **Color:** Tag color
+
+   ![General department](../../../images1/recruitment/department_general.png)
 
 ## Stages
 
@@ -186,6 +202,8 @@ Define steps in the recruitment pipeline (e.g., Applied, Interview, Hired).
    - **_Hired Stage:_** Marks the stage as final
    - **_Default Stage:_** Set as initial stage
 
+   ![General stages](../../../images1/recruitment/stages_general.png)
+
 ## Employment Types
 
 Define job types like Full-Time, Part-Time, Internship.
@@ -200,6 +218,8 @@ Define job types like Full-Time, Part-Time, Internship.
 
    - **Employment Type** (e.g., Internship)
    - **Country**
+
+   ![General Employment](../../../images1/recruitment/employment_general.png)
 
 ## Job Positions
 
@@ -234,6 +254,8 @@ Add and manage open positions in your organization.
    - **_Expected Skills:_** Skills needed (select from list)
    - **_Employment Type:_** Select from previously created types
    - **_Status:_** Toggle to enable/disable the position
+
+   ![General jp](../../../images1/recruitment/jp_general.png)
 
 ---
 

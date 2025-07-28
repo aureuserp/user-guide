@@ -133,12 +133,10 @@ const routes = [
     text: 'Employees',
     collapsed: false,
     items: [
-      { text: 'Introduction', link: '/master/employees/introduction' },
-      { text: 'Upgrade Guide', link: '/master/prologue/upgrade-guide' },
-      {
-        text: 'Contribution Guide',
-        link: '/master/prologue/contribution-guide'
-      }
+      { text: 'Employees', link: '/master/employees/employees' },
+      { text: 'Departments', link: '/master/employees/departments' },
+      { text: 'Reportings', link: '/master/employees/reportings' },
+      { text: 'Configurations', link: '/master/employees/configurations' },
     ]
   },
   {
