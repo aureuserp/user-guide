@@ -151,12 +151,11 @@ const routes = [
     text: 'Time Off',
     collapsed: false,
     items: [
-      { text: 'Introduction', link: '/master/time-off/introduction' },
-      { text: 'Upgrade Guide', link: '/master/prologue/upgrade-guide' },
-      {
-        text: 'Contribution Guide',
-        link: '/master/prologue/contribution-guide'
-      }
+      { text: 'My Time', link: '/master/timeOff/my-time' },
+      { text: 'Overview', link: '/master/timeOff/overview' },
+      { text: 'Management', link: '/master/timeOff/management' },
+      { text: 'Reporting', link: '/master/timeOff/reporting' },
+      { text: 'Configuration', link: '/master/timeOff/configuration' },
     ]
   },
 ]
