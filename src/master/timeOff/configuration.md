@@ -8,7 +8,7 @@ Leave Types define different categories of employee leave such as sick leave, va
 
 ### Steps to Create a New Leave Type
 
-1. Navigate to **Time Off >> Configuration >> Leave Types >> New Leave Type** as shown below.
+1. Navigate to **`Time Off → Configuration → Leave Types → New Leave Type`** as shown below.
 
    ![Config. New Leave](../../../images1/time-off/config_leave.png)
 
@@ -75,7 +75,7 @@ Automatically manage the accumulation of leave over time.
 
 ### Steps to Create a New Accrual Plan
 
-1. Navigate to **Time Off >> Configuration >> Accrual Plan >> New Accrual Plan** as shown below.
+1. Navigate to **`Time Off → Configuration → Accrual Plan → New Accrual Plan`** as shown below.
 
    ![Config. New Leave](../../../images1/time-off/config_accrual.png)
 
@@ -130,7 +130,7 @@ Mark public holidays so leave calculations can consider them.
 
 ### Steps to Create Public Holidays
 
-1. Navigate to **Time Off >> Configuration >> Public Holidays >> New Public Holiday** as shown below.
+1. Navigate to **`Time Off → Configuration → Public Holidays → New Public Holiday`** as shown below.
 
    ![Config. New Leave](../../../images1/time-off/new_public.png)
 
@@ -152,7 +152,7 @@ Mark days where taking leave is mandatory (e.g., shutdowns).
 
 ### Steps to Create Mandatory Days
 
-1. Navigate to **Time Off >> Configuration >> Mandatory Days >> New Mandatory Day** as shown below.
+1. Navigate to **`Time Off → Configuration → Mandatory Days → New Mandatory Day`** as shown below.
 
    ![Config. New Leave](../../../images1/time-off/new_mandatory.png)
 
