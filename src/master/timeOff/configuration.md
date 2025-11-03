@@ -16,26 +16,19 @@ Leave Types define different categories of employee leave such as sick leave, va
 
    ### General Information
 
-   - **Title:** Name of the leave type (e.g., Paid Leave).
-
-   - **Approval:** Choose who approves the leave:
-
+   - **_Title:_** Name of the leave type (e.g., Paid Leave).
+   - **_Approval:_** Choose who approves the leave:
      - No Validation
      - By Time Off Officer
      - By Employee's Approver
      - By Both Approver and Officer
-
-   - **Requires Allocation:** Should employees request an allocation for this leave?
-
+   - **_Requires Allocation:_** Should employees request an allocation for this leave?
      - Yes: Additional fields will appear.
      - No Limit: Unlimited leave days.
-
-   - **Employee Requests (only if 'Yes' above):**
-
+   - **_Employee Requests (only if 'Yes' above):_**
      - Extra Days Request Allowed
      - Not Allowed
-
-   - **Approval (if 'Yes' above):**
+   - **_Approval (if 'Yes' above):_**
 
      - Same options as the first Approval section.
 
@@ -43,31 +36,29 @@ Leave Types define different categories of employee leave such as sick leave, va
 
    ### Display Option
 
-   - **Color:** Choose a color to represent the leave type.
+   - **_Color:_** Choose a color to represent the leave type.
 
    ### Configuration
 
-   - **Notified Time Off Officers:** Select users who will be notified.
-   - **Take Time Off In:** Choose unit of leave:
-
+   - **_Notified Time Off Officers:_** Select users who will be notified.
+   - **_Take Time Off In:_** Choose unit of leave:
      - Day, Halfday, Hour
-
-   - **Public Holiday Included:** Toggle to include/exclude public holidays.
-   - **Allow to Attach Supporting Document:** Toggle to allow document upload.
-   - **Show on Dashboard:** Toggle to show on employee dashboard.
-   - **Kind of Time Off:** Select type:
+   - **_Public Holiday Included:_** Toggle to include/exclude public holidays.
+   - **_Allow to Attach Supporting Document:_** Toggle to allow document upload.
+   - **_Show on Dashboard:_** Toggle to show on employee dashboard.
+   - **_Kind of Time Off:_** Select type:
 
      - Absence or Worked Time
 
-   - **Allow Negative Cap:** Toggle to allow taking more leave than balance.
+   - **_Allow Negative Cap:_** Toggle to allow taking more leave than balance.
 
    ![General Leave](../../../images1/time-off/leave_config.png)
 
 3. Actions
 
-- **Create**
-- **Create & create another**
-- **Cancel**
+   - **_Create_**
+   - **_Create & create another_**
+   - **_Cancel_**
 
 ## Accrual Plan
 
@@ -81,24 +72,26 @@ Automatically manage the accumulation of leave over time.
 
 2. Fill in:
 
-   - **Title:** Name of the plan (e.g., Monthly Paid Leave).
-   - **Is Based on Worked Time:** Toggle if leave accrues based on work.
-   - **Accrued Gain Time:** Select when time is accrued:
+   - **_Title:_** Name of the plan (e.g., Monthly Paid Leave).
+   - **_Is Based on Worked Time:_** Toggle if leave accrues based on work.
+   - **_Accrued Gain Time:_** Select when time is accrued:
 
      - Start or End of accrual period.
 
-   - **Carry Over Time:** Toggle and choose when unused leave is carried:
+   - **_Carry Over Time:_** Toggle and choose when unused leave is carried:
 
      - Start of year, Allocation date, or Custom date.
 
-   - **Carry Over Date:** Set day and month if "Other" selected.
-   - **Status:** Enable or disable plan.
+   - **_Carry Over Date:_** Set day and month if "Other" selected.
+   - **_Status:_** Enable or disable plan.
 
    ![Config. New Leave](../../../images1/time-off/general_accrual.png)
 
 3. Actions
 
-- **Create**, **Create & create another**, **Cancel**
+   - **_Create_**
+   - **_Create & create another_**
+   - **_Cancel_**
 
 ### After Creation: Manage Milestones
 
@@ -108,12 +101,12 @@ Automatically manage the accumulation of leave over time.
 - Click **New Leave Accrual Plan** and fill:
   ![Config. New Leave](../../../images1/time-off/new_milestone_accrual.png)
 
-  - **Accrual Amount & Type:** Days or Hours.
-  - **Accrual Frequency:** Hourly to Yearly options.
-  - **Accrual Day:** Select specific days.
-  - **Cap accrued time:** Toggle and set max days.
-  - **Start Count:** When to begin accrual (Years/Days/Months).
-  - **Advanced Accrual Settings:**
+  - **_Accrual Amount & Type:_** Days or Hours.
+  - **_Accrual Frequency:_** Hourly to Yearly options.
+  - **_Accrual Day:_** Select specific days.
+  - **_Cap accrued time:_** Toggle and set max days.
+  - **_Start Count:_** When to begin accrual (Years/Days/Months).
+  - **_Advanced Accrual Settings:_**
 
     - Reset to zero, carry over, or max carry over.
     - Set Milestone Cap and Accrual Validity.
@@ -122,7 +115,9 @@ Automatically manage the accumulation of leave over time.
 
 ### Actions
 
-- **Create**, **Create & create another**, **Cancel**
+- **_Create_**
+- **_Create & create another_**
+- **_Cancel_**
 
 ## Public Holidays
 
@@ -136,15 +131,17 @@ Mark public holidays so leave calculations can consider them.
 
 2. Fill in:
 
-   - **Name:** Holiday name (e.g., Independence Day)
-   - **Start Date / End Date:** Date range
-   - **Calendar:** Assign calendar
+   - **_Name:_** Holiday name (e.g., Independence Day)
+   - **_Start Date / End Date:_** Date range
+   - **_Calendar:_** Assign calendar
 
    ![Config. New Leave](../../../images1/time-off/general_public.png)
 
 3. Actions
 
-- **Create**, **Create & create another**, **Cancel**
+   - **_Create_**
+   - **_Create & create another_**
+   - **_Cancel_**
 
 ## Mandatory Days
 
@@ -158,15 +155,17 @@ Mark days where taking leave is mandatory (e.g., shutdowns).
 
 2. Fill in:
 
-   - **Color:** Choose a color for display
-   - **Name:** Name of the day/event
-   - **Start Date / End Date:** Date range
+   - **_Color:_** Choose a color for display
+   - **_Name:_** Name of the day/event
+   - **_Start Date / End Date:_** Date range
 
    ![Config. New Leave](../../../images1/time-off/general_mandatory.png)
 
 3. Actions
 
-- **Create**, **Create & create another**, **Cancel**
+   - **_Create_**
+   - **_Create & create another_**
+   - **_Cancel_**
 
 ## Activity Types
 
@@ -174,7 +173,7 @@ Set activity types for follow-ups, file uploads, meetings, etc.
 
 ### Steps to Create Activity Types
 
-1. Go to **Time Off >> Configuration >> Activity Types >> New Activity Type** as shown below.
+1. Go to **`Time Off >> Configuration >> Activity Types >> New Activity Type`** as shown below.
 
 ![Config. New Leave](../../../images1/time-off/new_activity.png)
 
@@ -182,38 +181,40 @@ Set activity types for follow-ups, file uploads, meetings, etc.
 
    ### General Information
 
-   - **Activity Type:** Select from predefined options.
-   - **Action:** Define action type.
-   - **Default User:** Assign default person.
-   - **Summary:** Short description.
-   - **Note:** Additional information.
+   - **_Activity Type:_** Select from predefined options.
+   - **_Action:_** Define action type.
+   - **_Default User:_** Assign default person.
+   - **_Summary:_** Short description.
+   - **_Note:_** Additional information.
 
    ### Advanced Information
 
-   - **Icon:** Visual icon for activity.
-   - **Decoration Type:** Alert or Error styling.
-   - **Chaining Type:** Link activities.
+   - **_Icon:_** Visual icon for activity.
+   - **_Decoration Type:_** Alert or Error styling.
+   - **_Chaining Type:_** Link activities.
 
      - Suggest or Trigger next.
 
-   - **Suggest/Trigger:** Define follow-up action.
+   - **_Suggest/Trigger:_** Define follow-up action.
 
    ### Status & Configuration
 
-   - **Status:** Toggle active/inactive.
-   - **Keep Done Activities:** Archive or remove after done.
+   - **_Status:_** Toggle active/inactive.
+   - **_Keep Done Activities:_** Archive or remove after done.
 
    ### Delay Information
 
-   - **Delay Count:** Time delay.
-   - **Delay Unit:** Time unit.
-   - **Delay Form:** When delay applies.
+   - **_Delay Count:_** Time delay.
+   - **_Delay Unit:_** Time unit.
+   - **_Delay Form:_** When delay applies.
 
    ![Config. New Leave](../../../images1/time-off/general_activity.png)
 
 3. Actions
 
-- **Create**, **Create & create another**, **Cancel**
+   - **_Create_**
+   - **_Create & create another_**
+   - **_Cancel_**
 
 ---
 

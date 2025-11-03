@@ -75,29 +75,29 @@ const routes = [
         text: 'Operations',
         collapsed: true,
         items: [
-          { text: 'Transfers', link: '/master/inventory/operations/transfers' },
-          { text: 'Adjustments', link: '/master/inventory/operations/adjustments' },
+          { text: 'Transfers', link: '/master/inventories/operations/transfers' },
+          { text: 'Adjustments', link: '/master/inventories/operations/adjustments' },
         ]
       },
       {
         text: 'Products',
         collapsed: true,
         items: [
-          { text: 'Products', link: '/master/inventory/products/products' },
-          { text: 'Packages', link: '/master/inventory/products/packages' },
-          { text: 'Lots/Serial Number', link: '/master/inventory/products/lots-serial-number' },
+          { text: 'Products', link: '/master/inventories/products/products' },
+          { text: 'Packages', link: '/master/inventories/products/packages' },
+          { text: 'Lots/Serial Number', link: '/master/inventories/products/lots-serial-number' },
         ]
       },
       {
         text: 'Configurations',
         collapsed: true,
         items: [
-          { text: 'Warehouse Management', link: '/master/inventory/configurations/warehouse-management' },
-          { text: 'Products', link: '/master/inventory/configurations/products' },
-          { text: 'Delivery', link: '/master/inventory/configurations/delivery' },
+          { text: 'Warehouse Management', link: '/master/inventories/configurations/warehouse-management' },
+          { text: 'Products', link: '/master/inventories/configurations/products' },
+          { text: 'Delivery', link: '/master/inventories/configurations/delivery' },
         ]
       },
-      { text: 'Settings', link: '/master/inventory/settings' },
+      { text: 'Settings', link: '/master/inventories/settings' },
     ]
   },
   {
