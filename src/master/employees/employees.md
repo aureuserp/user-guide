@@ -10,7 +10,7 @@ This feature is used to onboard new employees into the system, manage their role
 
 ### Steps to Create a New Employee
 
-1. Navigate to **Employees >> Employees >> New Employee** as shown below.
+1. Navigate to **`Employees → Employees → New Employee`** as shown below.
 
    ![Employee create](../../../images1/employees/emp_create.png)
 

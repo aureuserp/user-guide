@@ -6,7 +6,7 @@ The **Refunds** module in **AureusERP** allows users to manage vendor-side credi
 
 ### Steps to Create a New Refund
 
-1. Navigate to **Invoices >> Vendors >> Refunds >> New Refund** as shown in the image below.
+1. Navigate to **`Invoices → Vendors → Refunds → New Refund`** as shown in the image below.
 
    ![Create Refund](../../../images/refund_create_1.png)
 

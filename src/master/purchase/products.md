@@ -6,7 +6,7 @@ The **Products** module in the **Purchases** plugin of **AureusERP** allows proc
 
 ### Steps to Create a Product
 
-1. Navigate to **Purchases >> Orders >> Products >> Create Product**
+1. Navigate to **`Purchases → Orders → Products → Create Product`**
 
    ![Create Product](../../../images/create_product.png)
 

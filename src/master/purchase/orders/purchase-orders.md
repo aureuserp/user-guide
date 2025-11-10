@@ -6,7 +6,7 @@ The **Purchase Orders** module in the **Purchases** plugin of **AureusERP** allo
 
 ### Steps to Create a New Purchase Order
 
-1. Navigate to **Purchase >> Orders >> Purchase Orders >> New Purchase Order** as shown in the below image.
+1. Navigate to **`Purchase → Orders → Purchase Orders → New Purchase Order`** as shown in the below image.
 
    ![Create Quotation](../../../images/quotation_create_1.png)
 

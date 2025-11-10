@@ -11,7 +11,7 @@ This guide explains how each of these flows works in AureusERP.
 
 ### 1. Quotation Creation
 
-- Navigate to: **Sales → Orders → Quotations**
+- Navigate to: **`Sales → Orders → Quotations`**
 - Users create a **quotation** with product details, pricing, and terms.
 - This is a draft offer and not a confirmed sale.
 

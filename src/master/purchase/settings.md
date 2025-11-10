@@ -4,7 +4,7 @@ The **Settings** section of the **Purchases** plugin in **AureusERP** allows use
 
 ## Manage Orders
 
-Navigate to **Purchase >> Settings >> Manage Orders** as shown in the below image.
+Navigate to **`Purchase → Settings → Manage Orders`** as shown in the below image.
 
 ![Settings](../../../images/roles.png)
 
@@ -31,7 +31,7 @@ This section helps you control how purchase orders behave in your organization.
 
 ## Manage Products
 
-Navigate to **Purchase >> Settings >> Manage Products** as shown in the below image.
+Navigate to **`Purchase → Settings → Manage Products`** as shown in the below image.
 
 ![Settings](../../../images/roles.png)
 
@@ -58,7 +58,7 @@ This section defines how product variations and measurements are handled during 
 
 After configuring the toggles, navigate to:
 
-Navigate to **Settings >> Roles >> [Select Role] >>edit** as shown in the below image.
+Navigate to **`Settings → Roles → [Select Role] → Edit`** as shown in the below image.
 
 ![Settings](../../../images/roles.png)
 

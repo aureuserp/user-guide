@@ -6,7 +6,7 @@ The **Customer** module in **AureusERP** allows users to manage their clients by
 
 ### Steps to Create a Customer
 
-1.  Navigate to **Invoices >> Customers >> Customers >> New Customer**.
+1.  Navigate to **`Invoices → Customers → Customers → New Customer`**.
 
     ![Create Customer](../../../images1/invoices/customer.png)
 

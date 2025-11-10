@@ -6,7 +6,7 @@ The **Vendors** module in AureusERP enables efficient management of your supplie
 
 ### Steps to Create a Vendor
 
-1.  Navigate to **Invoices >> Vendors >> Vendors >> New Vendor**.
+1.  Navigate to **`Invoices → Vendors → Vendors → New Vendor`**.
 
     ![Create Vendor](../../../images/vendor_create.png)
 

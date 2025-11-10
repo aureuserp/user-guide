@@ -6,7 +6,7 @@ In **AureusERP**, a **Request for Quotation (RFQ)** is the first step in the pur
 
 ### Steps to Create a New RFQ
 
-1. Go to **Purchases >> Orders >> Request For Quotations >> New RFQ**as shown in the below image.
+1. Go to **`Purchases → Orders → Request For Quotations → New RFQ`** as shown in the below image.
 
    ![Create Quotation](../../../images/quotation_create_1.png)
 

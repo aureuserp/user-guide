@@ -6,7 +6,7 @@ The **Customer** module in the **Sales** plugin of **AureusERP** allows users to
 
 ### Steps to Create a Customer
 
-1. Navigate to **Sales >> Orders >> Customers >> New Customer**.
+1. Navigate to **`Sales → Orders → Customers → New Customer`**.
 
    ![Create Customer](../../../images/sale_customer_create.png)
 

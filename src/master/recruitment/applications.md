@@ -6,7 +6,7 @@ The **Applications** section in the **Recruitments Plugin** of **AureusERP** man
 
 ### Navigation Path
 
-Navigate to **Recruitments >> Applications >> Job Positions** as shown in the below image.
+Navigate to **`Recruitments → Applications → Job Positions`** as shown in the below image.
 
 ![Create JA](../../../images1/recruitment/ja_create.png)
 
@@ -20,7 +20,7 @@ Applicants represent individuals who have applied for a job position. Admins can
 
 ### Steps to Create an Applicant
 
-1. Navigate to **Recruitments >> Applications >> Applicants >> New Applicant**.
+1. Navigate to **`Recruitments → Applications → Applicants → New Applicant`**.
    ![Create Applicant](../../../images1/recruitment/create_applicant.png)
 2. A modal form appears:
 
@@ -108,7 +108,7 @@ Candidates are individuals who may apply for jobs. Admins can create candidates 
 
 ### Steps to Create a Candidate
 
-1. Navigate to **Recruitments >> Applications >> Candidates >> New Candidate**.
+1. Navigate to **`Recruitments → Applications → Candidates → New Candidate`**.
    ![Create Candidate](../../../images1/recruitment/create_candidate.png)
 2. Fill in the form:
 

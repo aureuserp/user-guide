@@ -6,7 +6,7 @@ The **Products** module in the **Sales** plugin of **AureusERP** enables users t
 
 ### Steps to Create a Product
 
-1. Navigate to**Sales >> Products >> Create Product**.
+1. Navigate to **`Sales → Products → Create Product`**.
 
    ![Create Product](../../../images/vendor_product.png)
 

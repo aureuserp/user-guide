@@ -6,7 +6,7 @@ The **Vendor** module in the **Purchases** plugin of **AureusERP** is designed t
 
 ### Steps to Create a Vendor
 
-1.  Navigate to **Purchases >> Orders >> Vendors >> New Vendor**.
+1.  Navigate to **`Purchases → Orders → Vendors → New Vendor`**.
 
 2.  Fill out the form with the following details:
 

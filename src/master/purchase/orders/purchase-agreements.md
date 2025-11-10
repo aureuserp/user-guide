@@ -6,7 +6,7 @@ The **Purchase Agreements** module in the **Purchases** plugin of **AureusERP** 
 
 ### Steps to Create a Purchase Agreement
 
-1. Navigate to **Purchase >> Orders >> Purchase Agreements >> New Purchase Agreement**
+1. Navigate to **`Purchase → Orders → Purchase Agreements → New Purchase Agreement`**
 
    ![Create Product](../../../images/create_product.png)
 

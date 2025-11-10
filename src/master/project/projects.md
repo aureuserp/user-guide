@@ -6,7 +6,7 @@ The **Project Plugin** helps you manage your company's projects, assign team mem
 
 ### Steps to Create a Project
 
-1. Navigate to **Project >> Projects >> New Project** as shown in the below image.
+1. Navigate to **`Project → Projects → New Project`** as shown in the below image.
 
    ![Create Project](../../../images1/project/project_create.png)
 

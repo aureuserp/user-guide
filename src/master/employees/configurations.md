@@ -12,7 +12,7 @@ Activity Plans are predefined sets of tasks or interactions assigned to employee
 
 ### Steps to Create an Activity Plan
 
-1. Navigate to **Employees >> Configurations >> Activity Plans >> New Activity Plan** as shown below.
+1. Navigate to **`Employees → Configurations → Activity Plans → New Activity Plan`** as shown below.
 
    ![Config. Activity](../../../images1/employees/config_activity.png)
 
@@ -33,7 +33,7 @@ Working Schedules define employee work hours, days, and flexibility options. Use
 
 ### Steps to Create a Working Schedule
 
-1. Navigate to **Employees >> Configurations >> Working Schedules >> New Working Schedule** as shown below.
+1. Navigate to **`Employees → Configurations → Working Schedules → New Working Schedule`** as shown below.
 
    ![Config. working](../../../images1/employees/config_working.png)
 
@@ -66,7 +66,7 @@ Departure Reasons are recorded when an employee leaves the company, helping with
 
 ### Steps to Create a Departure Reason
 
-1. Navigate to **Employees >> Configurations >> Departure Reasons >> New Departure Reason** as shown below.
+1. Navigate to **`Employees → Configurations → Departure Reasons → New Departure Reason`** as shown below.
 
    ![Config. Departure](../../../images1/employees/config_departure.png)
 
@@ -82,7 +82,7 @@ Tags help categorize employees for quick filtering (e.g., Remote, Full-Time, Man
 
 ### Steps to Create a Tag
 
-1. Navigate to **Employees >> Configurations >> Tags >> New Tag** as shown below.
+1. Navigate to **`Employees → Configurations → Tags → New Tag`** as shown below.
 
    ![Config. Tags](../../../images1/employees/config_tags.png)
 
@@ -101,7 +101,7 @@ Work Locations specify where employees perform their duties, supporting location
 
 ### Steps to Create a Work Location
 
-1. Navigate to **Employees >> Configurations >> Work Locations >> New Work Location** as shown below.
+1. Navigate to **`Employees → Configurations → Work Locations → New Work Location`** as shown below.
 
    ![Config. Work](../../../images1/employees/config_work.png)
 
@@ -123,7 +123,7 @@ Skill Types group various skills to track employee expertise. For example, "Prog
 
 ### Steps to Create a Skill Type
 
-1. Navigate to **Employees >> Configurations >> Skill Types >> New Skill Type** as shown below.
+1. Navigate to **`Employees → Configurations → Skill Types → New Skill Type`** as shown below.
 
    ![Config. Skill](../../../images1/employees/config_skill.png)
 
@@ -159,7 +159,7 @@ Employment Types define job nature like Full-Time, Part-Time, Internship.
 
 ### Steps to Create an Employment Type
 
-1. Navigate to **Employees >> Configurations >> Employment Types >> New Employment Type** as shown below.
+1. Navigate to **`Employees → Configurations → Employment Types → New Employment Type`** as shown below.
 
    ![Config. Employment](../../../images1/employees/config_employment.png)
 
@@ -178,7 +178,7 @@ Job Positions represent roles within the organization (e.g., Software Developer,
 
 ### Steps to Create a Job Position
 
-1. Navigate to **Employees >> Configurations >> Job Positions >> New Job Position** as shown below.
+1. Navigate to **`Employees → Configurations → Job Positions → New Job Position`** as shown below.
 
    ![Config. jb](../../../images1/employees/config_jb.png)
 

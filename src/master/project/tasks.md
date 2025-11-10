@@ -10,7 +10,7 @@ Use the task creation feature to assign responsibilities, plan workloads, track 
 
 ### Steps to Create a Task
 
-1. Navigate to **Project >> Tasks >> New Task** as shown in the below image.
+1. Navigate to **`Project → Tasks → New Task`** as shown in the below image.
 
    ![Create Task](../../../images1/project/project_task_1.png)
 

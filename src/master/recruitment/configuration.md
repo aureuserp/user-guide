@@ -8,7 +8,7 @@ Activity Plans help in planning and organizing steps in the recruitment process,
 
 ### Steps to Create
 
-1. Navigate to **Recruitments >> Configuration >> Activities >> Activity Plans** as shown in the below image.
+1. Navigate to **`Recruitments → Configuration → Activities → Activity Plans`** as shown in the below image.
 
    ![Config. Activity](../../../images1/recruitment/config_activity.png)
 
@@ -30,7 +30,7 @@ Define specific types of recruitment actions (e.g., phone call, meeting, upload 
 
 ### Steps to Create
 
-1. Navigate to **Recruitments >> Configuration >> Activities >> Activity Types** as shown in the below image.
+1. Navigate to **`Recruitments → Configuration → Activities → Activity Types`** as shown in the below image.
 
    ![Config. Activity Types](../../../images1/recruitment/config_activity_types.png)
 
@@ -67,7 +67,7 @@ Tags help categorize applications (e.g., Urgent, Skilled, Fresher)
 
 ### Steps to Create
 
-1. Navigate to **Recruitments >> Configuration >> Applications >> Tags** as shown in the below image.
+1. Navigate to **`Recruitments → Configuration → Applications → Tags`** as shown in the below image.
 
    ![Config. Tags](../../../images1/recruitment/config_tags.png)
 
@@ -84,7 +84,7 @@ Define the academic qualifications applicable for a position.
 
 ### Steps to Create
 
-1. Navigate to **Recruitments >> Configuration >> Applications >> Degrees** as shown in the below image.
+1. Navigate to **`Recruitments → Configuration → Applications → Degrees`** as shown in the below image.
 
    ![Config. Degrees](../../../images1/recruitment/config_degrees.png)
 
@@ -98,7 +98,7 @@ Set predefined reasons for rejecting applicants.
 
 ### Steps to Create
 
-1. Navigate to **Recruitments >> Configuration >> Applications >> Refuse Reasons** as shown in the below image.
+1. Navigate to **`Recruitments → Configuration → Applications → Refuse Reasons`** as shown in the below image.
 
    ![Config. Refuse](../../../images1/recruitment/config_refuse.png)
 
@@ -115,7 +115,7 @@ Define marketing or application mediums (e.g., Social Media, Job Portal).
 
 ### Steps to Create
 
-1. Navigate to **Recruitments >> Configuration >> UTMs >> Mediums** as shown in the below image.
+1. Navigate to **`Recruitments → Configuration → UTMs → Mediums`** as shown in the below image.
 
    ![Config. Mediums](../../../images1/recruitment/config_activity_mediums.png)
 
@@ -129,7 +129,7 @@ Identify sources from where applicants are coming.
 
 ### Steps to Create
 
-1. Navigate to **Recruitments >> Configuration >> UTMs >> Sources** as shown in the below image.
+1. Navigate to **`Recruitments → Configuration → UTMs → Sources`** as shown in the below image.
 
    ![Config. Sources](../../../images1/recruitment/config_sources.png)
 
@@ -143,7 +143,7 @@ Define skills required in employees (e.g., Programming, Communication).
 
 ### Steps to Create
 
-1. Navigate to **Recruitments >> Configuration >> Employees >> Skill Types** as shown in the below image.
+1. Navigate to **`Recruitments → Configuration → Employees → Skill Types`** as shown in the below image.
 
    ![Config. Skills](../../../images1/recruitment/config_skill_types.png)
 
@@ -161,7 +161,7 @@ Organize your company structure by departments (e.g., HR, Development).
 
 ### Steps to Create
 
-1. Navigate to **Recruitments >> Configuration >> Employees >> Departments** as shown in the below image.
+1. Navigate to **`Recruitments → Configuration → Employees → Departments`** as shown in the below image.
 
    ![Config. Departments](../../../images1/recruitment/config_departments.png)
 
@@ -181,7 +181,7 @@ Define steps in the recruitment pipeline (e.g., Applied, Interview, Hired).
 
 ### Steps to Create
 
-1. Navigate to **Recruitments >> Configuration >> Job Positions >> Stages** as shown in the below image.
+1. Navigate to **`Recruitments → Configuration → Job Positions → Stages`** as shown in the below image.
 
    ![Config. Stages](../../../images1/recruitment/config_stages.png)
 
@@ -210,7 +210,7 @@ Define job types like Full-Time, Part-Time, Internship.
 
 ### Steps to Create
 
-1. Navigate to **Recruitments >> Configuration >> Job Positions >> Employment Types** as shown in the below image.
+1. Navigate to **`Recruitments → Configuration → Job Positions → Employment Types`** as shown in the below image.
 
    ![Config. Employment Types](../../../images1/recruitment/config_employment_types.png)
 
@@ -227,7 +227,7 @@ Add and manage open positions in your organization.
 
 ### Steps to Create
 
-1. Navigate to **Recruitments >> Configuration >> Job Positions >> Job Positions** as shown in the below image.
+1. Navigate to **`Recruitments → Configuration → Job Positions → Job Positions`** as shown in the below image.
 
    ![Config. Employment Types](../../../images1/recruitment/config_job_positions.png)
 

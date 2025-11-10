@@ -6,7 +6,7 @@ The **Contacts** plugin in **AureusERP** helps you manage all types of business 
 
 ### Steps to Create a Contact
 
-1. Navigate to **Contacts >> Contacts >> Create Contact**
+1. Navigate to **`Contacts → Contacts → Create Contact`**
 
    ![Create Contact](../../../images1/contacts/1.png)
 

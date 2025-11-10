@@ -6,7 +6,7 @@ The **Vendor Payments** section in AureusERP allows you to efficiently manage ou
 
 ### Steps to Create a New Payment
 
-1. Navigate to **Invoices >> Vendors >> Payments >> New Payment** as shown in the image below.
+1. Navigate to **`Invoices → Vendors → Payments → New Payment`** as shown in the image below.
 
    ![Create Vendor Payment](../../../images/vendor_payment_create_1.png)
 

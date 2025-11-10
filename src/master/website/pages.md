@@ -6,7 +6,7 @@ The **Pages** module in the **Website** plugin of **AureusERP** allows users to 
 
 ### Steps to Create a New Page
 
-1. Navigate to **Website >> Pages >> New Page** as shown in the below image.
+1. Navigate to **`Website → Pages → New Page`** as shown in the below image.
 
 ![Create Page](../../../images/web_page.png)
 

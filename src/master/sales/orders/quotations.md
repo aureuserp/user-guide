@@ -6,7 +6,7 @@ The **Quotation** module in the **Sales** plugin of **AureusERP** allows users t
 
 ### Steps to Create a New Quotation
 
-1. Navigate to **Sales >> Orders >> Quotations >> New Quotation** as shown in the below image.
+1. Navigate to **`Sales → Orders → Quotations → New Quotation`** as shown in the below image.
 
    ![Create Quotation](../../../images/quotation_create_1.png)
 

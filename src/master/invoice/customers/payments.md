@@ -6,7 +6,7 @@ The **Payments** section in AureusERP enables you to efficiently record and mana
 
 ### Steps to Create a New Payment
 
-1. Navigate to **Invoices >> Customers >> Payments >> New Payment** as shown in the below image.
+1. Navigate to **`Invoices → Customers → Payments → New Payment`** as shown in the below image.
 
 ![Create Payment](../../../images/payment_create_1.png)
 

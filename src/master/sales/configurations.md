@@ -6,7 +6,7 @@ The **Sales Configurations** section in **AureusERP** allows administrators to d
 
 ### Activity Plans
 
-- **Navigation**: `Sales >> Configuration >> Activity Plans`
+- **Navigation**: `Sales → Configuration → Activity Plans`
 - **Purpose**: Define reusable plans that consist of sequenced activities assigned to sales teams or users. These can be associated with leads, opportunities, or orders.
 
 #### Create Activity Plan (Modal Form Fields):
@@ -17,7 +17,7 @@ The **Sales Configurations** section in **AureusERP** allows administrators to d
 
 ### Activity Types
 
-- **Navigation**: `Sales >> Configuration >> Activity Types`
+- **Navigation**: `Sales → Configuration → Activity Types`
 - **Purpose**: Configure different types of sales-related tasks or follow-ups (e.g., phone calls, meetings, or file uploads). These tasks can be chained to automate follow-up scheduling.
 
 #### General Information:
@@ -50,7 +50,7 @@ The **Sales Configurations** section in **AureusERP** allows administrators to d
 
 ## 📦 Packaging
 
-- **Navigation**: `Sales >> Configuration >> Packaging >> Product`
+- **Navigation**: `Sales → Configuration → Packaging → Product`
 - **Purpose**: Define packaging standards used during product delivery and invoicing.
 
 #### Create Packaging (Modal Fields):
@@ -65,7 +65,7 @@ The **Sales Configurations** section in **AureusERP** allows administrators to d
 
 ### Categories
 
-- **Navigation**: `Sales >> Configuration >> Products >> Category`
+- **Navigation**: `Sales → Configuration → Products → Category`
 - **Purpose**: Organize products into hierarchies for better navigation, segmentation, and pricing rules.
 
 #### Create Category (Page Fields):
@@ -77,7 +77,7 @@ The **Sales Configurations** section in **AureusERP** allows administrators to d
 
 ### Attributes
 
-- **Navigation**: `Sales >> Configuration >> Products >> Attributes`
+- **Navigation**: `Sales → Configuration → Products → Attributes`
 - **Purpose**: Define product variation options (e.g., size, color) to support variant creation.
 
 #### General Section:
@@ -97,7 +97,7 @@ The **Sales Configurations** section in **AureusERP** allows administrators to d
 
 ### Tags
 
-- **Navigation**: `Sales >> Configuration >> Sales Orders >> Tags`
+- **Navigation**: `Sales → Configuration → Sales Orders → Tags`
 - **Purpose**: Apply color-coded labels to sales orders for better filtering and tracking.
 
 #### Create Tag (Modal Fields):

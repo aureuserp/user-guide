@@ -6,7 +6,7 @@ The **Blog Posts** module in the **Website Plugin** of **AureusERP** allows user
 
 ### Steps to Create a New Blog Post
 
-1. Navigate to **Website >> Blog Posts >> New Post** as shown in the below image.
+1. Navigate to **`Website → Blog Posts → New Post`** as shown in the below image.
 
 ![Create Blog Post](../../../images/blog_post.png)
 

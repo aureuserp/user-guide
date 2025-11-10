@@ -6,7 +6,7 @@ The **Products** module in **AureusERP** (Vendor side) is where users can manage
 
 ### Steps to Create a Product
 
-1. Navigate to **Invoices >> Vendors >> Products >> Create Product**.
+1. Navigate to **`Invoices → Vendors → Products → Create Product`**.
 
    ![Create Product](../../../images/vendor_product.png)
 

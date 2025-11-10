@@ -10,7 +10,7 @@ The **Configurations** section of the **Invoices** plugin in **AureusERP** allow
 
 To set up a bank account:
 
-- Navigate to **Invoices >> Configurations >> Bank Accounts >> New Bank Account**.
+- Navigate to **`Invoices → Configurations → Bank Accounts → New Bank Account`**.
   ![Create Bank](../../../images/bank_create.png)
 - A modal will open with the following fields:
   - **Account Number:** Enter the full bank account number.
@@ -35,7 +35,7 @@ To set up a bank account:
 
 Define international commercial terms (Incoterms):
 
-- Navigate to **Invoices >> Configurations >> Incoterms >> New Incoterms**.
+- Navigate to **`Invoices → Configurations → Incoterms → New Incoterms`**.
   ![Create Bank](../../../images/incoterms_create.png)
 - A modal will open with fields:
 
@@ -54,7 +54,7 @@ Define international commercial terms (Incoterms):
 
 To configure when payments are due:
 
-- Navigate to **Invoices >> Configurations >> Payment Terms >> New Payment Terms**.
+- Navigate to **`Invoices → Configurations → Payment Terms → New Payment Terms`**.
   ![Create Bank](../../../images/payment_term_create.png)
 - Enter the following:
 
@@ -100,7 +100,7 @@ Clicking **Manage Due Terms** redirects to a dedicated management screen:
 
 Organize your invoice line items into categories:
 
-- Navigate to **Invoices >> Configurations >> Categories >> New Categories**.
+- Navigate to **`Invoices → Configurations → Categories → New Categories`**.
   ![Create Bank](../../../images/category.png)
 - Fill the fields:
 
@@ -119,7 +119,7 @@ Organize your invoice line items into categories:
 
 Define product/service attributes for invoicing:
 
-- Navigate to **Invoices >> Configurations >> Attribute >> New Attribute**.
+- Navigate to **`Invoices → Configurations → Attribute → New Attribute`**.
 
 ![Create Bank](../../../images/attribute_create.png)
 
@@ -150,7 +150,7 @@ Depending on the type selected, the fields vary:
 
 Group similar taxes together:
 
-- Navigate to **Invoices >> Configurations >> Tax Groups >> New Tax Groups**.
+- Navigate to **`Invoices → Configurations → Tax Groups → New Tax Groups`**.
   ![Create Bank](../../../images/tax_group_create.png)
 - Fill in the fields:
 
@@ -171,7 +171,7 @@ Group similar taxes together:
 
 Define individual tax rules and formulas:
 
-- Navigate to **Invoices >> Configurations >> Tax >> New Tax**.
+- Navigate to **`Invoices → Configurations → Tax → New Tax`**.
   ![Create Bank](../../../images/tax_create.png)
 - Fill in the general fields:
 

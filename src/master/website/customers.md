@@ -18,7 +18,7 @@ Customers can self-register directly from the website interface.
 
 3. Click on **Sign Up**. The user is now logged in and the customer entry is recorded in the admin panel.
 
-4. Log into the admin dashboard, go to **Website >> Customers**, and verify the newly registered customer.
+4. Log into the admin dashboard, go to **`Website → Customers`**, and verify the newly registered customer.
 
    ![Frontend Customer Registration](../../../images/customer_create_frontend.png)
 
@@ -35,7 +35,7 @@ From the admin panel, you can now:
 
 ### Steps to Create a Customer
 
-1. Navigate to **Website >> Customers >> New Customer**
+1. Navigate to **`Website → Customers → New Customer`**
 
    ### General Section
 

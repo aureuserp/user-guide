@@ -6,7 +6,7 @@ The **Departments** feature in the **Employees** plugin of **AureusERP** allows 
 
 ### Steps to Create a New Department
 
-1. Navigate to **Employees >> Departments >> New Department** as shown below.
+1. Navigate to **`Employees → Departments → New Department`** as shown below.
 
 ![Department create](../../../images1/employees/dep_create.png)
 

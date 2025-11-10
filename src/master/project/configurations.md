@@ -8,7 +8,7 @@ Project stages represent the lifecycle or progression steps of a project. They h
 
 **How to Create:**
 
-- Navigate to **Project >> Configurations >> Project Stages** as shown in the below image.
+- Navigate to **`Project → Configurations → Project Stages`** as shown in the below image.
 
 ![Project Stage](../../../images1/project/project_stage.png)
 
@@ -27,7 +27,7 @@ Task stages define the steps or statuses a task moves through during its lifecyc
 
 **How to Create:**
 
-- Navigate to **Project >> Configurations >> Task Stages** as shown in the below image.
+- Navigate to **`Project → Configurations → Task Stages`** as shown in the below image.
   ![Task Stage](../../../images1/project/task_stage.png)
 - Click on **New Task Stage**
 - A modal appears with the following fields:
@@ -45,7 +45,7 @@ Milestones are key goals or checkpoints within a project that indicate significa
 
 **How to Create:**
 
-- Navigate to **Project >> Configurations >> Milestones** as shown in the below image.
+- Navigate to **`Project → Configurations → Milestones`** as shown in the below image.
   ![Milestone](../../../images1/project/milestone_create.png)
 - Click on **New Milestone**
 - A modal appears with the following fields:
@@ -65,7 +65,7 @@ Tags are labels that help in categorizing and grouping tasks and projects for be
 
 **How to Create:**
 
-- Navigate to **Project >> Configurations >> Tags** as shown in the below image.
+- Navigate to **`Project → Configurations → Tags`** as shown in the below image.
 
 ![Tag](../../../images1/project/tag_create.png)
 
@@ -85,7 +85,7 @@ Activity Plans define structured task plans that outline what needs to be done w
 
 **How to Create:**
 
-- Navigate to **Project >> Configurations >> Activity Plans** as shown in the below image.
+- Navigate to **`Project → Configurations → Activity Plans`** as shown in the below image.
   ![Tag](../../../images1/project/activity_plans_create.png)
 - Click on **New Activity Plan**
 - A modal appears with the following fields:

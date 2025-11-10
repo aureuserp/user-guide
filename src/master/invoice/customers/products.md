@@ -6,7 +6,7 @@ The **Products** module in **AureusERP** is where users can manage their goods a
 
 ### Steps to Create a Product
 
-1. Navigate to **Invoices >> Customers >> Products >> Create Product**.
+1. Navigate to **`Invoices → Customers → Products → Create Product`**.
 
    ![Create Product](../../../images1/invoices/product.png)
 

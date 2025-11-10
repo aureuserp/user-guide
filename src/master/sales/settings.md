@@ -4,7 +4,7 @@ Before accessing any functionality in the **Sales Plugin**, permissions must be 
 
 ## 🔐 Managing Roles & Permissions
 
-Navigate to **Settings >> Roles >> \[Select Role] >> Edit** as shown in the image below.
+Navigate to **`Settings → Roles → [Select Role] → Edit`** as shown in the image below.
 
 ![Settings](../../../images/roles.png)
 

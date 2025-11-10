@@ -4,7 +4,7 @@ Before accessing any functionality in the **Invoices Plugin**, permissions must 
 
 ## Managing Roles & Permissions
 
-Navigate to **Settings >> Roles >> [Select Role] >>edit** as shown in the below image.
+Navigate to **`Settings → Roles → [Select Role] → Edit`** as shown in the below image.
 
 ![Settings](../../../images/roles.png)
 

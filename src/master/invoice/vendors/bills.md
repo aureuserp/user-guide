@@ -6,7 +6,7 @@ The **Bills** module in **AureusERP** is designed to help businesses accurately 
 
 ### Steps to Create a New Bill
 
-1. Navigate to **Invoices >> Vendors >> Bills >> New Bill** as shown in the image below.
+1. Navigate to **`Invoices → Vendors → Bills → New Bill`** as shown in the image below.
 
    ![Create Bill](../../../images/bill_create_1.png)
 

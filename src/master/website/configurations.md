@@ -8,7 +8,7 @@ Categories help group blog posts under common topics. Every blog post should be 
 
 ### Steps to Create a Category
 
-1. Navigate to **Website >> Configurations >> Categories**.
+1. Navigate to **`Website → Configurations → Categories`**.
 
 2. Click on **New Category**. A modal form will appear with the following fields:
 
@@ -30,7 +30,7 @@ Tags help in filtering and organizing blog posts based on specific keywords or t
 
 ### Steps to Create a Tag
 
-1. Navigate to **Website >> Configurations >> Tags**.
+1. Navigate to **`Website → Configurations → Tags`**.
 
 2. Click on **New Tag**. A modal will open with the following fields:
 

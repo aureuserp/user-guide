@@ -20,7 +20,7 @@ Use this when you want to cancel or adjust a previously posted invoice.
 
 ### Steps to Create
 
-1. Navigate to **Invoices >> Customers >> Invoices** as shown in the below image.
+1. Navigate to **`Invoices → Customers → Invoices`** as shown in the below image.
 
    ![Create Credit Note](../../../images1/invoices/creditnote.png)
 
@@ -49,7 +49,7 @@ Use this when:
 
 ### Steps to Create
 
-1. Navigate to **Invoices >> Customers >> Credit Notes >> New Credit Note** as shown in the below image.
+1. Navigate to **`Invoices → Customers → Credit Notes → New Credit Note`** as shown in the below image.
 
    ![Create Credit Note](../../../images1/invoices/creditnote_create.png)
 

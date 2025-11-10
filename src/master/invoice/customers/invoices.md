@@ -6,7 +6,7 @@ The Invoice module in AureusERP allows users to generate professional invoices w
 
 ### Steps to Create a New Invoice
 
-1.  Navigate to **Invoices >> Customers >> New Invoice** as shown in the below image.
+1.  Navigate to **`Invoices → Customers → New Invoice`** as shown in the below image.
 
     ![Create Invoice](../../../images1/invoices/invoices.png)
 

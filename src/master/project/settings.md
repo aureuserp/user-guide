@@ -4,7 +4,7 @@ The **Project Plugin Settings** in AureusERP allow you to customize how projects
 
 ## Manage Tasks Settings
 
-1. Navigate to **Project >> Settings >> Manage Tasks**
+1. Navigate to **`Project → Settings → Manage Tasks`**
 
    ![Project Setting](../../../images1/project/setting.png)
 
@@ -28,7 +28,7 @@ The **Project Plugin Settings** in AureusERP allow you to customize how projects
 
 ## Manage Time Settings
 
-1. Navigate to **Project >> Settings >> Manage Time**
+1. Navigate to **`Project → Settings → Manage Time`**
 
    ![Manage Task Setting](../../../images1/project/setting_time.png)
 
@@ -49,7 +49,7 @@ The **Project Plugin Settings** in AureusERP allow you to customize how projects
 
 To control who can access and manage features in the Project Plugin, configure roles and permissions properly.
 
-1. Navigate to **Settings >> Roles & Permissions >> Edit Role (e.g., Project Manager)** as shown in the below image.
+1. Navigate to **`Settings → Roles & Permissions → Edit Role (e.g., Project Manager)`** as shown in the below image.
 
 ![Settings Roles](../../../images1/project/project_settings_role.png)
 
