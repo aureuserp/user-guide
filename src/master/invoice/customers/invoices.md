@@ -1,6 +1,8 @@
 # Invoices
 
-The Invoice module in AureusERP allows users to generate professional invoices with detailed control over billing, product lines, accounting standards, and marketing insights. Below is the **step-by-step** guide to creating an invoice.
+The Invoice module in **AureusERP** allows users to generate professional invoices with detailed control over billing, product lines, accounting standards, and marketing insights.
+
+Below is the **step-by-step** guide to creating an invoice.
 
 ## Invoice Creation
 
@@ -10,7 +12,7 @@ The Invoice module in AureusERP allows users to generate professional invoices w
 
     ![Create Invoice](../../../images1/invoices/invoices.png)
 
-2.  Filling up fields as per the **section** defeind below :
+2.  Fill up the fields as per the **sections** defined below.
 
     ### General Section
 
@@ -24,16 +26,16 @@ The Invoice module in AureusERP allows users to generate professional invoices w
 
     ![Create Invoice](../../../images1/invoices/invoices_create.png)
 
-    ### 📦 Invoice Lines
+    ### Invoice Lines
 
     Use this section to add products or services being billed.
 
-    - **_➕ Add Product:_** Click to add a new invoice line. The following fields will appear:
+    - **_Add Product:_** Click to add a new invoice line. The following fields will appear:
 
       - **_Product:_** Select the product or service.
       - **_Quantity:_** Enter the number of units or dozens.
-      - **_Unit:_** **Units** or **Dozens**.
-      - **_Taxes_**: Specify applicable tax rates.
+      - **_Unit:_** Select **Units** or **Dozens**.
+      - **_Taxes:_** Specify applicable tax rates.
       - **_Discount Percentage:_** Apply discount if applicable.
       - **_Unit Price:_** Input price per unit.
       - **_Subtotal:_** Automatically calculated as `(Quantity x Unit Price - Discount) + Taxes`.
@@ -52,7 +54,7 @@ The Invoice module in AureusERP allows users to generate professional invoices w
 
       ![Create Invoice](../../../images1/invoices/invoices_other.png)
 
-    - **Accounting Subsection**
+    - **Accounting**
 
       - **_Incoterm:_** Select international commercial terms (e.g., FOB, CIF).
       - **_Incoterm Location:_** Specify the geographical location tied to the Incoterm.
@@ -62,14 +64,14 @@ The Invoice module in AureusERP allows users to generate professional invoices w
 
       ![Create Invoice](../../../images1/invoices/invoices_accounting.png)
 
-    - **Additional Information Subsection**
+    - **Additional Information**
 
       - **_Company:_** Select the company issuing the invoice (multi-company support).
       - **_Currency:_** Choose the currency for the invoice. USD is selected by default.
 
       ![Create Invoice](../../../images1/invoices/invoices_additional.png)
 
-    - **Marketing Subsection**
+    - **Marketing**
 
       - **_Campaign:_** Tag this invoice with an associated marketing campaign.
       - **_Medium:_** Identify the medium (e.g., Email, Social Media).
@@ -77,13 +79,13 @@ The Invoice module in AureusERP allows users to generate professional invoices w
 
       ![Create Invoice](../../../images1/invoices/invoices_marketing.png)
 
-3.  Action Buttons
+3.  **Action Buttons**
 
     At the bottom of the form, you will find:
 
-    - **Create**: Saves and creates the invoice.
-    - **Create & Create Another**: Saves current invoice and opens a new invoice form.
-    - **Cancel**: Discards the changes and exits the invoice creation screen.
+    - **_Create:_** Saves and creates the invoice.
+    - **_Create & Create Another:_** Saves current invoice and opens a new invoice form.
+    - **_Cancel:_** Discards the changes and exits the invoice creation screen.
 
 ## Invoice View (Post-Creation)
 
@@ -91,10 +93,10 @@ After clicking **Create**, the system redirects to the **Invoice View** page.
 
 ### Initial Actions (When Invoice is in Draft)
 
-- **Edit**: Modify invoice fields.
-- **Confirm**: Finalize the invoice and change its status from **Draft** to **Posted**.
-- **Cancel**: Mark the invoice as cancelled.
-- **Delete**: Permanently remove the invoice.
+- **_Edit:_** Modify invoice fields.
+- **_Confirm:_** Finalize the invoice and change its status from **Draft** to **Posted**.
+- **_Cancel:_** Mark the invoice as cancelled.
+- **_Delete:_** Permanently remove the invoice.
 
 ![Create Invoice](../../../images1/invoices/invoices_view.png)
 
@@ -102,22 +104,24 @@ After clicking **Create**, the system redirects to the **Invoice View** page.
 
 Once the invoice is **Confirmed** (status becomes Posted), the following actions become available:
 
-- **Pay**: Opens a modal window with the following fields:
+- **_Pay:_** Opens a modal window with the following fields:
 
-  - **Amount\***: The invoice amount to be paid.
-  - **Payment Date\***: Date of payment.
-  - **Partner Bank Account\***: Select bank account from dropdown.
-  - **Payment Method\***: Choose from available methods.
-  - **Communication\***: Auto-filled invoice number (e.g., INV/2025/05/13).
+  - **_Amount:_** The invoice amount to be paid.
+  - **_Payment Date:_** Date of payment.
+  - **_Partner Bank Account:_** Select bank account from dropdown.
+  - **_Payment Method:_** Choose from available methods.
+  - **_Communication:_** Auto-filled invoice number (e.g., INV/2025/05/13).
 
   > 🛈 Clicking **Submit** updates invoice status to **Paid**.
   > ![Create Invoice](../../../images1/invoices/invoices_pay_modal.png)
 
-- **Reset to Draft**: Revert the invoice back to **Draft** state.
-- **Preview**: Display a printable version of the invoice.
-- **Credit Note**: Create a credit note with **Reason** and **Date**.
-- **Delete**: Remove the invoice if needed.
+- **_Reset to Draft:_** Revert the invoice back to **Draft** state.
+- **_Preview:_** Display a printable version of the invoice.
+- **_Credit Note:_** Create a credit note with **Reason** and **Date**.
+- **_Delete:_** Remove the invoice if needed.
 
 ![Create Invoice](../../../images1/invoices/invoices_pay.png)
 
----
+## Summary
+
+The **Invoice** module in **AureusERP** allows users to generate professional invoices with detailed control over billing, product lines, accounting standards, and marketing insights. By following the steps outlined in this guide, users can efficiently create and manage invoices, ensuring accurate billing and record-keeping.

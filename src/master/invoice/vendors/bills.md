@@ -6,13 +6,13 @@ The **Bills** module in **AureusERP** is designed to help businesses accurately 
 
 ### Steps to Create a New Bill
 
-1. Navigate to **`Invoices → Vendors → Bills → New Bill`** as shown in the image below.
+1. Navigate to **`Invoices → Vendors → Bills`** as shown in the image below.
 
-   ![Create Bill](../../../images/bill_create_1.png)
+   ![Create Bill](../../../images1/invoices/bill_create_1.png)
 
 2. Fill in the fields according to the following sections:
 
-   ### 🧾 General Section
+   ### General Section
 
    This section captures essential metadata for the vendor bill:
 
@@ -26,13 +26,13 @@ The **Bills** module in **AureusERP** is designed to help businesses accurately 
    - **_Payment Term:_** Select a pre-defined duration for when the bill should be paid (e.g., Net 30, Immediate).
      > 🛈 When a payment term is selected, the **Due Date** field will be automatically replaced with the calculated date based on the selected term.
 
-   ![Create Bill](../../../images/bill_create_general.png)
+   ![Create Bill](../../../images1/invoices/bill_create_general.png)
 
-   ### 📦 Invoice Lines
+   ### Invoice Lines
 
    Use this section to enter purchased goods or services from the vendor.
 
-   - **_➕ Add Product:_** Click to add a bill line item. The following fields will appear:
+   - **_Add Product:_** Click to add a bill line item. The following fields will appear:
 
      - **_Product:_** Choose the purchased item or service.
      - **_Quantity:_** Specify the number of units or amount.
@@ -42,73 +42,70 @@ The **Bills** module in **AureusERP** is designed to help businesses accurately 
      - **_Cost:_** unit price of the product.
      - **_Subtotal:_** Auto-calculated as `(Quantity × Cost - Discount) + Taxes`.
 
-   ![Create Bill](../../../images/vendor_create_invoicelines.png)
+   ![Create Bill](../../../images1/invoices/vendor_create_invoicelines.png)
 
-   ### 📝 Other Information
+   ### Other Information
 
-   - **Accounting Subsection**
+   - **Accounting**
 
      - **_Incoterm:_** Select applicable international trade terms (e.g., FOB, CIF).
      - **_Incoterm Location:_** Define the location tied to the selected Incoterm.
 
-   - **Secured Subsection**
+   - **Secured**
 
      - **_Payment Method:_** Specify the method of vendor payment (e.g., Wire Transfer).
      - **_Auto Post:_** Enable to automatically post the bill upon creation.
      - **_Checked:_** Toggle for internal review or approval.
 
-   - **Additional Information Subsection**
+   - **Additional Information**
 
      - **_Company:_** Select the company paying the bill (for multi-company setup).
      - **_Currency:_** Choose the currency of the bill.
 
-   ![Create Bill](../../../images/bill_create_other.png)
+   ![Create Bill](../../../images1/invoices/bill_create_other.png)
 
-3. Action Buttons
+3. **Action Buttons**
 
-   At the bottom of the form, the following actions are available:
+At the bottom of the form, the following actions are available:
 
-   - **Create**: Saves and creates the bill.
-   - **Create & Create Another**: Saves current bill and opens a fresh form.
-   - **Cancel**: Discards any entries and exits the bill creation screen.
+- **_Create:_** Saves and creates the bill.
+- **_Create & Create Another:_** Saves current bill and opens a fresh form.
+- **_Cancel:_** Discards any entries and exits the bill creation screen.
 
 ## Bill View (Post-Creation)
 
 After clicking **Create**, the system opens the **Bill View** page.
 
-### 🛠️ Initial Actions (When Bill is in Draft)
+### Initial Actions (When Bill is in Draft)
 
-- **Edit**: Open and modify bill fields.
-- **Confirm**: Finalize the bill and and change its status from **Draft** to **Posted**.
-- **Cancel**: Mark the bill as cancelled.
-- **Delete**: Remove the bill permanently.
+- **_Edit:_** Open and modify bill fields.
+- **_Confirm:_** Finalize the bill and change its status from **Draft** to **Posted**.
+- **_Cancel:_** Mark the bill as cancelled.
+- **_Delete:_** Remove the bill permanently.
 
-![View Bill](../../../images/bill_view.png)
+![View Bill](../../../images1/invoices/bill_view.png)
 
 ## Bill After Confirmation
 
 Once the bill is **Confirmed** (status becomes Posted), the following actions become available:
 
-- **Pay**: Opens a modal window with the following fields:
+- **_Pay:_** Opens a modal window with the following fields:
 
-  - **Amount\***: The bill amount to be paid.
-  - **Payment Date\***: Date of payment.
-  - **Partner Bank Account\***: Select bank account from dropdown.
-  - **Payment Method\***: Choose from available methods.
-  - **Communication\***: Auto-filled Bill number (e.g., BILL/2025/05/13).
+  - **_Amount:_** The bill amount to be paid.
+  - **_Payment Date:_** Date of payment.
+  - **_Partner Bank Account:_** Select bank account from dropdown.
+  - **_Payment Method:_** Choose from available methods.
+  - **_Communication:_** Auto-filled Bill number (e.g., BILL/2025/05/13).
 
   > 🛈 Clicking **Submit** updates bill status to **Paid**.
-  > ![Create Invoice](../../../images/bill_pay.png)
+  > ![Create Invoice](../../../images1/invoices/bill_pay.png)
 
-- **Reset to Draft**: Revert the bill back to **Draft** state.
-- **Credit Note**: Create a credit note with **Reason** and **Date**.
-- **Delete**: Remove the bill if needed.
+- **_Reset to Draft:_** Revert the bill back to **Draft** state.
+- **_Credit Note:_** Create a credit note with **Reason** and **Date**.
+- **_Delete:_** Remove the bill if needed.
 
-![Create Invoice](../../../images/bill_confirm.png)
+![Create Invoice](../../../images1/invoices/bill_confirm.png)
 
----
+## Summary
 
-<!-- <video controls style="max-width: 100%; height: auto;">
-  <source src="../../../videos/1.webm" type="video/webm" allow="accelerometer; autoplay;">
-  Your browser does not support the video tag.
-</video> -->
+The **Bills** module in **AureusERP** streamlines vendor expense management by providing tools to create, track, and settle bills efficiently. By following the outlined steps, finance teams can ensure accurate recording of vendor obligations, timely payments, and maintain healthy supplier relationships.

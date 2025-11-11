@@ -1,56 +1,56 @@
 # Vendor Payments
 
-The **Vendor Payments** section in AureusERP allows you to efficiently manage outgoing payments to vendors, settle bills, and maintain accurate records of vendor transactions. Below is the **step-by-step** guide to creating a Vendor Payment.
+The **Vendor Payments** section in **AureusERP** allows you to efficiently manage outgoing payments to vendors, settle bills, and maintain accurate records of vendor transactions. Below is the **step-by-step** guide to creating a Vendor Payment.
 
 ## Payment Creation
 
 ### Steps to Create a New Payment
 
-1. Navigate to **`Invoices → Vendors → Payments → New Payment`** as shown in the image below.
+1. Navigate to **`Invoices → Vendors → Payments`** as shown in the image below.
 
-   ![Create Vendor Payment](../../../images/vendor_payment_create_1.png)
+   ![Create Vendor Payment](../../../images1/invoices/vendor_payment_create_1.png)
 
 2. Fill in the fields according to the following section:
 
-### Payment Form Fields
+   ### Payment Form Fields
 
-- **Payment Type** (**Send** / **Receive**)
-  - **_Send:_** Record outgoing payments to vendors (e.g., bill settlements).
-  - **_Receive:_** Record refunds or payment returns from vendors.
-- **Vendor:** Choose from the list of registered vendors.
-- **Amount:** Enter the total amount being sent or received.
-- **Vendor Bank Account:** Select the bank account associated with the vendor.
-- **Payment Method:** Choose how the payment is made (Bank, Cash, Cheque, etc.).
-- **Date:** The date of the transaction.
-- **Memo:** Add optional notes or internal references.
+   - **_Payment Type:_** (**_Send_** / **_Receive_**)
+     - **_Send:_** Record outgoing payments to vendors (e.g., bill settlements).
+     - **_Receive:_** Record refunds or payment returns from vendors.
+   - **_Vendor:_** Choose from the list of registered vendors.
+   - **_Amount:_** Enter the total amount being sent or received.
+   - **_Vendor Bank Account:_** Select the bank account associated with the vendor.
+   - **_Payment Method:_** Choose how the payment is made (Bank, Cash, Cheque, etc.).
+   - **_Date:_** The date of the transaction.
+   - **_Memo:_** Add optional notes or internal references.
 
-![Vendor Payment Form](../../../images/vendor_payment_create_form.png)
+   ![Vendor Payment Form](../../../images1/invoices/vendor_payment_create_form.png)
 
 ## Payment Lifecycle & States
 
 Once you click **Create**, the vendor payment record is saved and redirects to the **View Payment** page. The payment enters the **`Draft`** state.
 
-### 🎯 Payment States
+### Payment States
 
-- **Draft** – The initial state when the payment is created.
-- **In Process** – After clicking **Confirm**, the payment begins processing.
-- **Paid** – Indicates the payment was successfully made and reconciled with a bill.
-- **Not Paid** – Indicates payment failed or remains unpaid.
-- **Cancelled** – Payment was intentionally cancelled before processing.
-- **Rejected** – The payment failed system checks or was declined.
+- **_Draft_** – The initial state when the payment is created.
+- **_In Process_** – After clicking **_Confirm_**, the payment begins processing.
+- **_Paid_** – Indicates the payment was successfully made and reconciled with a bill.
+- **_Not Paid_** – Indicates payment failed or remains unpaid.
+- **_Cancelled_** – Payment was intentionally cancelled before processing.
+- **_Rejected_** – The payment failed system checks or was declined.
 
 ## Available Actions (Post-Creation)
 
 From the **View Payment** page, you can perform the following actions:
 
-- **Edit** – Modify payment details (only available in the `Draft` state).
-- **Delete** – Remove the payment before it is confirmed.
-- **Confirm** – Move the payment to `In Process` and initiate payment settlement.
-- **Cancel** – Cancel the payment at any point before completion.
+- **_Edit:_** Modify payment details (only available in the `Draft` state).
+- **_Delete:_** Remove the payment before it is confirmed.
+- **_Confirm:_** Move the payment to `In Process` and initiate payment settlement.
+- **_Cancel:_** Cancel the payment at any point before completion.
 
-  ![Vendor Payment View](../../../images/vendor_payment_create_view.png)
+  ![Vendor Payment View](../../../images1/invoices/vendor_payment_create_view.png)
 
-## 🧾 Bill Settlement Logic
+## Bill Settlement Logic
 
 If a payment is linked to a vendor bill, AureusERP attempts to automatically reconcile it with open bills for the selected vendor.
 
@@ -61,20 +61,24 @@ Reconciliation is automatic based on vendor and open bill matching. Manual match
 
 ## Example Flow
 
-1. **Create Vendor Payment**
+1. **_Create Vendor Payment_**
 
-   - Type: `Send`
-   - Amount: `$2,500`
-   - Linked to: `BILL/2025/05/207`
+   - **_Type:_** `Send`
+   - **_Amount:_** `$2,500`
+   - **_Linked to:_** `BILL/2025/05/207`
 
-2. **Confirm Payment**
+2. **_Confirm Payment_**
 
    - State changes to `In Process`
 
-3. **Automatic Bill Matching**
+3. **_Automatic Bill Matching_**
 
    - The system matches the payment to `BILL/2025/05/207`.
 
-4. **Settlement Complete**
+4. **_Settlement Complete_**
    - Bill is marked as `Paid`
    - Payment status updated to `Paid`
+
+## Summary
+
+The **Vendor Payments** module in **AureusERP** provides a streamlined process for managing payments to vendors, ensuring accurate tracking and reconciliation with vendor bills. By following the outlined steps for creation, viewing, and confirmation, users can efficiently handle vendor payments while maintaining financial integrity within the system.

@@ -6,13 +6,13 @@ The **Refunds** module in **AureusERP** allows users to manage vendor-side credi
 
 ### Steps to Create a New Refund
 
-1. Navigate to **`Invoices → Vendors → Refunds → New Refund`** as shown in the image below.
+1. Navigate to **`Invoices → Vendors → Refunds`** as shown in the image below.
 
-   ![Create Refund](../../../images/refund_create_1.png)
+   ![Create Refund](../../../images1/invoices/refund_create_1.png)
 
 2. Fill in the fields according to the following sections:
 
-   ### 🧾 General Section
+   ### General Section
 
    This section captures essential metadata for the refund:
 
@@ -25,13 +25,13 @@ The **Refunds** module in **AureusERP** allows users to manage vendor-side credi
    - **_Payment Term:_** Select a pre-defined duration for refund processing (e.g., Net 30, Immediate).
      > 🛈 When a payment term is selected, the **Due Date** field will be automatically replaced with the calculated date based on the selected term.
 
-   ![Create Refund](../../../images/refund_create_general.png)
+   ![Create Refund](../../../images1/invoices/refund_create_general.png)
 
-   ### 📦 Invoice Lines
+   ### Invoice Lines
 
    Use this section to enter the returned goods or services from the vendor.
 
-   - **_➕ Add Product:_** Click to add a refund line item. The following fields will appear:
+   - **_Add Product:_** Click to add a refund line item. The following fields will appear:
 
      - **_Product:_** Choose the returned item or credited service.
      - **_Quantity:_** Specify the number of units or amount.
@@ -41,65 +41,69 @@ The **Refunds** module in **AureusERP** allows users to manage vendor-side credi
      - **_Cost:_** Unit cost as per the bill.
      - **_Subtotal:_** Auto-calculated as `(Quantity × Cost - Discount) + Taxes`.
 
-   ![Create Refund](../../../images/refund_create_invoicelines.png)
+   ![Create Refund](../../../images1/invoices/refund_create_invoicelines.png)
 
-   ### 📝 Other Information
+   ### Other Information
 
-   - **Accounting Subsection**
+   - **Accounting**
 
      - **_Incoterm:_** Select applicable international trade terms (e.g., FOB, CIF).
      - **_Incoterm Location:_** Define the location tied to the selected Incoterm.
 
-   - **Secured Subsection**
+   - **Secured**
 
      - **_Payment Method:_** Specify how the refund will be processed.
      - **_Auto Post:_** Enable to automatically post the refund upon creation.
      - **_Checked:_** Toggle for internal review or approval.
 
-   - **Additional Information Subsection**
+   - **Additional Information**
 
      - **_Company:_** Select the company receiving the refund.
      - **_Currency:_** Choose the currency of the refund.
 
-   ![Create Refund](../../../images/bill_create_other.png)
+   ![Create Refund](../../../images1/invoices/bill_create_other1.png)
 
-3. Action Buttons
+3. **Action Buttons**
 
-   At the bottom of the form, the following actions are available:
+At the bottom of the form, the following actions are available:
 
-   - **Create**: Saves and creates the refund.
-   - **Create & Create Another**: Saves current refund and opens a fresh form.
-   - **Cancel**: Discards any entries and exits the refund creation screen.
+- **_Create:_** Saves and creates the refund.
+- **_Create & Create Another:_** Saves current refund and opens a fresh form.
+- **_Cancel:_** Discards any entries and exits the refund creation screen.
 
 ## Refund View (Post-Creation)
 
 After clicking **Create**, the system opens the **Refund View** page.
 
-### 🛠️ Initial Actions (When Refund is in Draft)
+### Initial Actions (When Refund is in Draft)
 
-- **Edit**: Open and modify refund fields.
-- **Confirm**: Finalize the refund and change its status from **Draft** to **Posted**.
-- **Cancel**: Mark the refund as cancelled.
-- **Delete**: Remove the refund permanently.
+- **_Edit:_** Open and modify refund fields.
+- **_Confirm:_** Finalize the refund and change its status from **Draft** to **Posted**.
+- **_Cancel:_** Mark the refund as cancelled.
+- **_Delete:_** Remove the refund permanently.
 
-![View Refund](../../../images/refund_view.png)
+![View Refund](../../../images1/invoices/refund_view1.png)
 
 ## Refund After Confirmation
 
 Once the refund is **Confirmed** (status becomes Posted), the following actions become available:
 
-- **Pay**: Opens a modal window with the following fields:
+- **_Pay:_** Opens a modal window with the following fields:
 
-  - **Amount\***: The refund amount to be received or adjusted.
-  - **Payment Date\***: Date the refund is expected or received.
-  - **Partner Bank Account\***: Select vendor's bank account from dropdown.
-  - **Payment Method\***: Choose from available refund methods.
-  - **Communication\***: Auto-filled Refund number (e.g., RBILL/2025/05/13).
+  - **_Amount:_** The refund amount to be received or adjusted.
+  - **_Payment Date:_** Date the refund is expected or received.
+  - **_Partner Bank Account:_** Select vendor's bank account from dropdown.
+  - **_Payment Method:_** Choose from available refund methods.
+  - **_Communication:_** Auto-filled Refund number (e.g., RBILL/2025/05/13).
 
   > 🛈 Clicking **Submit** updates refund status to **Paid**.
-  > ![Create Refund](../../../images/refund_pay.png)
+  > ![Create Refund](../../../images1/invoices/refund_pay.png)
 
 - **Reset to Draft**: Revert the refund back to **Draft** state.
 - **Delete**: Remove the refund if needed.
 
-![Confirmed Refund](../../../images/refund_confirm.png)
+![Confirmed Refund](../../../images1/invoices/refund_confirm.png)
+
+## Summary
+
+The **Refunds** module in **AureusERP** provides a structured approach to managing vendor refunds, ensuring accurate tracking and reconciliation with vendor bills. By following the outlined steps for creation, viewing, and confirmation, users can efficiently handle refund processes while maintaining financial integrity within the system.

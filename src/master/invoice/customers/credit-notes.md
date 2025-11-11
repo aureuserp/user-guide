@@ -55,7 +55,7 @@ Use this when:
 
 2. Fill in the form as per the following sections:
 
-   ### 🧾 General Section
+   ### General Section
 
    This section collects general information about the credit note.
 
@@ -67,9 +67,9 @@ Use this when:
 
    ![Create Credit Note](../../../images1/invoices/creditnote_general.png)
 
-   ### 📦 Invoice Lines
+   ### Invoice Lines
 
-   - Click the **➕ Add Product** button to add line items. The following fields will appear:
+   - Click the **Add Product** button to add line items. The following fields will appear:
 
      - **_Product:_** Select the product to be credited.
      - **_Quantity:_** Enter the quantity.
@@ -81,9 +81,9 @@ Use this when:
 
      ![Create Credit Note](../../../images1/invoices/creditnote_invoiceline.png)
 
-   ### 📝 Other Information
+   ### Other Information
 
-   - **Invoice Subsection**
+   - **Invoice**
 
      - **_Sales Person:_** Select the responsible user.
      - **_Customer Reference:_** Enter customer-side reference.
@@ -93,7 +93,7 @@ Use this when:
 
      ![Create Credit Note](../../../images1/invoices/creditnote_other.png)
 
-   - **Accounting Subsection**
+   - **Accounting**
 
      - **_Incoterm:_** Choose international trade terms.
      - **_Incoterm Location:_** Enter specific location.
@@ -103,14 +103,14 @@ Use this when:
 
      ![Other Info - Accounting](../../../images1/invoices/creditnote_accounting.png)
 
-   - **Additional Information Subsection**
+   - **Additional Information**
 
      - **_Company:_** Select issuing company (multi-company supported).
      - **_Currency:_** Default is USD but can be changed.
 
      ![Other Info - Additional](../../../images1/invoices/creditnote_additional.png)
 
-   - **Marketing Subsection**
+   - **Marketing**
 
      - **_Campaign:_** Link a marketing campaign if applicable.
      - **_Medium:_** Specify marketing medium.
@@ -118,24 +118,24 @@ Use this when:
 
      ![Other Info - Marketing](../../../images1/invoices/creditnote_marketing.png)
 
-3. Action Buttons
+3. **Action Buttons**
 
    At the bottom of the form, you will find:
 
-   - **Create:** Save and create the credit note.
-   - **Create & Create Another:** Save and open a new blank credit note.
-   - **Cancel:** Exit without saving.
+   - **_Create:_** Save and create the credit note.
+   - **_Create & Create Another:_** Save and open a new blank credit note.
+   - **_Cancel:_** Exit without saving.
 
 ## Credit Note View (Post-Creation)
 
 After clicking **Create**, the system redirects to the **Credit Note View** page.
 
-### 🛠️ Initial Actions (While in Draft)
+### Initial Actions (While in Draft)
 
-- **Edit:** Modify credit note.
-- **Confirm:** Finalize and post the credit note.
-- **Cancel:** Mark the credit note as cancelled.
-- **Delete:** Remove the credit note.
+- **_Edit:_** Modify credit note.
+- **_Confirm:_** Finalize and post the credit note.
+- **_Cancel:_** Mark the credit note as cancelled.
+- **_Delete:_** Remove the credit note.
 
 ![Create Invoice](../../../images1/invoices/creditnote_view.png)
 
@@ -143,21 +143,23 @@ After clicking **Create**, the system redirects to the **Credit Note View** page
 
 Once the credit note is **confirmed**, the following options become available:
 
-- **Pay:** Opens a modal window with fields:
+- **_Pay:_** Opens a modal window with fields:
 
-  - **Amount\***: The credit amount.
-  - **Payment Date\***: Date of refund.
-  - **Partner Bank Account\***: Select a bank account.
-  - **Payment Method\***: Choose a refund method.
-  - **Communication\***: Credit note number (e.g., RINV/2025/05/13).
+  - **_Amount:_** The credit amount.
+  - **_Payment Date:_** Date of refund.
+  - **_Partner Bank Account:_** Select a bank account.
+  - **_Payment Method:_** Choose a refund method.
+  - **_Communication:_** Credit note number (e.g., RINV/2025/05/13).
 
   > 🛈 Clicking **Submit** will update the credit note’s status to **Paid**.
   > ![Create Invoice](../../../images1/invoices/creditnote_paymodal.png)
 
-- **Reset to Draft:** Reverts the credit note to editable draft mode.
-- **Preview:** Opens a printable version of the credit note.
-- **Delete:** Removes the credit note permanently.
+- **_Reset to Draft:_** Reverts the credit note to editable draft mode.
+- **_Preview:_** Opens a printable version of the credit note.
+- **_Delete:_** Removes the credit note permanently.
 
 ![Create Invoice](../../../images1/invoices/creditnote_pay.png)
 
----
+## Summary
+
+The **Credit Note** feature in **AureusERP** streamlines the process of issuing refunds and adjustments to customer invoices. Whether created from an existing invoice or manually, credit notes can be customized with detailed line items, accounting information, and marketing data. The intuitive interface allows for easy management of credit notes through various actions such as editing, confirming, paying, and deleting. This ensures that businesses can maintain accurate financial records while providing excellent customer service.

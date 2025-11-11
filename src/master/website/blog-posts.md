@@ -1,4 +1,4 @@
-# Blog Post 
+# Blog Post
 
 The **Blog Posts** module in the **Website Plugin** of **AureusERP** allows users to create, manage, and publish content to the website. Blog posts help your organization share updates, educational content, or promotional material with website visitors. Each post can include content, images, metadata, and SEO tags for better visibility. This guide covers the step-by-step process of creating a blog post and making it live on your site.
 

@@ -1,89 +1,36 @@
-# Settings – Roles & Permissions
+# Settings
 
-Before accessing any functionality in the **Invoices Plugin**, permissions must be granted to user roles. This ensures that only authorized users can view or manage sensitive invoice-related data.
+The **Settings** section allows you to configure and manage important options for your Invoice module.
 
-## Managing Roles & Permissions
+It helps control how products are handled, displayed, and sold within invoices.
 
-Navigate to **`Settings → Roles → [Select Role] → Edit`** as shown in the below image.
+## Manage Products
 
-![Settings](../../../images/roles.png)
+This section lets you define how products behave when creating invoices, including unit measurement preferences.
 
-You will see a list of **resources** and **pages** with checkboxes that define what actions users assigned to that role can perform.
+### Steps to Access
 
-### Resources Permissions
+Navigate to **`Invoices → Settings → Manage Products`** as shown below:
 
-Each **resource** in the Invoices plugin (such as invoices, payments, taxes, etc.) includes a detailed permission structure.
+![Manage Products Navigation](../../../images1/invoices/manage_products_navigation.png)
+![Manage Products Page](../../../images1/invoices/manage_products_page.png)
 
-![Settings](../../../images/permissions.png)
+### Field Descriptions
 
-### Available Actions:
+- **_Unit of Measure (Toggle):_**  
+  Enable or disable the ability to sell and purchase products in different units of measure.
+  - When **enabled**, you can select the unit (e.g., pieces, boxes, dozens) for each product directly within the invoice.
+  - When **disabled**, products will only be sold in their default unit of measure.
 
-- **View**
-- **View Any**
-- **Create**
-- **Update**
-- **Restore**
-- **Restore Any**
-- **Replicate**
-- **Reorder**
-- **Delete**
-- **Delete Any**
-- **Force Delete**
-- **Force Delete Any**
+**Example:**  
+If you enable this option, you can sell one product either as 1 **unit** or as **1 dozen**, depending on the customer’s requirement.
 
-![Settings](../../../images/roles_actions.png)
+### Action Button
 
-### Resources Covered:
+- **_Save Changes:_**  
+  After updating your settings, click **Save Changes** to apply and store your configurations.
 
-- **Bank Account**
-- **Incoterms**
-- **Payment Terms**
-- **Attribute**
-- **Category**
-- **Tax Groups**
-- **Taxes**
-- **Credit Note**
-- **Invoice**
-- **Customers**
-- **Payment**
-- **Products**
-- **Bill**
-- **Payments**
-- **Product**
-- **Refund**
-- **Vendors**
+### Summary
 
-> To enable full functionality of the **Invoices Plugin**, ensure all relevant checkboxes for each resource are enabled.
-> ![Settings](../../../images/resources_covered.png)
-
-## Page Access Control
-
-In addition to resources, specific **pages** can be granted access to individual roles.
-
-### Pages Include:
-
-- **Configuration**
-- **Customers**
-- **Manage Product**
-- **Vendors**
-
-![Settings](../../../images/page.png)
-
-Enabling these will allow users to navigate and interact with the respective UI sections of the plugin.
-
-## Select All Shortcut
-
-If you wish to quickly grant full access:
-
-- Use the **Select All** toggle located at the top of the page.
-- This will automatically enable all checkboxes under both **Resources** and **Pages**.
-
-![Settings](../../../images/select_all.png)
-
-> Useful for admin roles or when configuring a role with full access to the invoices module.
-
-## Summary
-
-Role and permission configuration is the **first and essential step** to begin using the Invoices plugin. It ensures secure, role-based access and management of financial documents and related resources.
-
-Make sure to review and assign permissions carefully based on your organization's policies and user responsibilities.
+The **Manage Products** setting provides flexibility in handling product quantities by enabling multiple **Units of Measure (UoM)** for invoicing.  
+This ensures accurate pricing and convenience when dealing with products sold in various quantities or packaging types.
