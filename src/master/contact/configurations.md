@@ -6,11 +6,13 @@ This guide explains the key configurations available in the Contacts plugin and 
 
 ## Tags Configuration
 
-Tags are useful for categorizing contacts based on custom labels like "VIP", "Supplier", "Lead", etc.
+> **Why it's used:** Tags are useful for categorizing contacts based on custom labels like "VIP", "Supplier", "Lead", etc.
 
 ### Steps to Create a New Tag:
 
-1. Navigate to **Contacts >> Configurations >> Tags >> New Tag**.
+1. Navigate to **`Contacts → Configurations → Tags → New Tag`** as shown in the below image.
+
+   ![Config Contact](../../../images1/contacts/navigate_config_tags.png)
 
 2. A modal form appears with the following fields:
 
@@ -19,15 +21,17 @@ Tags are useful for categorizing contacts based on custom labels like "VIP", "Su
 
 3. Click **Create** to save the tag.
 
-![Config Contact](../../../images1/contacts/11.png)
+![Config Contact](../../../images1/contacts/generate_tag.png)
 
 ## Titles Configuration
 
-Titles are prefixes like Mr., Ms., Dr., etc., that help identify or address a contact respectfully.
+> **Why it's used:** Titles are prefixes like Mr., Ms., Dr., etc., that help identify or address a contact respectfully.
 
 ### Steps to Create a New Title:
 
-1. Navigate to **Contacts >> Configurations >> Titles >> New Title**.
+1. Navigate to **`Contacts → Configurations → Titles → New Title`** as shown in the below image.
+
+   ![Config Contact](../../../images1/contacts/navigate_config_titles.png)
 
 2. A modal form opens with these fields:
 
@@ -36,15 +40,17 @@ Titles are prefixes like Mr., Ms., Dr., etc., that help identify or address a co
 
 3. Click **Create** to add the title to your system.
 
-![Config Contact](../../../images1/contacts/12.png)
+![Config Contact](../../../images1/contacts/generate_title.png)
 
 ## Industry Configuration
 
-Industries help classify companies based on their business domain (e.g., IT, Retail, Healthcare).
+> **Why it's used:** Industries help classify companies based on their business domain (e.g., IT, Retail, Healthcare).
 
 ### Steps to Create a New Industry:
 
-1. Navigate to **Contacts >> Configurations >> Industry >> New Industry**.
+1. Navigate to **`Contacts → Configurations → Industry → New Industry`** as shown in the below image.
+
+   ![Config Contact](../../../images1/contacts/navigate_config_industry.png)
 
 2. A modal form appears with:
 
@@ -53,15 +59,17 @@ Industries help classify companies based on their business domain (e.g., IT, Ret
 
 3. Click **Create** to save.
 
-![Config Contact](../../../images1/contacts/13.png)
+![Config Contact](../../../images1/contacts/generate_industry.png)
 
 ## Banks Configuration
 
-Banks are useful to store bank details when associating them with contacts or during payment operations.
+> **Why it's used:** Banks are useful to store bank details when associating them with contacts or during payment operations.
 
 ### Steps to Create a New Bank:
 
-1. Navigate to **Contacts >> Configurations >> Banks >> New Bank**.
+1. Navigate to **`Contacts → Configurations → Banks → New Bank`** as shown in the below image.
+
+   ![Config Contact](../../../images1/contacts/navigate_config_banks.png)
 
 2. A form with the following sections appears:
 
@@ -82,15 +90,17 @@ Banks are useful to store bank details when associating them with contacts or du
 
 3. Click **Create** to add the bank.
 
-![Config Contact](../../../images1/contacts/14.png)
+![Config Contact](../../../images1/contacts/generate_bank.png)
 
 ## Bank Accounts Configuration
 
-Bank accounts are linked to contacts or companies for financial transactions.
+> **Why it's used:** Bank accounts are linked to contacts or companies for financial transactions.
 
 ### Steps to Create a New Bank Account:
 
-1. Navigate to **Contacts >> Configurations >> Bank Accounts >> New Bank Account**.
+1. Navigate to **`Contacts → Configurations → Bank Accounts → New Bank Account`** as shown in the below image.
+
+   ![Config Contact](../../../images1/contacts/navigate_config_bank_accounts.png)
 
 2. A modal form appears with these fields:
 
@@ -101,8 +111,8 @@ Bank accounts are linked to contacts or companies for financial transactions.
 
 3. Click **Create** to save the new bank account.
 
-![Config Contact](../../../images1/contacts/15.png)
+![Config Contact](../../../images1/contacts/generate_bank_account.png)
 
----
+## Summary
 
-These configuration settings enhance your contact management by predefining important fields and reducing repetitive data entry. It's recommended to set up these options before beginning large-scale contact creation to ensure consistency and accuracy across your records.
+The **Contacts Plugin** in **AureusERP** offers a unified system for managing all business relationships customers, vendors, or internal users. With sections for general info, contacts, and addresses, it's easy to keep data organized and up-to-date.
