@@ -1,95 +1,64 @@
-# Settings – Purchases Plugin
+# Settings
 
-The **Settings** section of the **Purchases** plugin in **AureusERP** allows users to configure how purchase workflows and products are managed. These settings ensure greater control over purchase orders, product handling, and user permissions.
+The **Settings** section in the **Purchases** module allows you to control how purchase orders and product-related processes work in AureusERP.
+
+These settings help you streamline approvals, order management, and product configuration according to your business needs.
 
 ## Manage Orders
 
-Navigate to **`Purchase → Settings → Manage Orders`** as shown in the below image.
+This section helps you configure how purchase orders are created, approved, and managed.
 
-![Settings](../../../images/roles.png)
+### Steps to Access
 
-This section helps you control how purchase orders behave in your organization.
+1. Navigate to **`Purchase → Settings → Manage Orders`** as shown below:
 
-### Purchase Order Approval
+![Manage Orders Navigation](../../../images1/purchases/manage_orders_navigation.png)
+![Manage Orders Navigation](../../../images1/purchases/manage_orders_navigation1.png)
 
-- **Purpose:** Enable this to **require manager approval** for purchase orders that **exceed a defined minimum amount**.
-- **Use Case:** Useful for organizations that want to avoid unauthorized or high-cost purchases without oversight.
-- **Field:**
-  - **Minimum Amount:** Specify the amount above which approval is required.
+2. You will see the following fields:
 
-### Lock Confirmed Orders
+- **_Purchase Order Approval:_** When enabled, purchase orders exceeding a specific **minimum amount** will require approval from a manager before confirmation. This ensures better control over high-value purchases.
 
-- **Purpose:** Automatically lock a purchase order once it is **confirmed**, preventing any further changes.
-- **Use Case:** Ensures integrity and avoids accidental edits after vendor confirmation.
+- **_Minimum Amount:_** Define the threshold amount for which a purchase order must be approved.  
+  Example: If set to ₹10,000, any order above this amount will need manager approval.
 
-### Purchase Agreements
+- **_Lock Confirmed Orders:_** When enabled, once a purchase order is confirmed, it cannot be edited. This helps prevent accidental changes after finalization.
 
-- **Purpose:** Enable management of **Blanket Orders** and **Purchase Templates**.
-- **Use Case:** Useful for companies that regularly place bulk or recurring orders under agreed terms.
+- **_Purchase Agreements:_** Enable this option to manage **Blanket Orders** and **Purchase Templates**. Blanket Orders help in long-term agreements with suppliers, while Purchase Templates simplify repetitive order creation.
 
-📝 **Tip:** After enabling your desired toggles, click **Save Changes** to apply your settings.
+### Action Button
+
+- **_Save Changes:_** Click this button to apply and save all your configuration updates.
 
 ## Manage Products
 
-Navigate to **`Purchase → Settings → Manage Products`** as shown in the below image.
+This section allows you to configure how products are managed and used in purchase orders.
 
-![Settings](../../../images/roles.png)
+### Steps to Access
 
-This section defines how product variations and measurements are handled during procurement.
+Navigate to **`Purchase → Settings → Manage Products`** as shown below:
 
-### Variants
+![Manage Products Navigation](../../../images1/purchases/manage_products_navigation.png)
 
-- **Purpose:** Manage product variations such as **Color**, **Size**, or **Material**.
-- **Use Case:** Allows for precise tracking and ordering of product variants.
+### Field Descriptions
 
-### Unit of Measure
+- **_Variants:_** Enable to manage products with multiple variations such as size, color, or material. This allows you to create and purchase specific product variants instead of a single general product.
 
-- **Purpose:** Enables buying and selling products in **different units** (e.g., pieces, boxes, dozens).
-- **Use Case:** Perfect for managing bulk purchases or packaging conversions.
+- **_Unit of Measure:_** Enable to buy and sell products in different measurement units (e.g., pieces, boxes, dozens). This provides flexibility for managing product quantities in various formats.
 
-### Packagings
+- **_Packagings:_** Enable to manage product packaging details, such as a pack of 6 bottles or a box of 10 pieces. This helps in tracking inventory and purchases based on packaging type.
 
-- **Purpose:** Lets you define and manage different **product packaging types**, such as boxes, packs, or containers.
-- **Use Case:** Helps streamline warehouse and shipping operations by tracking product pack sizes.
+### Action Button
 
-📝 **Tip:** Enable all toggles for full product functionality in your purchase operations, then click **Save Changes**.
+- **_Save Changes:_** Click this button to store your updated product management configurations.
 
-## Roles & Permissions – Purchase Plugin
+### Summary
 
-After configuring the toggles, navigate to:
+The **Purchases Settings** section ensures complete control over how orders and products are managed.  
+By enabling or disabling options, you can:
 
-Navigate to **`Settings → Roles → [Select Role] → Edit`** as shown in the below image.
+- Require approval for high-value purchases
+- Prevent edits after confirmation
+- Manage product variants, units, and packaging options effectively
 
-![Settings](../../../images/roles.png)
-
-In the **Purchases Plugin section**, ensure proper permissions are granted to resources like:
-
-- **Packaging**
-- **Attribute**
-
-### Available Actions for Each Resource
-
-- **View**
-- **View Any**
-- **Create**
-- **Update**
-- **Restore**
-- **Restore Any**
-- **Replicate**
-- **Reorder**
-- **Delete**
-- **Delete Any**
-- **Force Delete**
-- **Force Delete Any**
-
-> **Tip:** Enabling these actions ensures your team has complete access to manage packaging and attribute-related data in the Purchases module.
-
-## Select All Shortcut
-
-- **Purpose:** Quickly grant **full access** to all pages and resources.
-- **How:** Use the **Select All** toggle at the top of the permissions list.
-- **Benefit:** Saves time during setup, especially for admin or manager roles.
-
-## Summary
-
-Proper configuration of **Manage Orders** and **Manage Products** in the Purchases plugin ensures a smooth procurement process. Don’t forget to assign permissions for every resource involved to enable seamless access and control across your purchase workflows.
+These settings enhance accuracy, security, and flexibility across your purchasing workflow in **AureusERP**.

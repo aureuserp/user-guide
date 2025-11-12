@@ -21,7 +21,7 @@ The **Products** module in **AureusERP** is where users can manage their goods a
 
    ![Create Product](../../../images1/invoices/product_general.png)
 
-   #### Settings Section
+   #### Settings
 
    - **_Type:_** Choose between:
 
@@ -44,7 +44,7 @@ The **Products** module in **AureusERP** is where users can manage their goods a
 
    ![Create Product](../../../images1/invoices/product_settings.png)
 
-   #### Pricing Section
+   #### Pricing
 
    - **_Price:_** Selling price of the product.
    - **_Cost:_** Internal cost price.
@@ -52,9 +52,9 @@ The **Products** module in **AureusERP** is where users can manage their goods a
    ![Create Product](../../../images1/invoices/product_price.png)
 
 3. **Action Buttons:**
-   - **Create:** Save and create the product.
-   - **Create & Create Another:** Save and reset form for new entry.
-   - **Cancel:** Exit the form without saving.
+   - ***Create:*** Save and create the product.
+   - ***Create & Create Another:*** Save and reset form for new entry.
+   - ***Cancel:*** Exit the form without saving.
 
 ## After Product Creation
 

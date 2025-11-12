@@ -6,11 +6,11 @@ In **AureusERP**, a **Request for Quotation (RFQ)** is the first step in the pur
 
 ### Steps to Create a New RFQ
 
-1. Go to **`Purchases → Orders → Request For Quotations → New RFQ`** as shown in the below image.
+1. Navigate to **`Purchases → Orders → Request For Quotations → New RFQ`** as shown in the below image.
 
-   ![Create Quotation](../../../images/quotation_create_1.png)
+   ![Create Quotation](../../../images1/purchases/quotation_create_1.png)
 
-2. Filling up fields as per the **section** defeind below :
+2. Filling up fields as per the **section** defined below:
 
    ### General Section
 
@@ -21,7 +21,7 @@ In **AureusERP**, a **Request for Quotation (RFQ)** is the first step in the pur
    - **_Agreement:_** If this RFQ is part of a purchase agreement (e.g., blanket order), link the agreement here.
    - **_Currency:_** The currency to be used in this transaction. This is often auto-filled with your company's default.
 
-   ![RFQ General Section](../../../images/rfq_general_section.png)
+   ![RFQ General Section](../../../images1/purchases/rfq_general_section.png)
 
    ### Product Section
 
@@ -38,7 +38,7 @@ In **AureusERP**, a **Request for Quotation (RFQ)** is the first step in the pur
    - **_Discount (%):_** Enter any vendor-provided discount.
    - **_Amount:_** Auto-calculated total for the line item based on quantity, price, taxes, and discount.
 
-   ![RFQ Product Section](../../../images/rfq_product_section.png)
+   ![RFQ Product Section](../../../images1/purchases/rfq_product_section.png)
 
    ### Additional Information Section
 
@@ -49,6 +49,8 @@ In **AureusERP**, a **Request for Quotation (RFQ)** is the first step in the pur
    - **_Incoterm:_** International commercial term for shipping responsibility (e.g., FOB, CIF).
    - **_Incoterm Location:_** The place tied to the incoterm (e.g., port name or delivery warehouse).
 
+   ![RFQ Additional Information](../../../images1/purchases/rfq_additional_info.png)
+
    ### Terms and Conditions
 
    Write any legal terms, warranty clauses, refund conditions, or additional instructions that apply to this order.
@@ -57,26 +59,28 @@ In **AureusERP**, a **Request for Quotation (RFQ)** is the first step in the pur
 
    At the bottom of the RFQ form, you’ll see the following buttons:
 
-   - **Create**: Saves and creates the RFQ.
-   - **Create & Create Another**: Saves the current RFQ and resets the form.
-   - **Cancel**: Discards all unsaved data.
+   - **_Create:_** Saves and creates the RFQ.
+   - **_Create & Create Another:_** Saves the current RFQ and resets the form.
+   - **_Cancel:_** Discards all unsaved data.
 
 ## After RFQ Creation
 
 Once created, you are redirected to the **Edit Purchase Order** view.
 
+![Create RFQ](../../../images1/purchases/rfq_bill_edit.png)
+
 ### Available Actions on View Page:
 
-- **Edit Quotation**: Modify RFQ details.
-- **Vendor Bills**: View or create vendor bills.
-- **Receipts**: Manage delivery receipts.
-- **Send by Email**: Send this RFQ directly to the vendor.
-- **Print RFQ**: Download or print the quote in PDF format.
-- **Confirm Order**: Approve the RFQ and convert it into a **Purchase Order**.
-- **Cancel**: Cancel the RFQ.
-- **Delete**: Permanently delete the RFQ.
-
-![Create RFQ](../../../images/rfq_bill_view.png)
+- **_Edit Quotation:_** Modify RFQ details.
+- **_Vendor Bills:_** View vendor bills.
+- **_Receipts:_** Manage delivery receipts.
+- **_Send by Email:_** Send this RFQ directly to the vendor.
+  ![Create RFQ](../../../images1/purchases/rfq_bill_view.png)
+- **_Print RFQ:_** Download or print the quote in PDF format.
+- **_Confirm Order:_** Approve the RFQ and convert it into a **Purchase Order**.
+  ![Create RFQ](../../../images1/purchases/rfq_bill_view1.png)
+- **_Cancel:_** Cancel the RFQ.
+- **_Delete:_** Permanently delete the RFQ.
 
 ## After Confirmation RFQ
 
@@ -87,24 +91,30 @@ Once you **Confirm Order**, the RFQ becomes a **Purchase Order**. At this point:
 - A **Receipt** is automatically generated
 - New buttons appear:
 
-  - **Confirm Receipt Date**
-  - **Create Bills**
-  - **Unlock** (to make changes again)
+  - **_Confirm Receipt Date:_**
+  - **_Create Bills:_**
+  - **_Unlock:_** (to make changes again)
+
+![Create RFQ](../../../images1/purchases/rfq_bill_confirmed.png)
 
 ## Receipt Validation Flow
 
 1. Go to the **Receipts** tab.
-2. Click **Edit** if needed (e.g., change quantity received).
-3. Click **Validate** to confirm that products have been received into inventory.
+   ![Create RFQ](../../../images1/purchases/rfq_receipt_tab.png)
+2. Click **_Edit_** if needed (e.g., change quantity received).
+   ![Create RFQ](../../../images1/purchases/rfq_receipt_edit.png)
+3. Click **_Validate_** to confirm that products have been received into inventory.
+   ![Create RFQ](../../../images1/purchases/rfq_receipt_validate.png)
 
 > ⚠️ Only after validating the receipt can you proceed to create vendor bills.
 
 ## Vendor Bill Generation
 
-1. Click **Create Bill**.
+1. Click **_Create Bill_**.
+   ![Create RFQ](../../../images1/purchases/rfq_bill_create.png)
 2. The system auto-fills bill data from the purchase order.
-3. You can review, edit, and save the bill.
-4. Register payment when ready.
+   ![Create RFQ](../../../images1/purchases/rfq_bill_auto_fill.png)
+3. You can review, **_edit_**, and save the bill.
 
 ## Full RFQ-to-Bill Flow
 
@@ -123,3 +133,7 @@ Register Payment
     ↓
 Purchase Completed
 ```
+
+## Summary
+
+This guide detailed the process of creating and managing a Request for Quotation (RFQ) in **AureusERP**. You learned how to fill out the RFQ form, confirm the order, validate receipts, and generate vendor bills, ensuring a smooth procurement workflow.
