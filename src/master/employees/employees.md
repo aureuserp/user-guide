@@ -104,11 +104,45 @@ This feature is used to onboard new employees into the system, manage their role
 
      ![Employee create](../../../images1/employees/emp_workp.png)
 
+   ### Settings
+
+   The **Settings** section allows configuration of employment-related options, system login, and other administrative details.
+
+   - **Employment Status Subsection**
+
+     - **_Active Employee:_** Enable this if the employee is currently active in the organization.
+     - **_Flexible Work Arrangement:_**  
+       Allow flexible work timing or remote work options for this employee.
+     - **_Fully Flexible Schedule:_** Enable this if the employee can manage working hours without fixed schedules.
+     - **_Work Permit Scheduled Activity:_** Automatically generate scheduled activities related to the employee’s work permit expiry or renewal.
+     - **_Related User:_** Assign or create a user account linked to the employee.  
+       This field is used to provide login credentials to the employee by either selecting an existing user or creating a new one.
+     - **_Departure Reason:_** Select the reason for departure if the employee leaves the organization.  
+       Options include:
+       - Fired
+       - Retired
+       - Resigned
+
+   - **Attendance / Point of Sale Subsection**
+
+     - **_Badge ID:_** Unique identification number for attendance tracking or POS access.
+     - **_PIN:_** Security PIN used for login in attendance or POS systems.
+
+   ![Employee create](../../../images1/employees/emp_settings1.png)
+
+   - **Additional Information Subsection**
+
+     - **_Primary Language:_** Default language used by the employee.
+     - **_Additional Notes:_** Any additional comments or remarks.
+     - **_Notes:_** Internal notes for HR reference.
+
+   ![Employee create](../../../images1/employees/emp_addinfo.png)
+
 3. Action Buttons
 
-- **Create**: Save the employee profile.
-- **Create & Create Another**: Save and open new form.
-- **Cancel**: Exit without saving.
+- **_Create:_** Save the employee profile.
+- **_Create & Create Another:_** Save and open new form.
+- **_Cancel:_** Exit without saving.
 
 ## Employee View (Post-Creation)
 
@@ -153,6 +187,6 @@ Modify any information as needed by clicking the **Edit Employee** button.
 
 ![Employee create](../../../images1/employees/emp_resu2.png)
 
----
+## Summary
 
-Employee creation in AureusERP ensures a holistic profile that helps in HR management, attendance, payroll, and performance tracking. Accurate data entry ensures compliance and smooth HR operations.
+The **Employees** module in **AureusERP** provides a comprehensive system for managing employee records. From creation to skill and resume management, it supports efficient HR processes and ensures that all necessary information is captured for effective workforce management.

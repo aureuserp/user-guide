@@ -135,7 +135,6 @@ const routes = [
     items: [
       { text: 'Employees', link: '/master/employees/employees' },
       { text: 'Departments', link: '/master/employees/departments' },
-      { text: 'Reportings', link: '/master/employees/reportings' },
       { text: 'Configurations', link: '/master/employees/configurations' },
     ]
   },

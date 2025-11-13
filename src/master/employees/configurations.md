@@ -1,16 +1,12 @@
 # Configuration
 
-The **Employees Plugin** in **AureusERP** allows companies to manage workforce data efficiently, including job positions, working hours, employment types, and skills. Configuration options in this module help tailor employee-related processes to match the organization's structure and policies.
-
-## Configuration Overview
-
-Configurations are essential for customizing how employee records, work schedules, job roles, and skills are created and managed. These settings are used across employee profiles, job positions, and during recruitment or performance tracking.
+**Configurations** are essential for customizing how employee records, work schedules, job roles, and skills are created and managed. These settings are used across employee profiles, job positions, and during recruitment or performance tracking.
 
 ## Activity Plans
 
-Activity Plans are predefined sets of tasks or interactions assigned to employees within specific departments or companies. They streamline repetitive actions like onboarding steps or periodic evaluations.
+> **Why it's used:** Activity Plans are predefined sets of tasks or interactions assigned to employees within specific departments or companies. They streamline repetitive actions like onboarding steps or periodic evaluations.
 
-### Steps to Create an Activity Plan
+### Activity Plan Creation
 
 1. Navigate to **`Employees → Configurations → Activity Plans → New Activity Plan`** as shown below.
 
@@ -25,13 +21,17 @@ Activity Plans are predefined sets of tasks or interactions assigned to employee
 
    ![General Activity](../../../images1/employees/general_activity.png)
 
-3. Click **Create** or **Create & Create Another**.
+3. Action Buttons:
+
+   - Click **_Create:_** to save the activity plan.
+   - Click **_Create & Create Another:_** to save and start a new activity plan.
+   - Click **_Cancel_** to discard changes.
 
 ## Working Schedules
 
-Working Schedules define employee work hours, days, and flexibility options. Useful for managing attendance, timesheets, and compliance.
+> **Why it's used:** Working Schedules define employee work hours, days, and flexibility options. Useful for managing attendance, timesheets, and compliance.
 
-### Steps to Create a Working Schedule
+### Working Schedule Creation
 
 1. Navigate to **`Employees → Configurations → Working Schedules → New Working Schedule`** as shown below.
 
@@ -39,32 +39,36 @@ Working Schedules define employee work hours, days, and flexibility options. Use
 
 2. Fill in:
 
-   ### General Information
+   #### General Information
 
    - **_Schedule Name:_** A name for the schedule (e.g., Standard 9-5, Night Shift).
    - **_Timezone:_** Select the time zone where this schedule applies.
    - **_Company:_** Assign to a specific company.
 
-   ### Work Hours Configuration
+   #### Work Hours Configuration
 
    - **_Hours Per Day:_** Define daily working hours.
    - **_Full Time Required Hours:_** Weekly hours required for full-time status.
 
-   ### Flexibility Options
+   #### Flexibility Options
 
-   - **_Status (Toggle):_** Activate the schedule.
+   - **_Status:_** Activate the schedule.
    - **_Two Weeks Calendar:_** Enable alternating week schedules.
    - **_Flexible Hours:_** Allow employees to work flexible hours.
 
    ![General Working](../../../images1/employees/general_working.png)
 
-3. Click **Create** or **Create & Create Another**.
+3. Action Buttons:
+
+   - Click **_Create:_** to save the working schedule.
+   - Click **_Create & Create Another:_** to save and start a new working schedule.
+   - Click **_Cancel_** to discard changes.
 
 ## Departure Reasons
 
-Departure Reasons are recorded when an employee leaves the company, helping with exit analysis and compliance.
+> **Why it's used:** Departure Reasons are recorded when an employee leaves the company, helping with exit analysis and compliance.
 
-### Steps to Create a Departure Reason
+### Departure Reason Creation
 
 1. Navigate to **`Employees → Configurations → Departure Reasons → New Departure Reason`** as shown below.
 
@@ -74,13 +78,17 @@ Departure Reasons are recorded when an employee leaves the company, helping with
 
    ![General Departure](../../../images1/employees/general_departure.png)
 
-3. Click **Create** or **Create & Create Another**.
+3. Action Buttons:
+
+   - Click **_Create:_** to save the departure reason.
+   - Click **_Create & Create Another:_** to save and start a new departure reason.
+   - Click **_Cancel_** to discard changes.
 
 ## Tags
 
-Tags help categorize employees for quick filtering (e.g., Remote, Full-Time, Manager).
+> **Why it's used:** Tags help categorize employees for quick filtering (e.g., Remote, Full-Time, Manager).
 
-### Steps to Create a Tag
+### Tag Creation
 
 1. Navigate to **`Employees → Configurations → Tags → New Tag`** as shown below.
 
@@ -93,13 +101,17 @@ Tags help categorize employees for quick filtering (e.g., Remote, Full-Time, Man
 
    ![General Tags](../../../images1/employees/general_tags.png)
 
-3. Click **Create** or **Create & Create Another**.
+3. Action Buttons:
+
+   - Click **_Create:_** to save the tag.
+   - Click **_Create & Create Another:_** to save and start a new tag.
+   - Click **_Cancel_** to discard changes.
 
 ## Work Locations
 
-Work Locations specify where employees perform their duties, supporting location-based reporting and resource planning.
+> **Why it's used:** Work Locations specify where employees perform their duties, supporting location-based reporting and resource planning.
 
-### Steps to Create a Work Location
+### Work Location Creation
 
 1. Navigate to **`Employees → Configurations → Work Locations → New Work Location`** as shown below.
 
@@ -115,13 +127,17 @@ Work Locations specify where employees perform their duties, supporting location
 
    ![General Work](../../../images1/employees/general_work.png)
 
-3. Click **Create** or **Create & Create Another**.
+3. Action Buttons:
+
+   - Click **_Create:_** to save the work location.
+   - Click **_Create & Create Another:_** to save and start a new work location.
+   - Click **_Cancel_** to discard changes.
 
 ## Skill Types
 
-Skill Types group various skills to track employee expertise. For example, "Programming" could be a type with skills like Python, Java.
+> **Why it's used:** Skill Types group various skills to track employee expertise. For example, "Programming" could be a type with skills like Python, Java.
 
-### Steps to Create a Skill Type
+### Skill Type Creation
 
 1. Navigate to **`Employees → Configurations → Skill Types → New Skill Type`** as shown below.
 
@@ -135,7 +151,11 @@ Skill Types group various skills to track employee expertise. For example, "Prog
 
    ![General Skill](../../../images1/employees/general_skill.png)
 
-3. Click **Create**.
+3. Action Buttons:
+
+   - Click **_Create:_** to save the skill type.
+   - Click **_Create & Create Another:_** to save and start a new skill type.
+   - Click **_Cancel_** to discard changes.
 
 ### Add Skills to Skill Type
 
@@ -155,9 +175,9 @@ Skill Types group various skills to track employee expertise. For example, "Prog
 
 ## Employment Types
 
-Employment Types define job nature like Full-Time, Part-Time, Internship.
+> **Why it's used:** Employment Types categorize job nature (e.g., Full-Time, Part-Time, Internship), aiding in contract management and reporting.
 
-### Steps to Create an Employment Type
+### Employment Type Creation
 
 1. Navigate to **`Employees → Configurations → Employment Types → New Employment Type`** as shown below.
 
@@ -170,13 +190,17 @@ Employment Types define job nature like Full-Time, Part-Time, Internship.
 
    ![General Employment](../../../images1/employees/general_employment.png)
 
-3. Click **Create** or **Create & Create Another**.
+3. Action Buttons:
+
+   - Click **_Create:_** to save the employment type.
+   - Click **_Create & Create Another:_** to save and start a new employment type.
+   - Click **_Cancel_** to discard changes.
 
 ## Job Positions
 
-Job Positions represent roles within the organization (e.g., Software Developer, HR Manager). These are used in employee and recruitment modules.
+> **Why it's used:** Job Positions represent roles within the organization (e.g., Software Developer, HR Manager). These are used in employee and recruitment modules.
 
-### Steps to Create a Job Position
+### Job Position Creation
 
 1. Navigate to **`Employees → Configurations → Job Positions → New Job Position`** as shown below.
 
@@ -197,6 +221,12 @@ Job Positions represent roles within the organization (e.g., Software Developer,
 
      ![General JB](../../../images1/employees/general_jb.png)
 
-3. Click **Create** or **Create & Create Another**.
+3. Action Buttons:
 
-> These configuration settings ensure that your **Employees Plugin** is set up accurately, supporting HR operations like hiring, managing, and retaining talent within AureusERP.
+   - Click **_Create:_** to save the job position.
+   - Click **_Create & Create Another:_** to save and start a new job position.
+   - Click **_Cancel_** to discard changes.
+
+## Summary
+
+This documentation covered the creation and management of various configurations within the **Employees** module of **AureusERP**, including Activity Plans, Working Schedules, Departure Reasons, Tags, Work Locations, Skill Types, Employment Types, and Job Positions. Each configuration plays a crucial role in streamlining HR processes and enhancing employee management.
