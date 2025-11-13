@@ -9,6 +9,9 @@ Customers can self-register directly from the website interface.
 ### Steps to Register as a Customer
 
 1. Navigate to the **Frontend Website** and click on **Register**.
+
+   ![Frontend Registration](../../../images1/website/customer_create_frontend_1.png)
+
 2. Fill out the required registration form fields:
 
    - **_Name:_** Full name of the customer.
@@ -16,13 +19,15 @@ Customers can self-register directly from the website interface.
    - **_Password:_** Create a secure password.
    - **_Confirm Password:_** Re-enter the password.
 
-3. Click on **Sign Up**. The user is now logged in and the customer entry is recorded in the admin panel.
+   ![Frontend Registration Form](../../../images1/website/customer_create_frontend_2.png)
+
+3. Click on **Create Account**. The user is now logged in and the customer entry is recorded in the admin panel.
 
 4. Log into the admin dashboard, go to **`Website → Customers`**, and verify the newly registered customer.
 
-   ![Frontend Customer Registration](../../../images/customer_create_frontend.png)
+   ![Admin](../../../images1/website/customer_create_frontend.png)
 
-### 📥 Admin View and Edit
+### Admin View and Edit
 
 From the admin panel, you can now:
 
@@ -35,7 +40,9 @@ From the admin panel, you can now:
 
 ### Steps to Create a Customer
 
-1. Navigate to **`Website → Customers → New Customer`**
+1. Navigate to **`Website → Customers → New Customer`** as shown below.
+
+   ![New Customer](../../../images1/website/customer_create_admin_1.png)
 
    ### General Section
 
@@ -50,7 +57,8 @@ From the admin panel, you can now:
    - **_Title:_** Prefix like Mr., Ms., Dr., etc.
    - **_Tags:_** Helps group customers using labels or categories.
    - **_Address:_** Fill in the street, city, postal code, state, and country.
-     > ![Create Customer](../../../images/customer_create_1.png)
+
+   ![Create Customer](../../../images1/website/customer_create_1.png)
 
    ### Sales and Purchase Section
 
@@ -58,11 +66,14 @@ From the admin panel, you can now:
    - **_Company ID:_** Internal identifier for tracking.
    - **_Reference:_** External ID or vendor code.
    - **_Industry:_** Select the customer’s business domain.
-     > ![Sales Purchase Info](../../../images/customer_create_others.png)
+
+   ![Sales Purchase Info](../../../images1/website/customer_create_others.png)
 
 ## After Customer Creation
 
 Clicking **Create** redirects to the **View Partner** page.
+
+![View Partner](../../../images1/website/customer_view_partner.png)
 
 ### Edit Partner
 
@@ -74,20 +85,20 @@ Click on **Edit Partner** to update general or fiscal information.
 - Click **Add Contact** to open a modal.
 - Add additional contact persons with details like name, email, title, etc.
 
-  ![Add Contact](../../../images/customer_create_contact.png)
+  ![Create Customer](../../../images1/website/customer_contacts.png)
 
 > Useful for organizations with multiple representatives.
 
-### 🏠 Manage Address
+### Manage Address
 
 - Click the **Address** tab.
 - Use **Add Address** to define:
 
-  - **Address Types:** Permanent, Present, Invoice, Delivery, Other.
-  - **Details:** Full name, email, phone, mobile, complete address.
+  - **_Address Types:_** Permanent, Present, Invoice, Delivery, Other.
+  - **_Details:_** Full name, email, phone, mobile, complete address.
 
-  ![Add Address](../../../images/customer_create_address.png)
+  ![Create Customer](../../../images1/invoices/customer_address.png)
 
----
+## Summary
 
-Managing customers in AureusERP allows your organization to handle leads, communications, and fulfillments efficiently, while also keeping customer records centralized and structured.
+Managing customers in **AureusERP** allows your organization to handle leads, communications, and fulfillments efficiently, while also keeping customer records centralized and structured.
