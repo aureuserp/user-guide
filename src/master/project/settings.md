@@ -4,18 +4,19 @@ The **Project Plugin Settings** in AureusERP allow you to customize how projects
 
 ## Manage Tasks Settings
 
-1. Navigate to **`Project → Settings → Manage Tasks`**
+1. Navigate to **`Project → Settings → Manage Tasks`** as shown below:
 
    ![Project Setting](../../../images1/project/setting.png)
+   ![Manage Task Setting](../../../images1/project/setting_task1.png)
 
    ### Available Options:
 
-   - **Enable Project Stages (Toggle):**
+   - **Enable Project Stages:**
 
      - Turn this ON to display **Project Stages** while creating a project.
      - This helps organize the project lifecycle into different stages such as Planning, Execution, Completed, etc.
 
-   - **Enable Milestones (Toggle):**
+   - **Enable Milestones:**
 
      - Turn this ON to enable **Milestone Tracking** in the project creation process.
      - Milestones help you break large projects into manageable chunks with deadlines.
@@ -30,11 +31,11 @@ The **Project Plugin Settings** in AureusERP allow you to customize how projects
 
 1. Navigate to **`Project → Settings → Manage Time`**
 
-   ![Manage Task Setting](../../../images1/project/setting_time.png)
+   ![Manage Task Setting](../../../images1/project/navigate_time_setting.png)
 
    ### Available Option:
 
-   - **Enable Timesheets (Toggle):**
+   - **Enable Timesheets:**
 
      - Turn this ON to allow time tracking (timesheets) for tasks under each project.
      - This is useful for monitoring how much time is being spent on each task or phase.
@@ -45,46 +46,6 @@ The **Project Plugin Settings** in AureusERP allow you to customize how projects
 
    > When enabled, you’ll see the **Timesheet Option** while creating or editing a project, making time tracking easier and more integrated.
 
-## Roles and Permissions for Project
+## Summary
 
-To control who can access and manage features in the Project Plugin, configure roles and permissions properly.
-
-1. Navigate to **`Settings → Roles & Permissions → Edit Role (e.g., Project Manager)`** as shown in the below image.
-
-![Settings Roles](../../../images1/project/project_settings_role.png)
-
-2. Under the **Project Plugin** section, you will see the following resources:
-   - **Project Stage**
-   - **Task Stage**
-   - **Milestones**
-
-### Available Actions:
-
-For each resource, you can enable the following permissions:
-
-- **View**
-- **View Any**
-- **Create**
-- **Update**
-- **Restore / Restore Any**
-- **Replicate**
-- **Reorder**
-- **Delete / Delete Any**
-- **Force Delete / Force Delete Any**
-
-Enable these based on the role's responsibilities. For full functionality, enable **all relevant checkboxes**.
-
-![Settings Roles](../../../images1/project/project_setting_actions.png)
-
-### Select All Shortcut:
-
-- To quickly enable all permissions, use the **Select All** toggle at the top.
-- This grants full access to both **Resources** and **Pages** under the plugin.
-
-> **Note:** To use all features of the **Project Plugin**, make sure the relevant checkboxes are enabled for each user role.
-
-![Settings Roles](../../../images1/project/project_setting_all.png)
-
----
-
-By configuring these settings and permissions properly, your team can efficiently manage project workflows, assign tasks, track time, and ensure accountability across all project phases.
+The **Project Settings** section in AureusERP provides essential configurations to optimize project management. By enabling options for **Project Stages**, **Milestones**, and **Timesheets**, you can enhance your team's ability to plan, track, and manage projects effectively. Adjust these settings based on your organizational needs to streamline project workflows.

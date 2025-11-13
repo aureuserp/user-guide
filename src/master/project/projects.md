@@ -17,45 +17,45 @@ The **Project Plugin** helps you manage your company's projects, assign team mem
    - **_Name:_** Enter the name of the project (e.g., Website Redesign, Client Onboarding).
    - **_Description:_** Provide a brief overview or purpose of the project. Helps team members understand the goal.
 
-![General Project](../../../images1/project/project_general.png)
+   ![General Project](../../../images1/project/project_general.png)
 
-### Additional Information
+   ### Additional Information
 
-- **_Project Manager:_** Assign the team member responsible for managing the project.
-- **_Customer:_** Link the project to a specific customer or client. Useful for client-based work.
-- **_Start Date:_** Choose the date when the project will begin.
-- **_End Date:_** Select the expected date of project completion.
-- **_Allocated Hours:_** Define the total number of working hours expected for the project. Helps in workload planning.
-- **_Tags:_** Add labels to organize and filter projects (e.g., Urgent, Internal, Long-Term).
-- **_Company:_** Select the company under which this project is being managed, if applicable.
+   - **_Project Manager:_** Assign the team member responsible for managing the project.
+   - **_Customer:_** Link the project to a specific customer or client. Useful for client-based work.
+   - **_Start Date:_** Choose the date when the project will begin.
+   - **_End Date:_** Select the expected date of project completion.
+   - **_Allocated Hours:_** Define the total number of working hours expected for the project. Helps in workload planning.
+   - **_Tags:_** Add labels to organize and filter projects (e.g., Urgent, Internal, Long-Term).
+   - **_Company:_** Select the company under which this project is being managed, if applicable.
 
-![Additional Project](../../../images1/project/project_additional.png)
+   ![Additional Project](../../../images1/project/project_additional.png)
 
-### Settings
+   ### Settings
 
-- **Visibility Options**
+   - **Visibility Options**
 
-  - **_Private:_** Only invited internal users can see the project.
-  - **_Internal:_** All internal users can view the project.
-  - **_Public:_** Internal users and invited external (portal) users can view the project.
+     - **_Private:_** Only invited internal users can see the project.
+     - **_Internal:_** All internal users can view the project.
+     - **_Public:_** Internal users and invited external (portal) users can view the project.
 
-- **Time Management**
+   - **Time Management**
 
-  - **_Allow Timesheets (Toggle):_** Enable to allow users to log their time against this project.
+     - **_Allow Timesheets:_** Enable to allow users to log their time against this project.
 
-- **Task Management**
+   - **Task Management**
 
-  - **_Allow Milestones (Toggle):_** Enable to track significant phases of the project like design, development, testing, etc.
+     - **_Allow Milestones:_** Enable to track significant phases of the project like design, development, testing, etc.
 
-  ![Setting Project](../../../images1/project/project_settings.png)
+     ![Setting Project](../../../images1/project/project_settings.png)
 
 3. After Creating the Project
 
    Click **Create**. You will be redirected to the **View Project** page. Here, you'll see:
 
-   - **Edit Project:** Modify project details.
-   - **Tasks:** Manage all tasks under this project.
-   - **Milestone:** Track major progress points (if enabled).
+   - **_Edit Project:_** Modify project details.
+   - **_Tasks:_** Manage all tasks under this project.
+   - **_Milestone:_** Track major progress points (if enabled).
 
    ![Setting Project](../../../images1/project/project_view.png)
 
@@ -84,23 +84,23 @@ The **Project Plugin** helps you manage your company's projects, assign team mem
 
    ![Task Project](../../../images1/project/project_task_general.png)
 
-### Settings Section
+   ### Settings Section
 
-- **_Project:_** Select the project this task belongs to. Defaults to the current project.
-- **_Customer:_** Link to a customer, if applicable.
-- **_Assignees:_** Choose users responsible for this task. The task becomes visible in their dashboard.
-- **_Deadline:_** Set the task completion date.
-- **_Allocated Hours:_** Estimate time required for the task.
+   - **_Project:_** Select the project this task belongs to. Defaults to the current project.
+   - **_Customer:_** Link to a customer, if applicable.
+   - **_Assignees:_** Choose users responsible for this task. The task becomes visible in their dashboard.
+   - **_Deadline:_** Set the task completion date.
+   - **_Allocated Hours:_** Estimate time required for the task.
 
-![Task Project](../../../images1/project/project_task_setting.png)
+   ![Task Project](../../../images1/project/project_task_setting.png)
 
-Click **Create** to save the task. You will be redirected to the **View Task** page.
+4. Click **Create** to save the task. You will be redirected to the **View Task** page.
 
 ### On View Task Page
 
-- **Edit Task**: Modify the task details.
-- **Delete**: Permanently remove the task.
-- **Sub Tasks**: Click to create smaller, trackable items within this task.
+- **_Edit Task:_** Modify the task details.
+- **_Delete:_** Permanently remove the task.
+- **_Sub Tasks:_** Click to create smaller, trackable items within this task.
 
 ![Task Project](../../../images1/project/project_task_view.png)
 
@@ -111,7 +111,7 @@ Click **Create** to save the task. You will be redirected to the **View Task** p
 1. On the **View Task** page, click **Sub Tasks**.
 2. Click the **Create Sub Task** button.
 
-![Task Project](../../../images1/project/project_subtask.png)
+   ![Task Project](../../../images1/project/project_subtask.png)
 
 3. A modal form will appear. Fill in the details:
 
@@ -134,7 +134,7 @@ Click **Create** to save the task. You will be redirected to the **View Task** p
 
    ![Task Project](../../../images1/project/project_subtask_settings.png)
 
-4. Sub Task Actions
+4. Action Buttons
 
 - **_Create:_** Save the sub task.
 - **_Create & Create Another:_** Save and open a new sub task form.
@@ -142,7 +142,7 @@ Click **Create** to save the task. You will be redirected to the **View Task** p
 
 Once created, sub tasks will appear under the **Sub Tasks** section in the **View Task** page.
 
-## 📌 Use Case Example
+### 📌 Use Case Example
 
 **Example:** You’re managing a software development project for a client.
 
@@ -154,4 +154,6 @@ Once created, sub tasks will appear under the **Sub Tasks** section in the **Vie
 
 This structured approach keeps the team aligned and helps management monitor progress easily.
 
-Let me know if you'd like to continue with the **Milestones**, **Timesheets**, or **Task Stages** documentation!
+## Summary
+
+**Projects** module in **AureusERP** allow for efficient management of tasks, deadlines, and team collaboration. By utilizing features like task assignments, sub tasks, milestones, and timesheets, organizations can streamline their project workflows and ensure successful project delivery.

@@ -77,9 +77,9 @@ Use the task creation feature to assign responsibilities, plan workloads, track 
 - After clicking **Create**, you are redirected to the **View Task** page.
 - From here you can:
 
-  - **Edit Task:** Modify any task details.
-  - **Delete:** Permanently remove the task.
-  - **Sub Tasks:** Manage and add sub tasks related to this task.
+  - **_Edit Task:_** Modify any task details.
+  - **_Delete:_** Permanently remove the task.
+  - **_Sub Tasks:_** Manage and add sub tasks related to this task.
 
   ![Task Project](../../../images1/project/project_task_view.png)
 
@@ -133,6 +133,6 @@ Once created, the sub task appears under the **Sub Tasks** tab in the parent tas
 
 ![Task Project](../../../images1/project/project_subtask_view.png)
 
-### 📌 Summary
+## Summary
 
 The Task and Sub Task features provide an organized structure to manage work efficiently in any project. Tasks represent core units of work, while sub tasks allow for granular breakdowns. Together, they help ensure accountability, clarity, and timely project delivery.
