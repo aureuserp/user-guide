@@ -4,13 +4,15 @@ The **Applications** section in the **Recruitments Plugin** of **AureusERP** man
 
 ## Job Applications
 
+Job Applications represent open job positions within the organization. Each job application can have multiple applicants associated with it.
+
 ### Navigation Path
 
-Navigate to **`Recruitments → Applications → Job Positions`** as shown in the below image.
+- Navigate to **`Recruitments → Applications → Job Positions`** as shown in the below image.
 
-![Create JA](../../../images1/recruitment/ja_create.png)
+  ![Create JA](../../../images1/recruitment/ja_create.png)
 
-> This section displays all **Job Positions** currently open or in progress. Each job position lists the number of applicants associated with it.
+  > This section displays all **Job Positions** currently open or in progress. Each job position lists the number of applicants associated with it.
 
 - Clicking on any job position will redirect you to the **Applicants** for that specific role.
 
@@ -20,8 +22,10 @@ Applicants represent individuals who have applied for a job position. Admins can
 
 ### Steps to Create an Applicant
 
-1. Navigate to **`Recruitments → Applications → Applicants → New Applicant`**.
+1. Navigate to **`Recruitments → Applications → Applicants → New Applicant`** as shown below.
+
    ![Create Applicant](../../../images1/recruitment/create_applicant.png)
+
 2. A modal form appears:
 
    **Candidate** (Select from existing or click **+** to create a new candidate).
@@ -108,8 +112,10 @@ Candidates are individuals who may apply for jobs. Admins can create candidates 
 
 ### Steps to Create a Candidate
 
-1. Navigate to **`Recruitments → Applications → Candidates → New Candidate`**.
+1. Navigate to **`Recruitments → Applications → Candidates → New Candidate`** as shown below.
+   
    ![Create Candidate](../../../images1/recruitment/create_candidate.png)
+
 2. Fill in the form:
 
    ### Basic Information

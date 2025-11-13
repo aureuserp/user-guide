@@ -14,7 +14,7 @@ Configurations are a vital part of the **Project Plugin** in **AureusERP**. They
 
 2. A modal appears with a single field:
 
-   - **Name**: Enter the name of the stage (e.g., Planning, Review, Completed)
+   - **_Name:_** Enter the name of the stage (e.g., Planning, Review, Completed)
 
    - Click **Create** to save the stage.
      ![Project Stage](../../../images1/project/project_stage_1.png)
@@ -32,8 +32,8 @@ Configurations are a vital part of the **Project Plugin** in **AureusERP**. They
 
 2. A modal appears with the following fields:
 
-   - **Name**: Enter the name of the stage (e.g., Backlog, In Review)
-   - **Project**: Select the related project from the dropdown
+   - **_Name:_** Enter the name of the stage (e.g., Backlog, In Review)
+   - **_Project:_** Select the related project from the dropdown
 
    - Click **Create** to save the task stage.
      ![Project Stage](../../../images1/project/task_stage_1.png)
@@ -51,10 +51,10 @@ Configurations are a vital part of the **Project Plugin** in **AureusERP**. They
 
 2. A modal appears with the following fields:
 
-   - **Name:** Title of the milestone (e.g., MVP Delivery)
-   - **Deadline:** Target date for the milestone
-   - **Is Completed:** Toggle to mark the milestone as done
-   - **Project:** Select the associated project
+   - **_Name:_** Title of the milestone (e.g., MVP Delivery)
+   - **_Deadline:_** Target date for the milestone
+   - **_Is Completed:_** Toggle to mark the milestone as done
+   - **_Project:_** Select the associated project
 
    - Click **Create** to add the milestone.
      ![Milestone](../../../images1/project/milestone_create_1.png)
@@ -72,8 +72,8 @@ Configurations are a vital part of the **Project Plugin** in **AureusERP**. They
 
 2. A modal appears with the following fields:
 
-   - **Name**: Enter tag title (e.g., High Priority)
-   - **Color**: Choose a tag color to visually differentiate tags
+   - **_Name:_** Enter tag title (e.g., High Priority)
+   - **_Color:_** Choose a tag color to visually differentiate tags
 
    - Click **Create** to save the tag.
      ![Tag](../../../images1/project/tag_create_1.png)
@@ -91,8 +91,8 @@ Configurations are a vital part of the **Project Plugin** in **AureusERP**. They
 
 2. A modal appears with the following fields:
 
-   - **Name**: Give your activity plan a meaningful name (e.g., Onboarding Plan)
-   - **Status**: Enter a default status or step within the activity plan
+   - **_Name:_** Give your activity plan a meaningful name (e.g., Onboarding Plan)
+   - **_Status:_** Enter a default status or step within the activity plan
 
    - Click **Create** to save the plan.
      ![Tag](../../../images1/project/activity_plans_create_1.png)

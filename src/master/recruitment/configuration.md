@@ -4,9 +4,9 @@ This document explains the **Configuration** section of the Recruitment Plugin i
 
 ## Activity Plans
 
-Activity Plans help in planning and organizing steps in the recruitment process, such as initial screening, interviews, etc.
+> **Why it's used:** Activity Plans help in planning and organizing steps in the recruitment process, such as initial screening, interviews, etc.
 
-### Steps to Create
+### Activity Plan Creation
 
 1. Navigate to **`Recruitments → Configuration → Activities → Activity Plans`** as shown in the below image.
 
@@ -14,21 +14,24 @@ Activity Plans help in planning and organizing steps in the recruitment process,
 
 2. Fill in:
 
-   - **Name**: Title of the activity plan (e.g., Initial Interview Plan)
-   - **Department**: The department for which this plan is applicable
-   - **Company**: The company where the recruitment is taking place
-   - **Status**: Set whether the activity plan is active
+   - **_Name:_** Title of the activity plan (e.g., Initial Interview Plan)
+   - **_Department:_** The department for which this plan is applicable
+   - **_Company:_** The company where the recruitment is taking place
+   - **_Status:_** Set whether the activity plan is active
 
    ![General Activity](../../../images1/recruitment/activity_general.png)
 
 3. Action Buttons
-   Click **Create** , **Create & Create Another** or **Cancel**
+
+   - **_Create:_** Save and create the activity plan.
+   - **_Create & Create Another:_** Save and open a new form to add another activity
+   - **_Cancel:_** Exit without saving.
 
 ## Activity Types
 
-Define specific types of recruitment actions (e.g., phone call, meeting, upload documents).
+> **Why it's used:** Activity Types Define specific types of recruitment actions (e.g., phone call, meeting, upload documents).
 
-### Steps to Create
+### Activity Type Creation
 
 1. Navigate to **`Recruitments → Configuration → Activities → Activity Types`** as shown in the below image.
 
@@ -58,14 +61,22 @@ Define specific types of recruitment actions (e.g., phone call, meeting, upload 
 
    ### Delay Information:
 
-   - **Delay Count** and **Unit**: Set delays (e.g., 2 Days)
+   - **_Delay Count_** and **_Unit_**: Set delays (e.g., 2 Days)
    - **_Delay From:_** Choose between previous deadline or completion date
+
+   ![General Activity Types](../../../images1/recruitment/activity_types_general.png)
+
+3. Action Buttons
+
+   - **_Create:_** Save and create the activity type.
+   - **_Create & Create Another:_** Save and open a new form to add another activity type.
+   - **_Cancel:_** Exit without saving.
 
 ## Tags
 
-Tags help categorize applications (e.g., Urgent, Skilled, Fresher)
+> **Why it's used:** Tags help categorize applications (e.g., Urgent, Skilled, Fresher)
 
-### Steps to Create
+### Tag Creation
 
 1. Navigate to **`Recruitments → Configuration → Applications → Tags`** as shown in the below image.
 
@@ -73,30 +84,42 @@ Tags help categorize applications (e.g., Urgent, Skilled, Fresher)
 
 2. Fill in:
 
-   - **Name**
-   - **Color** (for easy identification)
+   - **_Name:_**
+   - **_Color:_** (for easy identification)
 
    ![General tags](../../../images1/recruitment/tags_general.png)
 
+3. Action Buttons
+
+   - **_Create:_** Save and create the tag.
+   - **_Create & Create Another:_** Save and open a new form to add another tag.
+   - **_Cancel:_** Exit without saving.
+
 ## Degrees
 
-Define the academic qualifications applicable for a position.
+> **Why it's used:** Define the academic qualifications applicable for a position.
 
-### Steps to Create
+### Degree Creation
 
 1. Navigate to **`Recruitments → Configuration → Applications → Degrees`** as shown in the below image.
 
    ![Config. Degrees](../../../images1/recruitment/config_degrees.png)
 
-2. Enter the **Name** (e.g., MBA, B.Tech)
+2. Enter the **_Name:_** (e.g., MBA, B.Tech)
 
    ![General degree](../../../images1/recruitment/degree_general.png)
 
+3. Action Buttons
+
+   - **_Create:_** Save and create the degree.
+   - **_Create & Create Another:_** Save and open a new form to add another degree.
+   - **_Cancel:_** Exit without saving.
+
 ## Refuse Reasons
 
-Set predefined reasons for rejecting applicants.
+> **Why it's used:** Set predefined reasons for rejecting applicants.
 
-### Steps to Create
+### Refuse Reason Creation
 
 1. Navigate to **`Recruitments → Configuration → Applications → Refuse Reasons`** as shown in the below image.
 
@@ -109,39 +132,57 @@ Set predefined reasons for rejecting applicants.
 
    ![General refuse](../../../images1/recruitment/refuse_general.png)
 
+3. Action Buttons
+
+   - **_Create:_** Save and create the refuse reason.
+   - **_Create & Create Another:_** Save and open a new form to add another refuse reason.
+   - **_Cancel:_** Exit without saving.
+
 ## Mediums
 
-Define marketing or application mediums (e.g., Social Media, Job Portal).
+> **Why it's used:** Define marketing or application mediums (e.g., Social Media, Job Portal).
 
-### Steps to Create
+### Medium Creation
 
 1. Navigate to **`Recruitments → Configuration → UTMs → Mediums`** as shown in the below image.
 
    ![Config. Mediums](../../../images1/recruitment/config_activity_mediums.png)
 
-2. Enter **Name** (e.g., LinkedIn, Indeed)
+2. Enter **_Name:_** (e.g., LinkedIn, Indeed)
 
    ![General medium](../../../images1/recruitment/medium_general.png)
 
+3. Action Buttons
+
+   - **_Create:_** Save and create the medium.
+   - **_Create & Create Another:_** Save and open a new form to add another medium.
+   - **_Cancel:_** Exit without saving.
+
 ## Sources
 
-Identify sources from where applicants are coming.
+> **Why it's used:** Identify sources from where applicants are coming.
 
-### Steps to Create
+### Source Creation
 
 1. Navigate to **`Recruitments → Configuration → UTMs → Sources`** as shown in the below image.
 
    ![Config. Sources](../../../images1/recruitment/config_sources.png)
 
-2. Enter **Name** (e.g., Referral, College Drive)
+2. Enter **_Name:_** (e.g., Referral, College Drive)
 
    ![General sources](../../../images1/recruitment/sources_general.png)
 
+3. Action Buttons
+
+   - **_Create:_** Save and create the source.
+   - **_Create & Create Another:_** Save and open a new form to add another source.
+   - **_Cancel:_** Exit without saving.
+
 ## Skill Types
 
-Define skills required in employees (e.g., Programming, Communication).
+> **Why it's used:** Define skills required in employees (e.g., Programming, Communication).
 
-### Steps to Create
+### Skill Type Creation
 
 1. Navigate to **`Recruitments → Configuration → Employees → Skill Types`** as shown in the below image.
 
@@ -149,17 +190,23 @@ Define skills required in employees (e.g., Programming, Communication).
 
 2. Fill in:
 
-   - **Name**
-   - **Color**
-   - **Status:** Enable/Disable toggle
+   - **_Name:_**
+   - **_Color:_**
+   - **_Status:_** Enable/Disable toggle
 
    ![General skill](../../../images1/recruitment/skill_general.png)
 
+3. Action Buttons
+
+   - **_Create:_** Save and create the skill type.
+   - **_Create & Create Another:_** Save and open a new form to add another skill type.
+   - **_Cancel:_** Exit without saving.
+
 ## Departments
 
-Organize your company structure by departments (e.g., HR, Development).
+> **Why it's used:** Organize your company structure by departments (e.g., HR, Development).
 
-### Steps to Create
+### Department Creation
 
 1. Navigate to **`Recruitments → Configuration → Employees → Departments`** as shown in the below image.
 
@@ -167,19 +214,25 @@ Organize your company structure by departments (e.g., HR, Development).
 
 2. Fill in:
 
-   - **Name**
-   - **Parent Department:** (Optional)
-   - **Manager**
-   - **Company**
-   - **Color:** Tag color
+   - **_Name:_**
+   - **_Parent Department:_** (Optional)
+   - **_Manager:_**
+   - **_Company:_**
+   - **_Color:_:** Tag color
 
    ![General department](../../../images1/recruitment/department_general.png)
 
+3. Action Buttons
+
+   - **_Create:_** Save and create the department.
+   - **_Create & Create Another:_** Save and open a new form to add another department.
+   - **_Cancel:_** Exit without saving.
+
 ## Stages
 
-Define steps in the recruitment pipeline (e.g., Applied, Interview, Hired).
+> **Why it's used:** Define steps in the recruitment pipeline (e.g., Applied, Interview, Hired).
 
-### Steps to Create
+### Stage Creation
 
 1. Navigate to **`Recruitments → Configuration → Job Positions → Stages`** as shown in the below image.
 
@@ -204,11 +257,17 @@ Define steps in the recruitment pipeline (e.g., Applied, Interview, Hired).
 
    ![General stages](../../../images1/recruitment/stages_general.png)
 
+3. Action Buttons
+
+   - **_Create:_** Save and create the stage.
+   - **_Create & Create Another:_** Save and open a new form to add another stage.
+   - **_Cancel:_** Exit without saving.
+
 ## Employment Types
 
-Define job types like Full-Time, Part-Time, Internship.
+> **Why it's used:** Define job types like Full-Time, Part-Time, Internship.
 
-### Steps to Create
+### Employment Type Creation
 
 1. Navigate to **`Recruitments → Configuration → Job Positions → Employment Types`** as shown in the below image.
 
@@ -216,16 +275,22 @@ Define job types like Full-Time, Part-Time, Internship.
 
 2. Fill in:
 
-   - **Employment Type** (e.g., Internship)
-   - **Country**
+   - **_Employment Type:_** (e.g., Internship)
+   - **_Country:_**
 
    ![General Employment](../../../images1/recruitment/employment_general.png)
 
+3. Action Buttons
+
+   - **_Create:_** Save and create the employment type.
+   - **_Create & Create Another:_** Save and open a new form to add another employment type.
+   - **_Cancel:_** Exit without saving.
+
 ## Job Positions
 
-Add and manage open positions in your organization.
+> **Why it's used:** Add and manage open positions in your organization.
 
-### Steps to Create
+### Job Position Creation
 
 1. Navigate to **`Recruitments → Configuration → Job Positions → Job Positions`** as shown in the below image.
 
@@ -257,6 +322,12 @@ Add and manage open positions in your organization.
 
    ![General jp](../../../images1/recruitment/jp_general.png)
 
----
+3. Action Buttons
 
-This configuration ensures the recruitment process is smooth, structured, and aligned with organizational needs. Once set up, it empowers HR teams to streamline hiring workflows.
+   - **_Create:_** Save and create the job position.
+   - **_Create & Create Another:_** Save and open a new form to add another job position.
+   - **_Cancel:_** Exit without saving.
+
+## Summary
+
+The Configuration section of the **Recruitment** Plugin in **AureusERP** is essential for setting up a structured and efficient hiring process. Each configurable item includes detailed steps for creation, ensuring that HR teams can easily manage and customize their recruitment processes to meet organizational needs.
