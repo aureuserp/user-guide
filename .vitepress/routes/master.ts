@@ -153,7 +153,6 @@ const routes = [
       { text: 'My Time', link: '/master/timeOff/my-time' },
       { text: 'Overview', link: '/master/timeOff/overview' },
       { text: 'Management', link: '/master/timeOff/management' },
-      { text: 'Reporting', link: '/master/timeOff/reporting' },
       { text: 'Configuration', link: '/master/timeOff/configuration' },
     ]
   },

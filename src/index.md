@@ -7,7 +7,7 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /master/invoice/customers/products.md
+      link: /master/introduction.md
     - theme: alt
       text: Demo
       link: https://demo.aureuserp.com/
