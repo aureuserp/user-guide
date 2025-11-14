@@ -10,7 +10,7 @@ The **Configurations** section of the **Invoices** plugin in **AureusERP** allow
 
 To set up a bank account:
 
-- Navigate to **`Invoices → Configurations → Bank Accounts → New Bank Account`**.
+- Navigate to **`Invoices → Configurations → Bank Accounts → New Bank Account`** as shown below.
   ![Create Bank](../../../images1/invoices/bank_create.png)
 - A modal will open with the following fields:
   - **Account Number:** Enter the full bank account number.

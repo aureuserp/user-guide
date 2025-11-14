@@ -17,18 +17,18 @@ This section helps you configure how purchase orders are created, approved, and 
 
 2. You will see the following fields:
 
-- **_Purchase Order Approval:_** When enabled, purchase orders exceeding a specific **minimum amount** will require approval from a manager before confirmation. This ensures better control over high-value purchases.
+   - **_Purchase Order Approval:_** When enabled, purchase orders exceeding a specific **minimum amount** will require approval from a manager before confirmation. This ensures better control over high-value purchases.
 
-- **_Minimum Amount:_** Define the threshold amount for which a purchase order must be approved.  
-  Example: If set to ₹10,000, any order above this amount will need manager approval.
+   - **_Minimum Amount:_** Define the threshold amount for which a purchase order must be approved.  
+     Example: If set to ₹10,000, any order above this amount will need manager approval.
 
-- **_Lock Confirmed Orders:_** When enabled, once a purchase order is confirmed, it cannot be edited. This helps prevent accidental changes after finalization.
+   - **_Lock Confirmed Orders:_** When enabled, once a purchase order is confirmed, it cannot be edited. This helps prevent accidental changes after finalization.
 
-- **_Purchase Agreements:_** Enable this option to manage **Blanket Orders** and **Purchase Templates**. Blanket Orders help in long-term agreements with suppliers, while Purchase Templates simplify repetitive order creation.
+   - **_Purchase Agreements:_** Enable this option to manage **Blanket Orders** and **Purchase Templates**. Blanket Orders help in long-term agreements with suppliers, while Purchase Templates simplify repetitive order creation.
 
-### Action Button
+3. Action Button
 
-- **_Save Changes:_** Click this button to apply and save all your configuration updates.
+   - **_Save Changes:_** Click this button to apply and save all your configuration updates.
 
 ## Manage Products
 
@@ -36,21 +36,19 @@ This section allows you to configure how products are managed and used in purcha
 
 ### Steps to Access
 
-Navigate to **`Purchase → Settings → Manage Products`** as shown below:
+1. Navigate to **`Purchase → Settings → Manage Products`** as shown below:
 
-![Manage Products Navigation](../../../images1/purchases/manage_products_navigation.png)
+   ![Manage Products Navigation](../../../images1/purchases/manage_products_navigation.png)
 
-### Field Descriptions
+2. You will see the following fields:
 
-- **_Variants:_** Enable to manage products with multiple variations such as size, color, or material. This allows you to create and purchase specific product variants instead of a single general product.
+   - **_Variants:_** Enable to manage products with multiple variations such as size, color, or material. This allows you to create and purchase specific product variants instead of a single general product.
+   - **_Unit of Measure:_** Enable to buy and sell products in different measurement units (e.g., pieces, boxes, dozens). This provides flexibility for managing product quantities in various formats.
+   - **_Packagings:_** Enable to manage product packaging details, such as a pack of 6 bottles or a box of 10 pieces. This helps in tracking inventory and purchases based on packaging type.
 
-- **_Unit of Measure:_** Enable to buy and sell products in different measurement units (e.g., pieces, boxes, dozens). This provides flexibility for managing product quantities in various formats.
+3. Action Button
 
-- **_Packagings:_** Enable to manage product packaging details, such as a pack of 6 bottles or a box of 10 pieces. This helps in tracking inventory and purchases based on packaging type.
-
-### Action Button
-
-- **_Save Changes:_** Click this button to store your updated product management configurations.
+   - **_Save Changes:_** Click this button to store your updated product management configurations.
 
 ### Summary
 

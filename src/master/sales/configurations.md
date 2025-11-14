@@ -2,107 +2,143 @@
 
 The **Sales Configurations** section in **AureusERP** allows administrators to define reusable parameters that control behavior and enhance user productivity throughout the sales lifecycle. From managing activities and packaging to customizing product attributes and sales tags, this module centralizes critical setup operations.
 
-## 📝 Activities
+## Activity Plans
 
-### Activity Plans
+> **Why it's used:** Define reusable plans that consist of sequenced activities assigned to sales teams or users. These can be associated with leads, opportunities, or orders.
 
-- **Navigation**: `Sales → Configuration → Activity Plans`
-- **Purpose**: Define reusable plans that consist of sequenced activities assigned to sales teams or users. These can be associated with leads, opportunities, or orders.
+### Activity Plan Creation
 
-#### Create Activity Plan (Modal Form Fields):
+1. Navigate to **`Sales → Configuration → Activity Plans`** as shown below:
 
-- **Name**: Title of the plan (e.g., New Customer Onboarding).
-- **Company**: Select or create a company.
-- **Status**: Toggle to activate or deactivate the plan.
+   ![Activity Plans Navigation](../../../images1/sales/activity_plans_navigation.png)
 
-### Activity Types
+2. Fill in:
 
-- **Navigation**: `Sales → Configuration → Activity Types`
-- **Purpose**: Configure different types of sales-related tasks or follow-ups (e.g., phone calls, meetings, or file uploads). These tasks can be chained to automate follow-up scheduling.
+   - **_Name:_** Title of the plan (e.g., New Customer Onboarding).
+   - **_Company:_** Select or create a company.
+   - **_Status:_** Toggle to activate or deactivate the plan.
 
-#### General Information:
+   ![Activity Plan Form](../../../images1/sales/activity_plan_form.png)
 
-- **Activity Type**: Label of the activity (e.g., Follow-Up Call).
-- **Action**: Choose from `None`, `Upload File`, `Default`, `Phone Call`, `Meeting`.
-- **Default User**: Assign to a user by default.
-- **Summary**: Title/heading for the task.
-- **Note**: Additional description.
+## Activity Types
 
-#### Advanced Information:
+> **Why it's used:** Configure different types of sales-related tasks or follow-ups (e.g., phone calls, meetings, or file uploads). These tasks can be chained to automate follow-up scheduling.
 
-- **Icon**: Select an icon representing the task.
-- **Decoration Type**: Add a visual indicator (e.g., alert, error).
+### Activity Type Creation
 
-- **Chaining Type** (only visible if action is not "Upload File"):
-  - **Suggest Next Activity**: Recommends the next action.
-  - **Trigger Next Activity**: Automatically assigns the next step.
+1. Navigate to **`Sales → Configuration → Activity Types`** as shown below:
 
-#### Status & Configuration:
+   ![Activity Types Navigation](../../../images1/sales/activity_types_navigation.png)
 
-- **Status**: Enable or disable activity type.
-- **Keep Done Activities**: Retain completed activities for history.
+2. Fill in Activity Type:
 
-#### Delay Information:
+   #### General Information:
 
-- **Delay Count**: Time gap between this and previous activity.
-- **Delay Unit\***: Select from `Minutes`, `Hours`, `Days`, `Weeks`.
-- **Delay From\***: Either from previous activity's deadline or completion.
+   - **_Activity Type:_** Label of the activity (e.g., Follow-Up Call).
+   - **_Action:_** Choose from `None`, `Upload File`, `Default`, `Phone Call`, `Meeting`.
+   - **_Default User:_** Assign to a user by default.
+   - **_Summary_** Title/heading for the task.
+   - **_Note:_** Additional description.
 
-## 📦 Packaging
+   #### Advanced Information:
 
-- **Navigation**: `Sales → Configuration → Packaging → Product`
-- **Purpose**: Define packaging standards used during product delivery and invoicing.
+   - **_Icon:_** Select an icon representing the task.
+   - **_Decoration Type:_** Add a visual indicator (e.g., alert, error).
 
-#### Create Packaging (Modal Fields):
+   - **Chaining Type** (only visible if action is not "Upload File"):
+     - **_Suggest Next Activity:_** Recommends the next action.
+     - **_Trigger Next Activity:_** Automatically assigns the next step.
 
-- **Name**: Name of the packaging type.
-- **Barcode**: Optional barcode for the packaging.
-- **Product**: Link this packaging to a specific product.
-- **Quantity**: Number of items in one package.
-- **Company**: Applicable company.
+   #### Status & Configuration:
 
-## 🛒 Products
+   - **_Status:_** Enable or disable activity type.
+   - **_Keep Done Activities:_** Retain completed activities for history.
 
-### Categories
+   #### Delay Information:
 
-- **Navigation**: `Sales → Configuration → Products → Category`
-- **Purpose**: Organize products into hierarchies for better navigation, segmentation, and pricing rules.
+   - **_Delay Count:_** Time gap between this and previous activity.
+   - **_Delay Unit:_** Select from `Minutes`, `Hours`, `Days`, `Weeks`.
+   - **_Delay From:_** Either from previous activity's deadline or completion.
 
-#### Create Category (Page Fields):
+   ![Activity Type Form](../../../images1/sales/activity_type_form.png)
 
-- **Name**: Category name (e.g., Electronics, Clothing).
-- **Parent**: Optionally assign a parent to create a subcategory.
+## Product Packaging
 
-> Once created, the category can be edited, deleted, and have products added to it.
+> **Why it's used:** Define packaging standards used during product delivery and invoicing.
 
-### Attributes
+### Product Packaging Creation
 
-- **Navigation**: `Sales → Configuration → Products → Attributes`
-- **Purpose**: Define product variation options (e.g., size, color) to support variant creation.
+1. Navigate to **`Sales → Configuration → Packaging → Product`** as shown below:
 
-#### General Section:
+   ![Packaging Navigation](../../../images1/sales/packaging_navigation.png)
 
-- **Name**: Attribute label (e.g., Size, Material).
-- **Type**: Choose one:
-  - `Radio`
-  - `Select`
-  - `Color` (reveals color selector)
+2. Create Packaging (Modal Form):
 
-#### Options Section:
+   - **_Name:_** Name of the packaging type.
+   - **_Barcode:_** Optional barcode for the packaging.
+   - **_Product:_** Link this packaging to a specific product.
+   - **_Quantity:_** Number of items in one package.
+   - **_Company:_** Applicable company.
 
-- **Name**: Value name (e.g., Large, Red).
-- **Extra Price**: Price adjustment when the option is selected.
+   ![Product Packaging Form](../../../images1/sales/product_packaging_form.png)
 
-## 📌 Sales Orders
+## Categories
 
-### Tags
+> **Why it's used:** Organize products into hierarchies for better navigation, segmentation, and pricing rules.
 
-- **Navigation**: `Sales → Configuration → Sales Orders → Tags`
-- **Purpose**: Apply color-coded labels to sales orders for better filtering and tracking.
+1. Navigate to **`Sales → Configuration → Products → Category`** as shown below:
 
-#### Create Tag (Modal Fields):
+   ![Categories Navigation](../../../images1/sales/categories_navigation.png)
 
-- **Name**: Tag name (e.g., Urgent, Repeat Customer).
-- **Color**: Select a visual indicator.
+2. Fill in Category Details:
 
-These configurations enhance the flexibility, automation, and personalization of the **Sales** plugin in **AureusERP**, allowing teams to streamline their processes and scale operations effectively.
+   - **_Name:_** Category name (e.g., Electronics, Clothing).
+   - **_Parent:_** Optionally assign a parent to create a subcategory.
+
+   > Once created, the category can be edited, deleted, and have products added to it.
+
+   ![Category Form](../../../images1/sales/category_form.png)
+
+## Attributes
+
+> **Why it's used:** Define product variation options (e.g., size, color) to support variant creation.
+
+1. Navigate to **`Sales → Configuration → Products → Attributes`** as shown below:
+
+   ![Attributes Navigation](../../../images1/sales/attributes_navigation.png)
+
+2. Fill in Attribute Details:
+
+   #### General Section:
+
+   - **_Name:_** Attribute label (e.g., Size, Material).
+   - **_Type:_** Choose one:
+     - `Radio`
+     - `Select`
+     - `Color` (reveals color selector)
+
+   #### Options Section:
+
+   - **_Name:_** Value name (e.g., Large, Red).
+   - **_Extra Price:_** Price adjustment when the option is selected.
+
+   ![Attribute Form](../../../images1/sales/attribute_form.png)
+
+## Tags
+
+> **Why it's used:** Apply color-coded labels to sales orders for better filtering and tracking.
+
+1. Navigate to **`Sales → Configuration → Sales Orders → Tags`** as shown below:
+
+   ![Tags Navigation](../../../images1/sales/tags_navigation.png)
+
+2. Create Sales Order Tag:
+
+   - **_Name:_** Tag name (e.g., Urgent, Repeat Customer).
+   - **_Color:_** Select a visual indicator.
+
+   ![Sales Order Tag Form](../../../images1/sales/sales_order_tag_form.png)
+
+## Summary
+
+The **Sales Configurations** module in **AureusERP** provides a comprehensive set of tools to customize and optimize sales processes. By defining activity plans, activity types, product packaging, categories, attributes, and tags, administrators can create a tailored sales environment that enhances efficiency and user experience. These configurations enable better organization, automation, and tracking of sales activities, ultimately contributing to improved sales performance and customer satisfaction.

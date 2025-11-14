@@ -14,7 +14,7 @@ The **Customer** module in **AureusERP** allows users to manage their clients by
 
     ### General Section
 
-    - **_Individual or Company_** (Toggle Button):
+    - **_Individual or Company:_**
       - Choose whether the customer is an individual or a business entity.
       - If **Company** is selected, the **Company** field disappears to avoid redundancy.
     - **_Name:_** Full name of the individual or contact person.
@@ -113,10 +113,10 @@ Update the customer’s personal, company, or fiscal details by clicking the Edi
 - Navigate to the **Bank Account** section to manage financial details.
 - Click **New Bank Account** to open a modal form with the following fields:
 
-  - **Account Number**: Unique identifier of the customer’s bank account.
-  - **Can Send Money:** Enable if this account can be used for outbound payments.
-  - **Bank**: Choose from existing banks or click ➕ to create a new one.
-  - **Account Holder**: Select the relevant customer from the dropdown.
+  - **_Account Number:_** Unique identifier of the customer’s bank account.
+  - **_Can Send Money:_** Enable if this account can be used for outbound payments.
+  - **_Bank:_** Choose from existing banks or click ➕ to create a new one.
+  - **_Account Holder:_** Select the relevant customer from the dropdown.
 
 ![Create Customer](../../../images1/invoices/customer_bank.png)
 

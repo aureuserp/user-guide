@@ -1,84 +1,114 @@
-# Settings – Roles & Permissions | Sales Plugin
+# Settings
 
-Before accessing any functionality in the **Sales Plugin**, permissions must be granted to user roles. This ensures that only authorized users can view or manage customer data, quotations, sales orders, and related records.
+The **Sales Settings** section in **AureusERP** allows businesses to configure how sales operations, pricing, products, invoices, and quotations are managed.  
+Each subsection under Sales Settings provides flexibility to customize the workflow as per business needs.
 
-## 🔐 Managing Roles & Permissions
+## Manage Products
 
-Navigate to **`Settings → Roles → [Select Role] → Edit`** as shown in the image below.
+This section allows you to control how products are managed and displayed in the Sales module. You can enable or disable product variants, units of measure, and product packaging options based on your sales process.
 
-![Settings](../../../images/roles.png)
+### Steps to Access
 
-You will see a list of **resources** and **pages** with checkboxes that define what actions users assigned to that role can perform.
+1. Navigate to **`Sales → Settings → Manage Products`** as shown below:
 
-### Resources Permissions
+   ![Manage Products Navigation](../../../images1/sales/manage_products_navigation.png)
+   ![Manage Products Navigation](../../../images1/sales/manage_products_navigation1.png)
 
-Each **resource** in the Sales plugin includes a detailed permission structure, allowing granular control over operations.
+2. You will see the following configuration fields:
 
-![Settings](../../../images/permissions.png)
+   - **_Variants:_** Enable this to allow products to have multiple variants based on attributes such as color, size, or material.
+     Useful for businesses selling customizable or multi-option products.
 
-### Available Actions:
+   - **_Unit of Measure:_** Allow products to be sold in different units such as units, or dozens.
+     This ensures flexibility in handling different sales quantities or pricing per unit type.
 
-- **View**
-- **View Any**
-- **Create**
-- **Update**
-- **Restore**
-- **Restore Any**
-- **Replicate**
-- **Reorder**
-- **Delete**
-- **Delete Any**
-- **Force Delete**
-- **Force Delete Any**
+   - **_Packagings:_** Enable this to manage multiple packaging options for a product (e.g., pack of 6, box of 12).
+     Helps in optimizing shipping, inventory management, and bulk sales.
 
-![Settings](../../../images/roles_actions.png)
+3. **Action Button**
 
-### Resources Covered:
+   - **_Save Changes:_** Click this button to apply and save all your configuration updates.
 
-- **Activity Plans**
-- **Activity Types**
-- **Packaging**
-- **Product Attributes**
-- **Product Categories**
-- **Products**
-- **Customers**
-- **Quotations**
-- **Sales Orders**
-- **Tags**
+## Manage Invoices
 
-> To enable full functionality of the **Sales Plugin**, ensure all relevant checkboxes for each resource are enabled.
+This section defines how invoices are generated for confirmed sales orders.  
+It helps control whether invoices are created based on ordered or delivered quantities, aligning billing with your business process.
 
-![Settings](../../../images/resources_covered.png)
+### Steps to Access
 
-## Page Access Control
+1. Navigate to **`Sales → Settings → Manage Invoices`** as shown below:
 
-In addition to resources, specific **pages** can be granted access to individual roles.
+   ![Manage Invoices Navigation](../../../images1/sales/manage_invoices_navigation.png)
 
-### Pages Include:
+2. You will see the following configuration fields:
 
-- **Configuration**
-- **Customers**
-- **Manage Products**
-- **Quotations**
-- **Sales Orders**
+   - **_Invoice Policy:_**  
+     Choose when invoices should be generated. You can select one of the following options:
 
-![Settings](../../../images/page.png)
+     - **_Ordered Quantities:_**  
+       Invoices are created based on the total quantities ordered, regardless of delivery.  
+       Use this option when you want to bill customers immediately after confirming the order.
 
-Enabling these will allow users to navigate and interact with the respective UI sections of the plugin.
+     - **_Delivered Quantities:_**  
+       Invoices are created based on the quantities actually delivered to the customer.  
+       This option ensures billing aligns with completed deliveries, minimizing discrepancies.
 
-## Select All Shortcut
+3. **Action Button**
 
-If you wish to quickly grant full access:
+   - **_Save Changes:_** Click this button to apply and save all your configuration updates.
 
-- Use the **Select All** toggle located at the top of the page.
-- This will automatically enable all checkboxes under both **Resources** and **Pages**.
+## Manage Pricing
 
-![Settings](../../../images/select_all.png)
+This section allows configuration of product pricing behavior within the Sales module.  
+You can choose to enable product discounts and display profit margins directly in sales orders for better visibility and control.
 
-> Useful for admin roles or when configuring a role with full access to the sales module.
+### Steps to Access
+
+1. Navigate to **`Sales → Settings → Manage Pricing`** as shown below:
+
+   ![Manage Pricing Navigation](../../../images1/sales/manage_pricing_navigation.png)
+
+2. You will see the following configuration fields:
+
+   - **_Discount:_**  
+     Enable this option to allow sales representatives to apply discounts directly to sales orders or quotations.  
+     Helps in promotional sales, special offers, and flexible pricing strategies.
+
+   - **_Margins:_**  
+     Turn this on to display product margins within sales orders.  
+     It helps sales teams monitor profitability and make data-driven decisions while finalizing deals.
+
+3. **Action Button**
+
+   - **_Save Changes:_** Click this button to apply and save all your configuration updates.
+
+## Manage Quotation & Order
+
+This section manages how sales quotations and orders are configured, validated, and confirmed.  
+It defines quotation validity and ensures sales orders are locked after confirmation to prevent further modification.
+
+### Steps to Access
+
+1. Navigate to **`Sales → Settings → Manage Quotation & Order`** as shown below:
+
+   ![Manage Quotation Navigation](../../../images1/sales/manage_quotation_navigation.png)
+
+2. You will see the following configuration fields:
+
+   - **_Default Quotation Validity (In Days):_**  
+     Specify the number of days a quotation remains valid before expiring.  
+     After this period, the quotation cannot be confirmed without renewal or extension.
+
+   - **_Lock Confirm Sales:_**  
+     Enable this to automatically lock sales orders once confirmed.  
+     This prevents accidental changes to confirmed sales orders, ensuring data consistency and preventing discrepancies in billing and delivery.
+
+3. **Action Button**
+
+   - **_Save Changes:_** Click this button to apply and save all your configuration updates.
 
 ## Summary
 
-Role and permission configuration is the **first and essential step** to begin using the Sales plugin. It ensures secure, role-based access and management of customers, products, sales operations, and related documents.
-
-Make sure to review and assign permissions carefully based on your organization's policies and user responsibilities.
+The **Sales Settings** section in **AureusERP** provides complete control over how your sales process operates.  
+From product handling to invoice generation, pricing management, and order validation these settings ensure a streamlined and error-free sales workflow.  
+Proper configuration helps maintain consistency between sales, inventory, and accounting operations while giving flexibility to adapt to different business models.
