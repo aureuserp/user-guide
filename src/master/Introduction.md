@@ -37,7 +37,7 @@ Each section contains:
 - [Invoices](../master/invoice/customers/invoices.md)
 - [Payments](../master/invoice/customers/payments.md)
 - [Bills & Payments](../master/invoice/vendors/bills.md)
-- [Invoice Settings](../master/invoice/settings/invoice-settings.md)
+- [Invoice Settings](../master/invoice/settings.md)
 
 ### 🛒 Sales
 
@@ -51,7 +51,7 @@ Each section contains:
 
 - [Purchase RFQs](../master/purchase/orders/quotations.md)
 - [Purchase Orders](../master/purchase/orders/purchase-orders.md)
-- [Purchase Agreements](../master/purchase/orders/agreements.md)
+- [Purchase Agreements](../master/purchase/orders/purchase-agreements.md)
 - [Purchase Settings](../master/purchase/settings.md)
 
 ### 🏬 Inventory
@@ -59,7 +59,7 @@ Each section contains:
 - [Transfers](../master/inventories/operations/transfers.md)
 - [Adjustments](../master/inventories/operations/adjustments.md)
 - [Products](../master/inventories/products/products.md)
-- [Lots/Serial Numbers](../master/inventories/products/lot-serial-numbers.md)
+- [Lots/Serial Numbers](../master/inventories/products/lots-serial-number.md)
 - [Warehouse Configuration](../master/inventories/configurations/warehouse-management.md)
 - [Inventory Settings](../master/inventories/settings.md)
 
@@ -79,7 +79,7 @@ Each section contains:
 - [My Time](../master/timeOff/my-time.md)
 - [Overview](../master/timeOff/overview.md)
 - [Management](../master/timeOff/management.md)
-- [Configurations](../master/timeOff/configurations.md)
+- [Configurations](../master/timeOff/configuration.md)
 
 ## 🧭 Guide Structure Overview
 
