@@ -1,0 +1,1 @@
+const s="/images1/invoices/product_general.png",i="/images1/invoices/product_inventory.png",o="/images1/invoices/product_settings.png",t="/images1/invoices/product_price.png",n="/images1/invoices/product_print.png",p="/images1/invoices/product_attri.png";export{s as _,i as a,o as b,t as c,n as d,p as e};
