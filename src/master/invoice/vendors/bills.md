@@ -8,7 +8,7 @@ The **Bills** module in **AureusERP** is designed to help businesses accurately 
 
 1. Navigate to **`Invoices → Vendors → Bills`** as shown in the image below.
 
-   ![Create Bill](../../../images1/invoices/bill_create_1.png)
+   ![Create Bill](/images1/invoices/bill_create_1.png)
 
 2. Fill in the fields according to the following sections:
 
@@ -26,7 +26,7 @@ The **Bills** module in **AureusERP** is designed to help businesses accurately 
    - **_Payment Term:_** Select a pre-defined duration for when the bill should be paid (e.g., Net 30, Immediate).
      > 🛈 When a payment term is selected, the **Due Date** field will be automatically replaced with the calculated date based on the selected term.
 
-   ![Create Bill](../../../images1/invoices/bill_create_general.png)
+   ![Create Bill](/images1/invoices/bill_create_general.png)
 
    ### Invoice Lines
 
@@ -42,7 +42,7 @@ The **Bills** module in **AureusERP** is designed to help businesses accurately 
      - **_Cost:_** unit price of the product.
      - **_Subtotal:_** Auto-calculated as `(Quantity × Cost - Discount) + Taxes`.
 
-   ![Create Bill](../../../images1/invoices/vendor_create_invoicelines.png)
+   ![Create Bill](/images1/invoices/vendor_create_invoicelines.png)
 
    ### Other Information
 
@@ -62,7 +62,7 @@ The **Bills** module in **AureusERP** is designed to help businesses accurately 
      - **_Company:_** Select the company paying the bill (for multi-company setup).
      - **_Currency:_** Choose the currency of the bill.
 
-   ![Create Bill](../../../images1/invoices/bill_create_other.png)
+   ![Create Bill](/images1/invoices/bill_create_other.png)
 
 3. **Action Buttons**
 
@@ -83,7 +83,7 @@ After clicking **Create**, the system opens the **Bill View** page.
 - **_Cancel:_** Mark the bill as cancelled.
 - **_Delete:_** Remove the bill permanently.
 
-![View Bill](../../../images1/invoices/bill_view.png)
+![View Bill](/images1/invoices/bill_view.png)
 
 ## Bill After Confirmation
 
@@ -98,13 +98,13 @@ Once the bill is **Confirmed** (status becomes Posted), the following actions be
   - **_Communication:_** Auto-filled Bill number (e.g., BILL/2025/05/13).
 
   > 🛈 Clicking **Submit** updates bill status to **Paid**.
-  > ![Create Invoice](../../../images1/invoices/bill_pay.png)
+  > ![Create Invoice](/images1/invoices/bill_pay.png)
 
 - **_Reset to Draft:_** Revert the bill back to **Draft** state.
 - **_Credit Note:_** Create a credit note with **Reason** and **Date**.
 - **_Delete:_** Remove the bill if needed.
 
-![Create Invoice](../../../images1/invoices/bill_confirm.png)
+![Create Invoice](/images1/invoices/bill_confirm.png)
 
 ## Summary
 

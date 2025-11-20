@@ -12,8 +12,8 @@ This section lets you define how products behave when creating invoices, includi
 
 Navigate to **`Invoices → Settings → Manage Products`** as shown below:
 
-![Manage Products Navigation](../../../images1/invoices/manage_products_navigation.png)
-![Manage Products Page](../../../images1/invoices/manage_products_page.png)
+![Manage Products Navigation](/images1/invoices/manage_products_navigation.png)
+![Manage Products Page](/images1/invoices/manage_products_page.png)
 
 ### Field Descriptions
 

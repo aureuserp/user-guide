@@ -8,7 +8,7 @@ The **Contacts** plugin in **AureusERP** helps you manage all types of business 
 
 1. Navigate to **`Contacts → Contacts → Create Contact`** as shown in the below image.
 
-   ![Create Contact](../../../images1/contacts/navigate_create_contact.png)
+   ![Create Contact](/images1/contacts/navigate_create_contact.png)
 
 2. Fill out the form with the following details:
 
@@ -27,7 +27,7 @@ The **Contacts** plugin in **AureusERP** helps you manage all types of business 
    - **_Tags:_** Labels or categories to organize contacts better.
    - **_Address:_** Fill in full address details including street, city, zip code, state, and country.
 
-   ![General Contact](../../../images1/contacts/general_contact.png)
+   ![General Contact](/images1/contacts/general_contact.png)
 
    ### Sales and Purchase Section
 
@@ -41,7 +41,7 @@ The **Contacts** plugin in **AureusERP** helps you manage all types of business 
      - **_Reference:_** Optional code for cross-referencing.
      - **_Industry:_** Select the business sector this contact belongs to.
 
-   ![General Contact](../../../images1/contacts/others_contact.png)
+   ![General Contact](/images1/contacts/others_contact.png)
 
 3. Action Buttons:
 
@@ -53,7 +53,7 @@ The **Contacts** plugin in **AureusERP** helps you manage all types of business 
 
 Click **Create** to save the contact. You'll be redirected to the **View Partner** page.
 
-![View Contact](../../../images1/contacts/view_contact.png)
+![View Contact](/images1/contacts/view_contact.png)
 
 ### Edit Partner
 
@@ -70,7 +70,7 @@ This allows you to:
 - Add multiple representatives or staff members for a business contact.
 - Store different contact roles (salesperson, support, billing, etc.).
 
-![Manage Contacts](../../../images1/contacts/manage_contacts.png)
+![Manage Contacts](/images1/contacts/manage_contacts.png)
 
 > 📌 **Use Case:** Useful for organizations that need to store multiple points of contact under one company.
 
@@ -84,7 +84,7 @@ This allows you to:
 - **_Types:_** Choose the address type—Permanent, Present, Invoice, Delivery, or Other.
 - **_Fields:_** Fill in details like name, email, phone, mobile, and complete address.
 
-![Manage Address](../../../images1/contacts/address_tab.png)
+![Manage Address](/images1/contacts/address_tab.png)
 
 This structure ensures that all address-related information is properly categorized and easily accessible.
 

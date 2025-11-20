@@ -8,7 +8,7 @@ The **Pages** module in the **Website** plugin of **AureusERP** allows users to 
 
 1. Navigate to **`Website → Pages → New Page`** as shown in the below image.
 
-   ![Create Page](../../../images1/website/web_page.png)
+   ![Create Page](/images1/website/web_page.png)
 
    > By default, four pages are already created:
 
@@ -25,14 +25,14 @@ The **Pages** module in the **Website** plugin of **AureusERP** allows users to 
    - **_Slug:_** Auto-generated based on the title. This becomes the URL path of your page.
    - **_Content:_** Add the main body content of your page. It supports rich text formatting, embedded links, and media.
 
-   ![Page Content](../../../images1/website/web_page_content.png)
+   ![Page Content](/images1/website/web_page_content.png)
 
    #### Settings Section
 
    - **_Is Visible Header Menu:_** Toggle ON if the page should be shown in the website’s top menu.
    - **_Is Visible Footer Menu:_** Toggle ON if the page should be listed in the website footer.
 
-   ![Page Settings](../../../images1/website/web_page_settings.png)
+   ![Page Settings](/images1/website/web_page_settings.png)
 
    #### SEO Section
 
@@ -40,7 +40,7 @@ The **Pages** module in the **Website** plugin of **AureusERP** allows users to 
    - **_Meta Keywords:_** Keywords relevant to your page (comma-separated).
    - **_Meta Description:_** A short summary of the page content for SEO. Keep it under 160 characters.
 
-   ![Page SEO](../../../images1/website/web_page_seo.png)
+   ![Page SEO](/images1/website/web_page_seo.png)
 
 3. Action Buttons
 
@@ -52,7 +52,7 @@ The **Pages** module in the **Website** plugin of **AureusERP** allows users to 
 
 After clicking **Create**, the system redirects you to the **View Page** screen.
 
-![View Page](../../../images1/website/web_page_view.png)
+![View Page](/images1/website/web_page_view.png)
 
 From here, you can:
 
@@ -67,18 +67,18 @@ From here, you can:
 
 1. Click on **Edit Post** from the **View Page** screen.
 
-   ![Edit Page](../../../images1/website/web_page_edit.png)
+   ![Edit Page](/images1/website/web_page_edit.png)
 
 2. On the top-right corner of the **Edit Page** screen, click on **Publish**.
 
-   ![Publish Page](../../../images1/website/web_page_publish.png)
+   ![Publish Page](/images1/website/web_page_publish.png)
 
 3. Click **Save** to apply your changes.
 
 Once published, the page will become visible in either the **header** or **footer** section depending on the toggles selected during creation.
 
 > Frontend Example:
-> ![Frontend Page](../../../images1/website/web_page_frontend.png)
+> ![Frontend Page](/images1/website/web_page_frontend.png)
 
 ## Summary
 

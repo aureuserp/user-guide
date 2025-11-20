@@ -11,7 +11,7 @@ The **Configurations** section of the **Invoices** plugin in **AureusERP** allow
 To set up a bank account:
 
 - Navigate to **`Invoices → Configurations → Bank Accounts → New Bank Account`** as shown below.
-  ![Create Bank](../../../images1/invoices/bank_create.png)
+  ![Create Bank](/images1/invoices/bank_create.png)
 - A modal will open with the following fields:
   - **Account Number:** Enter the full bank account number.
   - **Bank:** Choose from the dropdown or click the ➕ icon to create a new bank.
@@ -23,7 +23,7 @@ To set up a bank account:
       - **Address**
   - **Account Holder:** Select from registered **Customers** or **Vendors**.
 
-![Create Bank](../../../images1/invoices/bank_create_1.png)
+![Create Bank](/images1/invoices/bank_create_1.png)
 
 > These accounts will be used for payment reconciliation during invoice or bill processing.
 
@@ -36,13 +36,13 @@ To set up a bank account:
 Define international commercial terms (Incoterms):
 
 - Navigate to **`Invoices → Configurations → Incoterms → New Incoterms`**.
-  ![Create Bank](../../../images1/invoices/incoterms_create.png)
+  ![Create Bank](/images1/invoices/incoterms_create.png)
 - A modal will open with fields:
 
   - **Code:** (3 characters only, e.g., CIF, FOB)
   - **Name:** Full name or description of the term
 
-![Create Bank](../../../images1/invoices/incoterms_create_1.png)
+![Create Bank](/images1/invoices/incoterms_create_1.png)
 
 > Incoterms help in setting payment responsibilities and shipment terms in both vendor and customer transactions.
 
@@ -55,7 +55,7 @@ Define international commercial terms (Incoterms):
 To configure when payments are due:
 
 - Navigate to **`Invoices → Configurations → Payment Terms → New Payment Terms`**.
-  ![Create Bank](../../../images1/invoices/payment_term_create.png)
+  ![Create Bank](/images1/invoices/payment_term_create.png)
 - Enter the following:
 
   - **Payment Term:** Name of the term (e.g., Net 30, Immediate)
@@ -65,14 +65,14 @@ To configure when payments are due:
       - **Number of Days to Pay**
   - **Reduced Tax:** Options: `On Early Payment`, `Never`, `Always (upon Invoice)`
 
-    ![Create Bank](../../../images1/invoices/payment_terms_create_1.png)
+    ![Create Bank](/images1/invoices/payment_terms_create_1.png)
 
 Once created, you are redirected to the **View Payment Term** page where you can manage **Due Terms**.
 
 ### Manage Payment Due Terms
 
 Clicking **Manage Due Terms** redirects to a dedicated management screen:
-![Create Bank](../../../images1/invoices/due_terms_create_1.png)
+![Create Bank](/images1/invoices/due_terms_create_1.png)
 
 - One default due term with 100% value is already present.
 - Click **New Payment Due Term** to open a modal with fields:
@@ -88,7 +88,7 @@ Clicking **Manage Due Terms** redirects to a dedicated management screen:
   - **Days:** Enter number of days for the delay
   - **Payment Term:** Select from all existing payment terms
 
-![Create Bank](../../../images1/invoices/due_terms_create.png)
+![Create Bank](/images1/invoices/due_terms_create.png)
 
 > Payment terms determine the due dates for invoices and bills—automatically calculating deadlines and discounts where applicable.
 
@@ -101,13 +101,13 @@ Clicking **Manage Due Terms** redirects to a dedicated management screen:
 Organize your invoice line items into categories:
 
 - Navigate to **`Invoices → Configurations → Categories → New Categories`**.
-  ![Create Bank](../../../images1/invoices/category.png)
+  ![Create Bank](/images1/invoices/category.png)
 - Fill the fields:
 
   - **Name:** e.g., Women's Clothing
   - **Parent:** e.g., All > Clothing (select from dropdown)
 
-![Create Bank](../../../images1/invoices/category_create_1.png)
+![Create Bank](/images1/invoices/category_create_1.png)
 
 > Categories help in product segmentation for both purchases and sales, improving tracking and reporting.
 
@@ -121,7 +121,7 @@ Define product/service attributes for invoicing:
 
 - Navigate to **`Invoices → Configurations → Attribute → New Attribute`**.
 
-![Create Bank](../../../images1/invoices/attribute_create.png)
+![Create Bank](/images1/invoices/attribute_create.png)
 
 #### General Section
 
@@ -138,7 +138,7 @@ Depending on the type selected, the fields vary:
 - **Name:** Option name (e.g., Medium, Blue)
 - **Extra Price:** Additional cost added to base product price
 
-![Create Bank](../../../images1/invoices/attribute_create_1.png)
+![Create Bank](/images1/invoices/attribute_create_1.png)
 
 > Useful in customizing invoices by associating variants with products or services.
 
@@ -151,7 +151,7 @@ Depending on the type selected, the fields vary:
 Group similar taxes together:
 
 - Navigate to **`Invoices → Configurations → Tax Groups → New Tax Groups`**.
-  ![Create Bank](../../../images1/invoices/tax_group_create.png)
+  ![Create Bank](/images1/invoices/tax_group_create.png)
 - Fill in the fields:
 
   - **Company:** Select company for which the group is created
@@ -159,7 +159,7 @@ Group similar taxes together:
   - **Name\***: Tax group name
   - **Preceding Subtotal:** Reference value before tax calculation
 
-![Create Bank](../../../images1/invoices/tax_group_create_1.png)
+![Create Bank](/images1/invoices/tax_group_create_1.png)
 
 > Tax groups are used in invoices and bills to apply grouped taxes efficiently.
 
@@ -172,7 +172,7 @@ Group similar taxes together:
 Define individual tax rules and formulas:
 
 - Navigate to **`Invoices → Configurations → Tax → New Tax`**.
-  ![Create Bank](../../../images1/invoices/tax_create.png)
+  ![Create Bank](/images1/invoices/tax_create.png)
 - Fill in the general fields:
 
   - **Name:** Label for the tax (e.g., Tax 15%)
@@ -186,7 +186,7 @@ Define individual tax rules and formulas:
   - **Tax Scope:** e.g., goods
   - **Status:** Enable or disable tax
 
-![Create Bank](../../../images1/invoices/tax_create_1.png)
+![Create Bank](/images1/invoices/tax_create_1.png)
 
 #### Advanced Options
 
@@ -202,7 +202,7 @@ Define individual tax rules and formulas:
 - **Description:** Internal use
 - **Legal Notes:** Regulatory details
 
-![Create Bank](../../../images1/invoices/tax_create_2.png)
+![Create Bank](/images1/invoices/tax_create_2.png)
 
 > Taxes affect how totals are calculated for both customer invoices and vendor bills.
 

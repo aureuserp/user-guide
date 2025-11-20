@@ -12,7 +12,7 @@ This feature is used to onboard new employees into the system, manage their role
 
 1. Navigate to **`Employees → Employees → New Employee`** as shown below.
 
-   ![Employee create](../../../images1/employees/emp_create.png)
+   ![Employee create](/images1/employees/emp_create.png)
 
 2. Fill in the following fields:
 
@@ -29,7 +29,7 @@ This feature is used to onboard new employees into the system, manage their role
    - **_Employee Tags:_** Add labels for easy categorization (e.g., Remote, Contract).
    - **_Coach:_** A mentor or coach assigned to the employee.
 
-   ![Employee create](../../../images1/employees/emp_general.png)
+   ![Employee create](/images1/employees/emp_general.png)
 
    ### Work Information
 
@@ -53,7 +53,7 @@ This feature is used to onboard new employees into the system, manage their role
      - **_Working Hours:_** Select from predefined working schedules.
      - **_Time Zone:_** Time zone applicable to the employee's work location.
 
-   ![Employee create](../../../images1/employees/emp_work.png)
+   ![Employee create](/images1/employees/emp_work.png)
 
    ### Private Information
 
@@ -69,7 +69,7 @@ This feature is used to onboard new employees into the system, manage their role
      - **_Km Home to Work:_** Numeric value of the commute distance.
      - **_Distance Unit:_** Measurement unit (Km or m).
 
-   ![Employee create](../../../images1/employees/emp_private1.png)
+   ![Employee create](/images1/employees/emp_private1.png)
 
    - **Emergency Contact Subsection**
 
@@ -86,7 +86,7 @@ This feature is used to onboard new employees into the system, manage their role
      - **_Field of Study:_** Main academic focus (e.g., Engineering, Finance).
      - **_School:_** Name of the institution.
 
-   ![Employee create](../../../images1/employees/emp_edu.png)
+   ![Employee create](/images1/employees/emp_edu.png)
 
    - **Citizenship Subsection**
 
@@ -94,7 +94,7 @@ This feature is used to onboard new employees into the system, manage their role
      - **_Identification ID / SSN No / SIN No / Passport ID:_** Government-issued IDs.
      - **_Gender / Date of Birth / Country of Birth:_** Personal demographics.
 
-     ![Employee create](../../../images1/employees/emp_citi.png)
+     ![Employee create](/images1/employees/emp_citi.png)
 
    - **Work Permit Subsection**
 
@@ -102,7 +102,7 @@ This feature is used to onboard new employees into the system, manage their role
      - **_Visa Expiration / Work Permit Expiration Date:_** Validity dates.
      - **_Work Permit (upload):_** Upload document proof.
 
-     ![Employee create](../../../images1/employees/emp_workp.png)
+     ![Employee create](/images1/employees/emp_workp.png)
 
    ### Settings
 
@@ -128,7 +128,7 @@ This feature is used to onboard new employees into the system, manage their role
      - **_Badge ID:_** Unique identification number for attendance tracking or POS access.
      - **_PIN:_** Security PIN used for login in attendance or POS systems.
 
-   ![Employee create](../../../images1/employees/emp_settings1.png)
+   ![Employee create](/images1/employees/emp_settings1.png)
 
    - **Additional Information Subsection**
 
@@ -136,7 +136,7 @@ This feature is used to onboard new employees into the system, manage their role
      - **_Additional Notes:_** Any additional comments or remarks.
      - **_Notes:_** Internal notes for HR reference.
 
-   ![Employee create](../../../images1/employees/emp_addinfo.png)
+   ![Employee create](/images1/employees/emp_addinfo.png)
 
 3. Action Buttons
 
@@ -148,7 +148,7 @@ This feature is used to onboard new employees into the system, manage their role
 
 After creation, you are redirected to the **View Employee** page.
 
-![Employee create](../../../images1/employees/emp_view.png)
+![Employee create](/images1/employees/emp_view.png)
 
 ### Edit Employee
 
@@ -159,22 +159,22 @@ Modify any information as needed by clicking the **Edit Employee** button.
 1. Click **Manage Skills**.
 
 2. Click **Add Skill**.
-   ![Employee create](../../../images1/employees/emp_skill.png)
+   ![Employee create](/images1/employees/emp_skill.png)
 
 3. Fill in:
    - **_Skill Type:_** Select from configured options.
    - **_Skill:_** Specific skill (e.g., JavaScript, HR Management).
    - **_Skill Level:_** Proficiency level.
-     ![Employee create](../../../images1/employees/emp_skill2.png)
+     ![Employee create](/images1/employees/emp_skill2.png)
 4. Click **Create** to add the skill.
 
-![Employee create](../../../images1/employees/emp_skill3.png)
+![Employee create](/images1/employees/emp_skill3.png)
 
 ### Manage Resumes
 
 1. Click **Manage Resumes**.
 2. Click **Add Resume**.
-   ![Employee create](../../../images1/employees/emp_resu.png)
+   ![Employee create](/images1/employees/emp_resu.png)
 
 3. Fill in:
    - **_Title:_** Resume title (e.g., Resume 2025).
@@ -182,10 +182,10 @@ Modify any information as needed by clicking the **Edit Employee** button.
    - **Duration / Start Date / End Date**: Period covered.
    - **_Display Type:_** How it's shown.
    - **_Description:_** Additional notes.
-     ![Employee create](../../../images1/employees/emp_resu1.png)
+     ![Employee create](/images1/employees/emp_resu1.png)
 4. Click **Create** to save the resume.
 
-![Employee create](../../../images1/employees/emp_resu2.png)
+![Employee create](/images1/employees/emp_resu2.png)
 
 ## Summary
 

@@ -8,7 +8,7 @@ The **Products** module in the **Purchases** plugin of **AureusERP** allows proc
 
 1. Navigate to **`Purchases → Products → Products → Create Product`** as shown in the below image.
 
-   ![Product Creation](../../../images1/purchases/create_product.png)
+   ![Product Creation](/images1/purchases/create_product.png)
 
 2. Fill out the form with the following fields:
 
@@ -18,7 +18,7 @@ The **Products** module in the **Purchases** plugin of **AureusERP** allows proc
    - **_Description:_** Add optional product details or notes.
    - **_Images:_** Upload product images as needed.
    - **_Tags:_** Select from existing tags or create new ones to classify the product.
-     ![Create Product](../../../images1/invoices/product_general.png)
+     ![Create Product](/images1/invoices/product_general.png)
 
    ### Settings
 
@@ -30,7 +30,7 @@ The **Products** module in the **Purchases** plugin of **AureusERP** allows proc
 
    ### Inventory _(Visible if 'Goods' is selected)_
 
-   ![Create Product](../../../images1/invoices/product_inventory.png)
+   ![Create Product](/images1/invoices/product_inventory.png)
 
    - **_Reference:_** Product reference code.
    - **_Barcode:_** Product barcode.
@@ -38,14 +38,14 @@ The **Products** module in the **Purchases** plugin of **AureusERP** allows proc
      - Select from existing product categories or click ➕ to create one.
    - **_Company:_** Assign the product to a specific company.
 
-   ![Create Product](../../../images1/invoices/product_settings.png)
+   ![Create Product](/images1/invoices/product_settings.png)
 
    ### Pricing
 
    - **_Price:_** The retail price of the product.
    - **_Cost:_** The cost of the product from the vendor.
 
-   ![Create Product](../../../images1/invoices/product_price.png)
+   ![Create Product](/images1/invoices/product_price.png)
 
 3. Action Buttons
 
@@ -63,12 +63,12 @@ Here you can manage:
   - Opens a modal with the following fields:
     - **_Number of Labels:_** Enter number of labels to print.
     - **_Format:_** Choose label dimension and price inclusion (e.g., 2x7 with price, 4x12 without price).
-      ![Create Product](../../../images1/invoices/product_print.png)
+      ![Create Product](/images1/invoices/product_print.png)
   - Clicking **Submit** downloads a PDF of generated labels.
 
 **Delete:** Permanently removes the product.
 
-![Create Product](../../../images1/purchases/product_view.png)
+![Create Product](/images1/purchases/product_view.png)
 
 ## Product Management
 
@@ -84,10 +84,10 @@ Update product details.
 - Click **Add Attribute** to open a modal:
   - **_Attribute:_** Dropdown to select or create new attribute.
   - **_Values:_** Enter the values associated with the selected attribute.
-    ![Create Product](../../../images1/invoices/product_attri.png)
+    ![Create Product](/images1/invoices/product_attri.png)
     > 🛈 Once created, **variants** for the selected attributes are generated automatically.
 
-![Create Product](../../../images1/purchases/product_manage_attri.png)
+![Create Product](/images1/purchases/product_manage_attri.png)
 
 ### Variants Management
 
@@ -97,13 +97,13 @@ Manage product variants with the following actions:
 - **_Edit:_** Update variant info.
 - **_Delete:_** Remove specific variant.
 
-![Create Product](../../../images1/purchases/product_manage_vari.png)
+![Create Product](/images1/purchases/product_manage_vari.png)
 
 ### Manage Vendors for a Product
 
 Click on the Vendors tab from the View Product page to see and manage the vendors who supply this product. This section lets you add vendor details like price, delivery time, and product codes used by the vendor.
 
-![Manage Vendors](../../../images1/purchases/product_vendor_tab.png)
+![Manage Vendors](/images1/purchases/product_vendor_tab.png)
 
 > 📌 Purpose: This helps the purchase team keep track of which vendor offers what price, how fast they can deliver, and what name/code they use for the product.
 
@@ -124,7 +124,7 @@ Click **Add Vendor** to open a modal form with the following fields:
 - **_Discount (%):_** Discount offered by the vendor.
 - **_Company:_** Company this vendor pricing is assigned to.
 
-![Add Vendor Price](../../../images1/purchases/product_add_vendor.png)
+![Add Vendor Price](/images1/purchases/product_add_vendor.png)
 
 #### Use Case
 

@@ -10,7 +10,7 @@ Leave Types define different categories of employee leave such as sick leave, va
 
 1. Navigate to **`Time Off → Configuration → Leave Types → New Leave Type`** as shown below.
 
-   ![Config. New Leave](../../../images1/time-off/config_leave.png)
+   ![Config. New Leave](/images1/time-off/config_leave.png)
 
 2. Fill out the form:
 
@@ -32,7 +32,7 @@ Leave Types define different categories of employee leave such as sick leave, va
 
      - Same options as the first Approval section.
 
-     ![General Leave](../../../images1/time-off/leave_general.png)
+     ![General Leave](/images1/time-off/leave_general.png)
 
    ### Display Option
 
@@ -52,7 +52,7 @@ Leave Types define different categories of employee leave such as sick leave, va
 
    - **_Allow Negative Cap:_** Toggle to allow taking more leave than balance.
 
-   ![General Leave](../../../images1/time-off/leave_config.png)
+   ![General Leave](/images1/time-off/leave_config.png)
 
 3. Actions
 
@@ -68,7 +68,7 @@ Automatically manage the accumulation of leave over time.
 
 1. Navigate to **`Time Off → Configuration → Accrual Plan → New Accrual Plan`** as shown below.
 
-   ![Config. New Leave](../../../images1/time-off/config_accrual.png)
+   ![Config. New Leave](/images1/time-off/config_accrual.png)
 
 2. Fill in:
 
@@ -85,7 +85,7 @@ Automatically manage the accumulation of leave over time.
    - **_Carry Over Date:_** Set day and month if "Other" selected.
    - **_Status:_** Enable or disable plan.
 
-   ![Config. New Leave](../../../images1/time-off/general_accrual.png)
+   ![Config. New Leave](/images1/time-off/general_accrual.png)
 
 3. Actions
 
@@ -95,11 +95,11 @@ Automatically manage the accumulation of leave over time.
 
 ### After Creation: Manage Milestones
 
-![Config. New Leave](../../../images1/time-off/milestone_accrual.png)
+![Config. New Leave](/images1/time-off/milestone_accrual.png)
 
 - Click **Manage Milestone**
 - Click **New Leave Accrual Plan** and fill:
-  ![Config. New Leave](../../../images1/time-off/new_milestone_accrual.png)
+  ![Config. New Leave](/images1/time-off/new_milestone_accrual.png)
 
   - **_Accrual Amount & Type:_** Days or Hours.
   - **_Accrual Frequency:_** Hourly to Yearly options.
@@ -111,7 +111,7 @@ Automatically manage the accumulation of leave over time.
     - Reset to zero, carry over, or max carry over.
     - Set Milestone Cap and Accrual Validity.
 
-  ![Config. New Leave](../../../images1/time-off/general_milestone_accrual.png)
+  ![Config. New Leave](/images1/time-off/general_milestone_accrual.png)
 
 ### Actions
 
@@ -127,7 +127,7 @@ Mark public holidays so leave calculations can consider them.
 
 1. Navigate to **`Time Off → Configuration → Public Holidays → New Public Holiday`** as shown below.
 
-   ![Config. New Leave](../../../images1/time-off/new_public.png)
+   ![Config. New Leave](/images1/time-off/new_public.png)
 
 2. Fill in:
 
@@ -135,7 +135,7 @@ Mark public holidays so leave calculations can consider them.
    - **_Start Date / End Date:_** Date range
    - **_Calendar:_** Assign calendar
 
-   ![Config. New Leave](../../../images1/time-off/general_public.png)
+   ![Config. New Leave](/images1/time-off/general_public.png)
 
 3. Actions
 
@@ -151,7 +151,7 @@ Mark days where taking leave is mandatory (e.g., shutdowns).
 
 1. Navigate to **`Time Off → Configuration → Mandatory Days → New Mandatory Day`** as shown below.
 
-   ![Config. New Leave](../../../images1/time-off/new_mandatory.png)
+   ![Config. New Leave](/images1/time-off/new_mandatory.png)
 
 2. Fill in:
 
@@ -159,7 +159,7 @@ Mark days where taking leave is mandatory (e.g., shutdowns).
    - **_Name:_** Name of the day/event
    - **_Start Date / End Date:_** Date range
 
-   ![Config. New Leave](../../../images1/time-off/general_mandatory.png)
+   ![Config. New Leave](/images1/time-off/general_mandatory.png)
 
 3. Actions
 
@@ -175,7 +175,7 @@ Set activity types for follow-ups, file uploads, meetings, etc.
 
 1. Go to **`Time Off >> Configuration >> Activity Types >> New Activity Type`** as shown below.
 
-![Config. New Leave](../../../images1/time-off/new_activity.png)
+![Config. New Leave](/images1/time-off/new_activity.png)
 
 2. Fill in:
 
@@ -208,7 +208,7 @@ Set activity types for follow-ups, file uploads, meetings, etc.
    - **_Delay Unit:_** Time unit.
    - **_Delay Form:_** When delay applies.
 
-   ![Config. New Leave](../../../images1/time-off/general_activity.png)
+   ![Config. New Leave](/images1/time-off/general_activity.png)
 
 3. Actions
 

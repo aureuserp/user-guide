@@ -8,7 +8,7 @@ The **Products** module in the **Sales** plugin of **AureusERP** enables users t
 
 1. Navigate to **`Sales → Products → Create Product`** as shown below:
 
-   ![Create Product](../../../images1/sales/product_create.png)
+   ![Create Product](/images1/sales/product_create.png)
 
 2. Fill out the form with the following fields:
 
@@ -19,7 +19,7 @@ The **Products** module in the **Sales** plugin of **AureusERP** enables users t
    - **_Images:_** Upload one or more product images.
    - **_Tags:_** You can **create a new tag** or **select from existing** tags for quick filtering or classification.
 
-   ![Create Product](../../../images1/invoices/product_general.png)
+   ![Create Product](/images1/invoices/product_general.png)
 
    #### Settings Section
 
@@ -32,7 +32,7 @@ The **Products** module in the **Sales** plugin of **AureusERP** enables users t
 
    #### Inventory (Visible if 'Goods' is selected)
 
-   ![Create Product](../../../images1/invoices/product_inventory.png)
+   ![Create Product](/images1/invoices/product_inventory.png)
 
    - **_Reference:_** Product reference code.
    - **_Barcode:_** Barcode used for scanning or POS systems.
@@ -42,14 +42,14 @@ The **Products** module in the **Sales** plugin of **AureusERP** enables users t
      - By default, **All** is selected.
    - **_Company:_** Choose from the list of companies (multi-company support).
 
-   ![Create Product](../../../images1/invoices/product_settings.png)
+   ![Create Product](/images1/invoices/product_settings.png)
 
    #### Pricing Section
 
    - **_Price:_** The price at which you sell the product.
    - **_Cost:_** The cost at which you buy the product from the vendor.
 
-   ![Create Product](../../../images1/invoices/product_price.png)
+   ![Create Product](/images1/invoices/product_price.png)
 
 3. Action Buttons
 
@@ -65,11 +65,11 @@ Upon clicking **Create**, the system redirects to the **View Product** page.
   - Opens a modal with the following fields:
     - **_Number of Labels:_** Enter number of labels to print.
     - **_Format:_** Choose label dimension and price inclusion (e.g., 2x7 with price, 4x12 without price).
-      ![Create Product](../../../images1/invoices/product_print.png)
+      ![Create Product](/images1/invoices/product_print.png)
   - Clicking **Submit** downloads a PDF of generated labels.
 - **Delete:** Permanently removes the product.
 
-![Create Product](../../../images1/invoices/product_view.png)
+![Create Product](/images1/invoices/product_view.png)
 
 ## Product Management
 
@@ -86,10 +86,10 @@ From the **View Product** page, you can also:
 - Click **Add Attribute** to open a modal:
   - **_Attribute:_** Select or create a new attribute.
   - **_Values:_** Enter the values associated with the selected attribute.
-    ![Create Product](../../../images1/invoices/product_attri.png)
+    ![Create Product](/images1/invoices/product_attri.png)
     > 🛈 Once created, **variants** for the selected attributes are generated automatically.
 
-![Create Product](../../../images1/invoices/product_manage_attri.png)
+![Create Product](/images1/invoices/product_manage_attri.png)
 
 ### Variants Management
 
@@ -99,7 +99,7 @@ Use this section to manage product variants generated via attributes:
 - **Edit:** Update variant info.
 - **Delete:** Remove specific variant.
 
-![Create Product](../../../images1/invoices/product_manage_vari.png)
+![Create Product](/images1/invoices/product_manage_vari.png)
 
 ## Summary
 

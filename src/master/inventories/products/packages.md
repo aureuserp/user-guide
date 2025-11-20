@@ -10,7 +10,7 @@ In the Inventory module, **Packages** represent grouped or bundled items that ar
 
 1. Navigate to **`Inventory → Products → Packages`** as shown below.
 
-   ![Packages Navigation](../../../images1/inventory/packages_navigation.png)
+   ![Packages Navigation](/images1/inventory/packages_navigation.png)
 
 2. Fill in the following details:
 
@@ -26,7 +26,7 @@ In the Inventory module, **Packages** represent grouped or bundled items that ar
    - **_Pack Date:_** The date on which the package was created or packed.  
      Useful for tracking the packaging timeline and ensuring accurate logistics documentation.
 
-   ![Create Package](../../../images1/inventory/create_package.png)
+   ![Create Package](/images1/inventory/create_package.png)
 
 3. **Action Buttons:**
 
@@ -38,7 +38,7 @@ In the Inventory module, **Packages** represent grouped or bundled items that ar
 
 After creating a package, you are redirected to the **Package View Page**, where you can manage and monitor the package details and operations.
 
-![Package View](../../../images1/inventory/package_view.png)
+![Package View](/images1/inventory/package_view.png)
 
 ### Tabs on the Package View Page
 

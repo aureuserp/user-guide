@@ -6,8 +6,8 @@ The **Project Plugin Settings** in AureusERP allow you to customize how projects
 
 1. Navigate to **`Project → Settings → Manage Tasks`** as shown below:
 
-   ![Project Setting](../../../images1/project/setting.png)
-   ![Manage Task Setting](../../../images1/project/setting_task1.png)
+   ![Project Setting](/images1/project/setting.png)
+   ![Manage Task Setting](/images1/project/setting_task1.png)
 
    ### Available Options:
 
@@ -23,7 +23,7 @@ The **Project Plugin Settings** in AureusERP allow you to customize how projects
 
    Click **Save Changes** to apply your preferences.
 
-   ![Manage Task Setting](../../../images1/project/setting_task.png)
+   ![Manage Task Setting](/images1/project/setting_task.png)
 
    > Enabling both toggles will enhance your project planning and tracking capabilities by making **Stages** and **Milestones** visible during project creation.
 
@@ -31,7 +31,7 @@ The **Project Plugin Settings** in AureusERP allow you to customize how projects
 
 1. Navigate to **`Project → Settings → Manage Time`**
 
-   ![Manage Task Setting](../../../images1/project/navigate_time_setting.png)
+   ![Manage Task Setting](/images1/project/navigate_time_setting.png)
 
    ### Available Option:
 
@@ -42,7 +42,7 @@ The **Project Plugin Settings** in AureusERP allow you to customize how projects
 
    Click **Save Changes** to apply your preference.
 
-   ![Manage Time Setting](../../../images1/project/setting_time_1.png)
+   ![Manage Time Setting](/images1/project/setting_time_1.png)
 
    > When enabled, you’ll see the **Timesheet Option** while creating or editing a project, making time tracking easier and more integrated.
 

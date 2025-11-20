@@ -21,7 +21,7 @@ Used when goods are received against a **Purchase Order**. This process ensures 
 
 1. Navigate to **`Inventory → Operations → Transfers → Receipts`** as shown below:
 
-   ![Receipts Navigation](../../../images1/inventory/receipts_navigation.png)
+   ![Receipts Navigation](/images1/inventory/receipts_navigation.png)
 
 2. Fill in the following details:
 
@@ -31,7 +31,7 @@ Used when goods are received against a **Purchase Order**. This process ensures 
    - **_Operation Type:_** Preselected based on your warehouse configuration (e.g., `Primary Warehouse: Receipt`).
    - **_Destination Location:_** Preselected warehouse input location (e.g., `Primary/Input`).
 
-   ![Receipt General Section](../../../images1/inventory/receipt_general_section.png)
+   ![Receipt General Section](/images1/inventory/receipt_general_section.png)
 
    #### Operations Section
 
@@ -46,7 +46,7 @@ Used when goods are received against a **Purchase Order**. This process ensures 
      - **_Picked:_** Toggle to mark the product as picked.
      - You can add multiple product lines here.
 
-     ![Receipt Operations Section](../../../images1/inventory/receipt_operations_section.png)
+     ![Receipt Operations Section](/images1/inventory/receipt_operations_section.png)
 
    #### Additional Section
 
@@ -54,7 +54,7 @@ Used when goods are received against a **Purchase Order**. This process ensures 
    - **_Scheduled At:_** The planned date/time of receipt.
    - **_Source Document:_** Auto-linked purchase order or reference document.
 
-   ![Receipt Additional Section](../../../images1/inventory/receipt_additional_section.png)
+   ![Receipt Additional Section](/images1/inventory/receipt_additional_section.png)
 
 3. **Action Buttons:**
    - **Create** – Save and open the receipt record.
@@ -65,16 +65,16 @@ Used when goods are received against a **Purchase Order**. This process ensures 
 
 Once created, you are redirected to the **Receipt View Page**, which includes:
 
-![Receipt View Page](../../../images1/inventory/receipt_view_page.png)
+![Receipt View Page](/images1/inventory/receipt_view_page.png)
 
 - **View:** View all receipt details.
 - **Edit:** Modify details in draft state.
 - **Mark as To Do:** Changes the status from **Draft → Ready**, validating stock availability.
-  ![Receipt View Page](../../../images1/inventory/receipt_view_page_actions.png)
+  ![Receipt View Page](/images1/inventory/receipt_view_page_actions.png)
 - **Validate:** Confirms the receipt and updates inventory (status becomes **Done**). Fields become read-only.
-  ![Receipt View Page](../../../images1/inventory/receipt_validate.png)
+  ![Receipt View Page](/images1/inventory/receipt_validate.png)
 - **Moves:** Review all product moves linked to the receipt.
-  ![Receipt View Page Moves](../../../images1/inventory/receipt_view_page_moves.png)
+  ![Receipt View Page Moves](/images1/inventory/receipt_view_page_moves.png)
 - **Return:** Available after validation — creates a reverse receipt (delivery).
 - **Cancel / Delete:** Stop or remove the receipt record.
 
@@ -92,7 +92,7 @@ Used when fulfilling sales orders or shipping goods to customers. It ensures acc
 
 1.  Navigate to **`Inventory → Operations → Transfers → Deliveries`** as shown below:
 
-    ![Delivery Navigation](../../../images1/inventory/delivery_navigation.png)
+    ![Delivery Navigation](/images1/inventory/delivery_navigation.png)
 
 2.  Fill in the following details:
 
@@ -102,7 +102,7 @@ Used when fulfilling sales orders or shipping goods to customers. It ensures acc
     - **_Operation Type:_** Preselected (e.g., `Primary Warehouse: Delivery Order`).
     - **_Destination Location:_** Preselected warehouse output location (e.g., `Primary/Output`).
 
-    ![Delivery General Section](../../../images1/inventory/delivery_general_section.png)
+    ![Delivery General Section](/images1/inventory/delivery_general_section.png)
 
     #### Operations Section
 
@@ -113,7 +113,7 @@ Used when fulfilling sales orders or shipping goods to customers. It ensures acc
     - **_Unit:_** Select the unit of measure.
     - **_Picked:_** Enable to mark products picked for delivery.
 
-    ![Delivery Operations Section](../../../images1/inventory/delivery_operations_section.png)
+    ![Delivery Operations Section](/images1/inventory/delivery_operations_section.png)
 
     #### Additional Section
 
@@ -122,7 +122,7 @@ Used when fulfilling sales orders or shipping goods to customers. It ensures acc
     - **_Scheduled At:_** Planned delivery date.
     - **_Source Document:_** Linked sales order or reference.
 
-    ![Delivery Additional Section](../../../images1/inventory/delivery_additional_section.png)
+    ![Delivery Additional Section](/images1/inventory/delivery_additional_section.png)
 
 3.  **Action Buttons:**
     - **Create** – Save and open the delivery record.
@@ -133,14 +133,14 @@ Used when fulfilling sales orders or shipping goods to customers. It ensures acc
 
 After creation, you are redirected to the **Delivery View Page**, which includes:
 
-![Delivery View Page](../../../images1/inventory/delivery_view_page.png)
+![Delivery View Page](/images1/inventory/delivery_view_page.png)
 
 - **Mark as To Do:** Changes status from **Draft → Ready**, validates stock availability.
-  ![Delivery View Page Actions](../../../images1/inventory/delivery_view_page_actions.png)
+  ![Delivery View Page Actions](/images1/inventory/delivery_view_page_actions.png)
 - **Validate:** Confirms delivery, reduces stock, and changes status to **Done**.
-  ![Delivery Validate](../../../images1/inventory/delivery_validate.png)
+  ![Delivery Validate](/images1/inventory/delivery_validate.png)
 - **Moves:** View all product moves associated with the delivery.
-  ![Delivery Moves](../../../images1/inventory/delivery_moves.png)
+  ![Delivery Moves](/images1/inventory/delivery_moves.png)
 - **Return:** Creates a return (receipt) for the delivery.
 - **Cancel / Delete:** Stop or remove the delivery record.
 
@@ -156,7 +156,7 @@ Used when products move between areas (e.g., from stock to packing zone or quali
 
 1. Navigate to **`Inventory → Operations → Transfers → Internal Transfers`** as shown below:
 
-   ![Internal Transfers Navigation](../../../images1/inventory/internal_transfer_navigation.png)
+   ![Internal Transfers Navigation](/images1/inventory/internal_transfer_navigation.png)
 
 2. Fill in the following details:
 
@@ -167,7 +167,7 @@ Used when products move between areas (e.g., from stock to packing zone or quali
    - **_Source Location:_** Preselected source location (e.g., `Primary/Stock`).
    - **_Destination Location:_** Preselected destination (e.g., `Primary/Packing Zone`).
 
-   ![Internal Transfer General Section](../../../images1/inventory/internal_transfer_general_section.png)
+   ![Internal Transfer General Section](/images1/inventory/internal_transfer_general_section.png)
 
    #### Operations Section
 
@@ -177,7 +177,7 @@ Used when products move between areas (e.g., from stock to packing zone or quali
    - **_Unit:_** Unit of measure.
    - **_Picked:_** Toggle to mark as picked.
 
-   ![Internal Transfer Operations Section](../../../images1/inventory/internal_transfer_operations_section.png)
+   ![Internal Transfer Operations Section](/images1/inventory/internal_transfer_operations_section.png)
 
    #### Additional Section
 
@@ -186,7 +186,7 @@ Used when products move between areas (e.g., from stock to packing zone or quali
    - **_Scheduled At:_** Date for transfer.
    - **_Source Document:_** Related reference.
 
-   ![Internal Transfer Additional Section](../../../images1/inventory/internal_transfer_additional_section.png)
+   ![Internal Transfer Additional Section](/images1/inventory/internal_transfer_additional_section.png)
 
 3. **Action Buttons:**
    - **Create**
@@ -196,12 +196,12 @@ Used when products move between areas (e.g., from stock to packing zone or quali
 ### Internal Transfer Workflow Actions
 
 After creation, you are redirected to the **Internal Transfer View Page**, which includes:
-![Internal Transfer View Page](../../../images1/inventory/internal_transfer_view_page.png)
+![Internal Transfer View Page](/images1/inventory/internal_transfer_view_page.png)
 
 - **Mark as To Do:** Status changes from **Draft → Ready**, checks stock availability, and creates move records.
-  ![Internal Transfer Actions](../../../images1/inventory/internal_transfer_actions.png)
+  ![Internal Transfer Actions](/images1/inventory/internal_transfer_actions.png)
 - **Validate:** Completes transfer, updating locations (status **Done**).
-  ![Internal Transfer Validate](../../../images1/inventory/internal_transfer_validate.png)
+  ![Internal Transfer Validate](/images1/inventory/internal_transfer_validate.png)
 - **Return:** Reverses the movement (e.g., from packing zone back to stock).
 - **Cancel / Delete:** Remove or discard the record.
 
@@ -217,7 +217,7 @@ Useful for direct-to-customer fulfillment, reducing warehouse handling and impro
 
 1. Navigate to **`Inventory → Operations → Transfers → Dropships`** as shown below:
 
-   ![Dropship Navigation](../../../images1/inventory/dropship_navigation.png)
+   ![Dropship Navigation](/images1/inventory/dropship_navigation.png)
 
 2. Fill in the following details:
 
@@ -227,7 +227,7 @@ Useful for direct-to-customer fulfillment, reducing warehouse handling and impro
    - **_Source Location:_** Auto-selected as **Partner/Vendor**.
    - **_Destination Location:_** Auto-selected as **Partner/Customer**.
 
-   ![dropship_general_section](../../../images1/inventory/dropship_general_section.png)
+   ![dropship_general_section](/images1/inventory/dropship_general_section.png)
 
    #### Operations Section
 
@@ -237,7 +237,7 @@ Useful for direct-to-customer fulfillment, reducing warehouse handling and impro
    - **_Unit:_** Unit of measure.
    - **_Picked:_** Enable if products are picked.
 
-   ![dropship_operations_section](../../../images1/inventory/dropship_operations_section.png)
+   ![dropship_operations_section](/images1/inventory/dropship_operations_section.png)
 
    #### Additional Section
 
@@ -246,7 +246,7 @@ Useful for direct-to-customer fulfillment, reducing warehouse handling and impro
    - **_Scheduled At:_** Planned shipping date.
    - **_Source Document:_** Linked purchase or sales order.
 
-   ![dropship_additional_section](../../../images1/inventory/dropship_additional_section.png)
+   ![dropship_additional_section](/images1/inventory/dropship_additional_section.png)
 
 3. **Action Buttons:**
    - **Create**
@@ -256,7 +256,7 @@ Useful for direct-to-customer fulfillment, reducing warehouse handling and impro
 ### Dropship Workflow Actions
 
 - **Mark as To Do:** Changes status from **Draft → Ready**, validating moves.
-  ![Dropship Actions](../../../images1/inventory/dropship_actions.png)
+  <!-- ![Dropship Actions](/images1/inventory/dropship_actions.png) -->
 - **Validate:** Completes the dropship (status **Done**).
 - **Return:** Reverses the dropship (customer → vendor).
 - **Cancel / Delete:** Stop or remove the record.
