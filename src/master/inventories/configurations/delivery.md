@@ -12,7 +12,7 @@ Package Types define the physical characteristics of packages like boxes, carton
 
 1. Navigate to **`Inventory → Configurations → Delivery → Package Types`** as shown below:
 
-   ![Package Types Navigation](../../../images1/inventory/package_types_navigation.png)
+   ![Package Types Navigation](/images1/inventory/package_types_navigation.png)
 
 2. Fill in the following fields:
 
@@ -26,7 +26,7 @@ Package Types define the physical characteristics of packages like boxes, carton
    - **_Barcode:_** Barcode used for scanning and tracking this package type
    - **_Company:_** Select the company this package type belongs to (useful in multi-company setups)
 
-   ![Package Type Configuration](../../../images1/inventory/package_type_configuration.png)
+   ![Package Type Configuration](/images1/inventory/package_type_configuration.png)
 
 3. Action Buttons
 

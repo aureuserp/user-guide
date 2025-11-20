@@ -18,7 +18,7 @@ Used during physical inventory checks or when products are received or misplaced
 
 1. Navigate to **`Inventory → Operations → Adjustments → Quantities`** as shown below:
 
-   ![Quantities Navigation](../../../images1/inventory/quantities_navigation.png)
+   ![Quantities Navigation](/images1/inventory/quantities_navigation.png)
 
 2. Fill in the following fields:
 
@@ -28,7 +28,7 @@ Used during physical inventory checks or when products are received or misplaced
    - **_Counted Quantity:_** Enter the actual quantity counted physically at the selected location.
    - **_Scheduled At:_** Specify the date and time when the adjustment should take effect. This helps in planning and scheduling inventory updates.
 
-   ![Quantity Adjustment](../../../images1/inventory/quantity_adjustment.png)
+   ![Quantity Adjustment](/images1/inventory/quantity_adjustment.png)
 
 3. **Action Buttons:**
 
@@ -49,7 +49,7 @@ Used when items become broken, defective, expired, or are returned in an unsella
 
 1. Navigate to **`Inventory → Operations → Adjustments → Scraps`** as shown below:
 
-   ![Scrap Navigation](../../../images1/inventory/scraps_navigation.png)
+   ![Scrap Navigation](/images1/inventory/scraps_navigation.png)
 
 2. Fill in the following details:
 
@@ -64,7 +64,7 @@ Used when items become broken, defective, expired, or are returned in an unsella
    - **_Source Document:_** Enter or link the document that led to the scrap (e.g., Sales Return, Production Order, or Manual Adjustment).
    - **_Company:_** Choose the company under which this scrap is recorded (in case of multi-company environments).
 
-   ![Scrap Creation](../../../images1/inventory/scrap_creation.png)
+   ![Scrap Creation](/images1/inventory/scrap_creation.png)
 
 3. **Action Buttons:**
 
@@ -76,14 +76,14 @@ Used when items become broken, defective, expired, or are returned in an unsella
 
 After creating a scrap record, you are redirected to the **Scrap View Page**, where you can perform the following actions:
 
-![Scrap View](../../../images1/inventory/scrap_view.png)
+![Scrap View](/images1/inventory/scrap_view.png)
 
 - **View:** Review all scrap details and history.
 - **Edit:** Modify scrap details while in draft state.
 - **Validate:** Confirm the scrap; the record state changes from **Draft → Done** and the stock is updated automatically.
 - **Delete:** Permanently remove the scrap record.
 - **Moves:** Check the stock movement record created due to the scrap action.
-  ![Scrap Moves](../../../images1/inventory/scrap_moves.png)
+  ![Scrap Moves](/images1/inventory/scrap_moves.png)
 
 ## Summary
 

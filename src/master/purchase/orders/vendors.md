@@ -8,7 +8,7 @@ The **Vendor** module in the **Purchases** plugin of **AureusERP** is designed t
 
 1.  Navigate to **`Purchases → Orders → Vendors → New Vendor`** as shown in the below image.
 
-    ![Create Vendor](../../../images1/purchases/vendor_create.png)
+    ![Create Vendor](/images1/purchases/vendor_create.png)
 
 2.  Fill out the form with the following details:
 
@@ -26,7 +26,7 @@ The **Vendor** module in the **Purchases** plugin of **AureusERP** is designed t
     - **_Tags:_** Tags for classification.
     - **_Address:_** Include full address: street, city, state, ZIP, and country.
 
-    ![Create Vendor](../../../images1/purchases/vendor_create_1.png)
+    ![Create Vendor](/images1/purchases/vendor_create_1.png)
 
     ### Purchase Section
 
@@ -43,7 +43,7 @@ The **Vendor** module in the **Purchases** plugin of **AureusERP** is designed t
     - **_Reference:_** External identifier used for syncing.
     - **_Industry:_** Business sector of the vendor.
 
-    ![Create Vendor](../../../images1/purchases/vendor_create_others.png)
+    ![Create Vendor](/images1/purchases/vendor_create_others.png)
 
     ### Invoicing Section
 
@@ -59,7 +59,7 @@ The **Vendor** module in the **Purchases** plugin of **AureusERP** is designed t
         - **_Ignore Abnormal Invoice Amount:_** Skip warnings for unusually large or small invoice totals.
         - **_Ignore Abnormal Invoice Date:_** Bypass alerts for irregular invoice dates.
 
-      ![Create Vendor](../../../images1/purchases/vendor_create_invoicing.png)
+      ![Create Vendor](/images1/purchases/vendor_create_invoicing.png)
 
 3.  Click **_Create_** to finalize.
 
@@ -67,18 +67,18 @@ The **Vendor** module in the **Purchases** plugin of **AureusERP** is designed t
 
 After creating a vendor, you are redirected to the **View Vendor** page where you can manage various aspects of the vendor profile:
 
-![View Vendor Page](../../../images1/purchases/vendor_view.png)
+![View Vendor Page](/images1/purchases/vendor_view.png)
 
 - **_Edit Vendor:_** Modify vendor details such as contact info, fiscal data, etc.
 - **_Contacts:_**
   - Navigate to the **_Contacts_** tab.
   - Click **_Add Contact_** to add additional contact persons with fields like name, email, phone, and title.
   - _Use Case:_ Helpful when vendors have multiple representatives.
-    ![Vendor Contacts](../../../images1/purchases/vendor_contacts.png)
+    ![Vendor Contacts](/images1/purchases/vendor_contacts.png)
 - **_Address:_**
   - Go to the **_Address_** tab.
   - Click **_Add Address_** to define types like Permanent, Invoice, Delivery, etc., and fill in complete address details.
-    ![Vendor Address](../../../images1/purchases/vendor_address.png)
+    ![Vendor Address](/images1/purchases/vendor_address.png)
 - **_Bank Accounts:_**
   - Click **_New Bank Account_** to add banking information.
     - **_Account Number:_** Vendor’s bank account.
@@ -86,7 +86,7 @@ After creating a vendor, you are redirected to the **View Vendor** page where yo
     - **_Bank:_** Choose from existing or create new.
     - **_Account Holder:_** Select the vendor’s name.
   - _Use Case:_ Manage multiple financial accounts and define payment channels.
-    ![Vendor Bank Accounts](../../../images1/purchases/vendor_bank_accounts.png)
+    ![Vendor Bank Accounts](/images1/purchases/vendor_bank_accounts.png)
 - **_Invoices:_** View all invoices linked to this vendor.
 - **_Purchases:_** Track all purchase orders associated with the vendor.
 

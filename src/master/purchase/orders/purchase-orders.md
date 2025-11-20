@@ -8,7 +8,7 @@ The **Purchase Orders** module in the **Purchases** plugin of **AureusERP** allo
 
 1. Navigate to **`Purchase → Orders → Purchase Orders → New Purchase Order`** as shown in the below image.
 
-   ![Create Quotation](../../../images1/purchases/purchase_create_1.png)
+   ![Create Quotation](/images1/purchases/purchase_create_1.png)
 
 2. Fill in the following sections:
 
@@ -21,7 +21,7 @@ The **Purchase Orders** module in the **Purchases** plugin of **AureusERP** allo
    - **_Agreement:_** Optional – select a linked Purchase Agreement if available.
    - **_Currency:_** Select the transaction currency.
 
-   ![RFQ General Section](../../../images1/purchases/rfq_general_section.png)
+   ![RFQ General Section](/images1/purchases/rfq_general_section.png)
 
    ### Product Section
 
@@ -38,7 +38,7 @@ The **Purchase Orders** module in the **Purchases** plugin of **AureusERP** allo
    - **_Discount (%):_** Optional discount on that line item.
    - **_Amount:_** Auto-calculated field based on quantity and unit price.
 
-   ![RFQ Product Section](../../../images1/purchases/rfq_product_section.png)
+   ![RFQ Product Section](/images1/purchases/rfq_product_section.png)
 
    ### Additional Information Section
 
@@ -49,7 +49,7 @@ The **Purchase Orders** module in the **Purchases** plugin of **AureusERP** allo
    - **_Incoterm:_** International Commercial Term defining delivery terms.
    - **_Incoterm Location:_** Specific location for Incoterm application.
 
-   ![RFQ Additional Information](../../../images1/purchases/rfq_additional_info.png)
+   ![RFQ Additional Information](/images1/purchases/rfq_additional_info.png)
 
    ### Terms and Conditions
 
@@ -67,7 +67,7 @@ The **Purchase Orders** module in the **Purchases** plugin of **AureusERP** allo
 
 After clicking **Create**, you are redirected to the **Edit Purchase Order** page.
 
-![Create RFQ](../../../images1/purchases/po_bill_edit.png)
+![Create RFQ](/images1/purchases/po_bill_edit.png)
 
 ### Top-right Action Buttons:
 
@@ -89,26 +89,26 @@ Once you click **Confirm Order**:
   - **_Create Bill:_**
   - **_Unlock:_**
 
-![Create RFQ](../../../images1/purchases/po_bill_confirmed.png)
+![Create RFQ](/images1/purchases/po_bill_confirmed.png)
 
 ## Receipt Validation (Stockable Products Only)
 
 1. Click on the **_Receipts_** tab.
-   ![Create RFQ](../../../images1/purchases/rfq_receipt_tab.png)
+   ![Create RFQ](/images1/purchases/rfq_receipt_tab.png)
 2. Click **_Edit_** to update actual received quantities.
-   ![Create RFQ](../../../images1/purchases/rfq_receipt_edit.png)
+   ![Create RFQ](/images1/purchases/rfq_receipt_edit.png)
 3. Click **_Validate_** to confirm delivery.
 4. Stock gets reserved and reduced from inventory.
-   ![Create RFQ](../../../images1/purchases/rfq_receipt_validate.png)
+   ![Create RFQ](/images1/purchases/rfq_receipt_validate.png)
 
 ## Vendor Bill Generation
 
 After validating the receipt:
 
 1. Click **_Create Bill_** – the bill will be **automatically generated** from the PO details.
-   ![Create RFQ](../../../images1/purchases/rfq_bill_create.png)
+   ![Create RFQ](/images1/purchases/rfq_bill_create.png)
 2. Navigate to the **_Vendor Bills_** tab to review and manage the generated bill.
-   ![Create RFQ](../../../images1/purchases/rfq_bill_auto_fill.png)
+   ![Create RFQ](/images1/purchases/rfq_bill_auto_fill.png)
    > ⚠️ **Note:** If the **receipt is not validated**, you’ll get a **validation error**.
 
 ## Purchase Order Lifecycle Flow

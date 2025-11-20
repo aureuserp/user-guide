@@ -7,7 +7,7 @@ These options help you decide how you want to track, store, and process your pro
 
 Navigate to **`Inventory → Settings → Manage Operations`** as shown below.
 
-![Manage Operations](../../../images1/inventory/inventory-settings.png)
+![Manage Operations](/images1/inventory/inventory-settings.png)
 
 - **Packages:** Enable this to place products inside packages (like boxes, cartons, or pallets) and track them during shipping. Useful for managing parcels and grouped shipments.
 - **Annual Inventory Day:** Select the specific day of the year when your company performs a full physical stock check (annual audit day).
@@ -23,7 +23,7 @@ Enables better tracking of packaged shipments and helps schedule your annual inv
 
 Navigate to **`Inventory → Settings → Manage Products`** as shown below.
 
-![Manage Products](../../../images1/inventory/inventory-settings-products.png)
+![Manage Products](/images1/inventory/inventory-settings-products.png)
 
 - **Variants:** Turn on to manage product variations like size, color, weight, or style. Example: T-shirt available in S, M, L sizes.
 - **Unit of Measure:** Enable selling or purchasing products in multiple units. Example: buy in boxes, sell in pieces.
@@ -39,7 +39,7 @@ Helps businesses selling products in different sizes, units, or grouped packagin
 
 Navigate to **`Inventory → Settings → Manage Warehouses`** as shown below.
 
-![Manage Warehouses](../../../images1/inventory/inventory-settings-warehouses.png)
+![Manage Warehouses](/images1/inventory/inventory-settings-warehouses.png)
 
 - **Locations:** Track where products are stored inside the warehouse (shelves, racks, bins, zones). Helps find products easily.
 - **Multi Steps Routes:** Enable this to activate advanced warehouse routes for handling products through multiple stages during receipt and delivery. This allows structured movement of products instead of single-step handling.
@@ -59,7 +59,7 @@ This setup is useful for companies with:
 
 Navigate to **`Inventory → Settings → Manage Traceability`** as shown below.
 
-![Manage Traceability](../../../images1/inventory/inventory-settings-traceability.png)
+![Manage Traceability](/images1/inventory/inventory-settings-traceability.png)
 
 - **Lots & Serial Numbers:** Enable tracking items through lot numbers or individual serial numbers from supplier to customer. Useful for electronics, food, medicines, machinery, etc.
 - **Display on Delivery Slips:** Show lot or serial numbers on product delivery slips for clear traceability and customer records.
@@ -74,7 +74,7 @@ Ensures complete traceability for safety, warranty, or compliance requirements.
 
 Navigate to **`Inventory → Settings → Manage Logistics`** as shown below.
 
-![Manage Logistics](../../../images1/inventory/inventory-settings-logistics.png)
+![Manage Logistics](/images1/inventory/inventory-settings-logistics.png)
 
 - **Dropshipping:** Enables vendors to ship products directly to customers instead of sending to your warehouse. When a sales order is confirmed, a purchase request is automatically created and vendor ships directly to customer.
 

@@ -9,7 +9,7 @@ The **Overview** section in the **Time-Off** plugin provides employees with a cl
 - Different colors represent different leave statuses for quick visibility.
 - Helps employees plan their time-off effectively.
 
-![Overview](../../../images1/time-off/overview.png)
+![Overview](/images1/time-off/overview.png)
 
 ## Click to View Leave Details
 
@@ -21,7 +21,7 @@ Click on any leave shown on the calendar to view details.
 - Reason for leave (if provided)
 - Leave request status (Approved, Pending, Rejected)
 
-![Overview](../../../images1/time-off/overview-view.png)
+![Overview](/images1/time-off/overview-view.png)
 
 > Provides complete transparency and quick access to leave information.
 

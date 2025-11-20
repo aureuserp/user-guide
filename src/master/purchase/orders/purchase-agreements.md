@@ -8,7 +8,7 @@ The **Purchase Agreements** module in the **Purchases** plugin of **AureusERP** 
 
 1. Navigate to **`Purchase → Orders → Purchase Agreements → New Purchase Agreement`** as shown in the below image.
 
-   ![Purchase Agreement Create](../../../images1/purchases/purchase_agreement_create.png)
+   ![Purchase Agreement Create](/images1/purchases/purchase_agreement_create.png)
 
 2. Fill out the form with the following fields:
 
@@ -28,7 +28,7 @@ The **Purchase Agreements** module in the **Purchases** plugin of **AureusERP** 
    - **_Company:_** Select the company issuing the agreement (useful in multi-company setups).
    - **_Currency:_** Choose the currency in which the agreement is defined (e.g., USD, INR).
 
-   ![Purchase Agreement General Section](../../../images1/purchases/purchase_agreement_general.png)
+   ![Purchase Agreement General Section](/images1/purchases/purchase_agreement_general.png)
 
 ## Product Section
 
@@ -41,13 +41,13 @@ This section allows you to list items included in the agreement:
 
 > 🔹 _You can add multiple products to the agreement as needed._
 
-![Purchase Agreement Product Section](../../../images1/purchases/purchase_agreement_products.png)
+![Purchase Agreement Product Section](/images1/purchases/purchase_agreement_products.png)
 
 ## After Creating a Purchase Agreement
 
 Upon clicking **_Create_**, the system redirects to the **_Edit Purchase Agreement_** page. The agreement will be in **_Draft_** status.
 
-![Purchase Agreement Edit Page](../../../images1/purchases/purchase_agreement_edit.png)
+![Purchase Agreement Edit Page](/images1/purchases/purchase_agreement_edit.png)
 
 - **_Confirm:_**
 
@@ -61,7 +61,7 @@ Upon clicking **_Create_**, the system redirects to the **_Edit Purchase Agreeme
 - **_Print:_** Generates a print-friendly version of the agreement.
 - **_Delete:_** Permanently removes the agreement.
 
-![Purchase Agreement Action Buttons](../../../images1/purchases/purchase_agreement_actions.png)
+![Purchase Agreement Action Buttons](/images1/purchases/purchase_agreement_actions.png)
 
 ## Use Case
 

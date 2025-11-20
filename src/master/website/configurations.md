@@ -10,7 +10,7 @@ The **Configurations** section of the **Website Plugin** in **AureusERP** allows
 
 1. Navigate to **`Website → Configurations → Categories`** as shown below.
 
-   ![Website Categories](../../../images1/website/website_categories.png)
+   ![Website Categories](/images1/website/website_categories.png)
 
 2. Click on **New Category**. A modal form will appear with the following fields:
 
@@ -18,7 +18,7 @@ The **Configurations** section of the **Website Plugin** in **AureusERP** allows
    - **_Slug:_** Auto-generated based on the name; used in the blog post URL.
    - **_Sub Title:_** Optional subtitle for the category.
 
-   ![Website New Category](../../../images1/website/website_new_category.png)
+   ![Website New Category](/images1/website/website_new_category.png)
 
    > **Note:** Category names must be **unique** to avoid conflicts.
 
@@ -36,14 +36,14 @@ The **Configurations** section of the **Website Plugin** in **AureusERP** allows
 
 1. Navigate to **`Website → Configurations → Tags`** as shown below.
 
-   ![Website Tags](../../../images1/website/website_tags.png)
+   ![Website Tags](/images1/website/website_tags.png)
 
 2. Click on **New Tag**. A modal will open with the following fields:
 
    - **_Name:_** Enter a relevant tag name (e.g., HR, Sales, Launch).
    - **_Color:_** Pick a color to visually represent this tag.
 
-   ![Website New Tag](../../../images1/website/website_new_tag.png)
+   ![Website New Tag](/images1/website/website_new_tag.png)
 
 3. Action Buttons
 

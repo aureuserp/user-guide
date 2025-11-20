@@ -12,7 +12,7 @@ A warehouse is a physical storage location where goods are received, stored, and
 
 1. Naviagte to **`Inventory → Configurations → Warehouse Management → Warehouses`** as shown below:
 
-   ![Warehouse Management Navigation](../../../images1/inventory/navigation-warehouse-management.png)
+   ![Warehouse Management Navigation](/images1/inventory/navigation-warehouse-management.png)
 
 2. Fill the following fields:
 
@@ -23,7 +23,7 @@ A warehouse is a physical storage location where goods are received, stored, and
    - **_Company:_** Company owning this warehouse (useful in multi-company setups)
    - **_Address:_** Physical location address of the warehouse
 
-   ![Create Warehouse](../../../images1/inventory/warehouse_general.png)
+   ![Create Warehouse](/images1/inventory/warehouse_general.png)
 
    ### Shipment Settings
 
@@ -41,7 +41,7 @@ A warehouse is a physical storage location where goods are received, stored, and
    - **_Two Steps – Pick → Deliver_** Pick goods first, then deliver
    - **_Three Steps – Pick → Pack → Deliver:_** Pick, then pack, then deliver in 3 steps
 
-   ![Create Warehouse](../../../images1/inventory/warehouse_shipment.png)
+   ![Create Warehouse](/images1/inventory/warehouse_shipment.png)
 
    > **Automatic Configuration:**
 
@@ -63,13 +63,13 @@ A location represents a physical area inside a warehouse such as shelves, racks,
 > When warehouse shipment steps are set (1,2,3 steps), default locations are auto-created.
 > For example, in 3-step flow, system creates: **Stock, Input, Quality Control, Output, Packing Zone**
 
-![Warehouse Locations](../../../images1/inventory/warehouse_locations.png)
+![Warehouse Locations](/images1/inventory/warehouse_locations.png)
 
 ### Steps to Create a New Location
 
 1. Navigate to **`Inventory → Configurations → Warehouse Management → Locations`** as shown below:
 
-   ![Warehouse Locations Navigation](../../../images1/inventory/navigation-warehouse-locations.png)
+   ![Warehouse Locations Navigation](/images1/inventory/navigation-warehouse-locations.png)
 
 2. Fill in the following fields:
 
@@ -92,7 +92,7 @@ A location represents a physical area inside a warehouse such as shelves, racks,
    - **_Company:_** Assign company
    - **_Is Dock Location:_** Marks as loading/unloading area
 
-![Create Location](../../../images1/inventory/warehouse_location.png)
+![Create Location](/images1/inventory/warehouse_location.png)
 
 3. Action Buttons
 
@@ -110,13 +110,13 @@ An operation type controls how stock moves in the warehouse, including receiving
 > Operation types are auto-created when warehouse shipment flow is set.
 > Example (3-step): Receipts, Pick, Pack, Delivery, Quality, Storage, Internal Transfer, Cross-dock
 
-![Warehouse Operation Types](../../../images1/inventory/warehouse_operation_types.png)
+![Warehouse Operation Types](/images1/inventory/warehouse_operation_types.png)
 
 ### Steps to Create a New Operation Type
 
 1. Navigate to **`Inventory → Configurations → Warehouse Management → Operation Types`** as shown below:
 
-   ![Warehouse Operation Types Navigation](../../../images1/inventory/navigation-warehouse-operation-types.png)
+   ![Warehouse Operation Types Navigation](/images1/inventory/navigation-warehouse-operation-types.png)
 
 2. Fill in the following fields:
 
@@ -130,7 +130,7 @@ An operation type controls how stock moves in the warehouse, including receiving
    - **_Warehouse:_** Select warehouse
    - **_Create Backorder:_** Handle partial delivery (Ask/Always/Never)
 
-   ![Create Operation Type](../../../images1/inventory/warehouse_operation_type.png)
+   ![Create Operation Type](/images1/inventory/warehouse_operation_type.png)
 
    ### Reservation Settings
 
@@ -150,7 +150,7 @@ An operation type controls how stock moves in the warehouse, including receiving
      - Source Location: Where goods come from
      - Destination Location: Where goods go
 
-![Create Operation Type](../../../images1/inventory/warehouse_operation_type_settings.png)
+![Create Operation Type](/images1/inventory/warehouse_operation_type_settings.png)
 
 3. Action Buttons
 
@@ -172,13 +172,13 @@ A route defines the product movement rules inside a warehouse, determining how g
 > - Deliver in 3 steps
 > - Cross-dock
 
-![Warehouse Routes](../../../images1/inventory/warehouse_routes.png)
+![Warehouse Routes](/images1/inventory/warehouse_routes.png)
 
 ### Steps to Create a Route
 
 1. Navigate to **`Inventory → Configurations → Warehouse Management → Routes`** as shown below:
 
-   ![Warehouse Routes Navigation](../../../images1/inventory/navigation-warehouse-routes.png)
+   ![Warehouse Routes Navigation](/images1/inventory/navigation-warehouse-routes.png)
 
 2. Fill in the following fields:
 
@@ -196,7 +196,7 @@ A route defines the product movement rules inside a warehouse, determining how g
      - Packaging: Route available for packaging
      - Warehouses: Select warehouse to make default route
 
-     ![Create Route](../../../images1/inventory/warehouse_route.png)
+     ![Create Route](/images1/inventory/warehouse_route.png)
 
 3. Action Buttons
 
@@ -217,13 +217,13 @@ A rule defines how products move within a route, automating warehouse operations
 > - Push To
 > - Buy
 
-![Warehouse Rules](../../../images1/inventory/warehouse_rules.png)
+![Warehouse Rules](/images1/inventory/warehouse_rules.png)
 
 ### Steps to Create a Rule
 
 1. Navigate to **`Inventory → Configurations → Warehouse Management → Rules`** as shown below:
 
-   ![Warehouse Rules Navigation](../../../images1/inventory/navigation-warehouse-rules.png)
+   ![Warehouse Rules Navigation](/images1/inventory/navigation-warehouse-rules.png)
 
 2. Fill in the following fields:
 
@@ -242,7 +242,7 @@ A rule defines how products move within a route, automating warehouse operations
    - **_Route:_** Assign route
    - **_Company:_** Assign company
 
-   ![Create Rule](../../../images1/inventory/warehouse_rule.png)
+   ![Create Rule](/images1/inventory/warehouse_rule.png)
 
 3. Action Buttons
 
@@ -260,7 +260,7 @@ A storage category helps define storage capacity rules per location, allowing yo
 
 1. Navigate to **`Inventory → Configurations → Warehouse Management → Storage Category`** as shown below:
 
-   ![Warehouse Storage Category Navigation](../../../images1/inventory/navigation-warehouse-storage-category.png)
+   ![Warehouse Storage Category Navigation](/images1/inventory/navigation-warehouse-storage-category.png)
 
 2. Fill in the following fields:
 
@@ -282,7 +282,7 @@ A storage category helps define storage capacity rules per location, allowing yo
      - Capacity by Product: Set capacity by product quantity
      - Locations: Link storage category to warehouse locations
 
-     ![Create Storage Category](../../../images1/inventory/warehouse_storage_category.png)
+     ![Create Storage Category](/images1/inventory/warehouse_storage_category.png)
 
 3. Action Buttons
 

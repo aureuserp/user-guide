@@ -12,7 +12,7 @@ The data grid also provides quick actions to approve or refuse submitted time-of
 
 1. Go to **`Time Off → Management → Time Offs`** as shown in the below image.
 
-   ![Create Time-Offs](../../../images1/time-off/time-offs-create.png)
+   ![Create Time-Offs](/images1/time-off/time-offs-create.png)
 
 2. Fill in the following fields:
 
@@ -30,11 +30,11 @@ The data grid also provides quick actions to approve or refuse submitted time-of
    - **_Create & Create Another:_** Submit and open new request form
    - **_Cancel:_** Close without saving
 
-   ![Time-Offs Form](../../../images1/time-off/time-offs-form.png)
+   ![Time-Offs Form](/images1/time-off/time-offs-form.png)
 
 > Once submitted, the manager can **Approve or Refuse** from the list screen.
 
-![Time-Offs Submit](../../../images1/time-off/time-offs-submit.png)
+![Time-Offs Submit](/images1/time-off/time-offs-submit.png)
 
 ## Allocation
 
@@ -53,7 +53,7 @@ It could be given:
 
 1. Navigate to **`Time Off → Management → Allocations`** as shown in the below image.
 
-   ![Create Allocation](../../../images1/time-off/allocations-create.png)
+   ![Create Allocation](/images1/time-off/allocations-create.png)
 
 2. Fill in the details:
 
@@ -71,11 +71,11 @@ It could be given:
    - **_Create & Create Another:_** Save and open another form
    - **_Cancel:_** Exit without saving
 
-   ![Allocation Form](../../../images1/time-off/allocations-form.png)
+   ![Allocation Form](/images1/time-off/allocations-form.png)
 
 > Just like time-off requests, leave allocations also support **Approve / Refuse** actions.
 
-![Allocations Submit](../../../images1/time-off/allocations-submit.png)
+![Allocations Submit](/images1/time-off/allocations-submit.png)
 
 ### Summary
 

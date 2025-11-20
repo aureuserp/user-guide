@@ -12,8 +12,8 @@ This section helps you configure how purchase orders are created, approved, and 
 
 1. Navigate to **`Purchase → Settings → Manage Orders`** as shown below:
 
-![Manage Orders Navigation](../../../images1/purchases/manage_orders_navigation.png)
-![Manage Orders Navigation](../../../images1/purchases/manage_orders_navigation1.png)
+![Manage Orders Navigation](/images1/purchases/manage_orders_navigation.png)
+![Manage Orders Navigation](/images1/purchases/manage_orders_navigation1.png)
 
 2. You will see the following fields:
 
@@ -38,7 +38,7 @@ This section allows you to configure how products are managed and used in purcha
 
 1. Navigate to **`Purchase → Settings → Manage Products`** as shown below:
 
-   ![Manage Products Navigation](../../../images1/purchases/manage_products_navigation.png)
+   ![Manage Products Navigation](/images1/purchases/manage_products_navigation.png)
 
 2. You will see the following fields:
 
