@@ -8,7 +8,7 @@ In **AureusERP**, a **Request for Quotation (RFQ)** is the first step in the pur
 
 1. Navigate to **`Purchases → Orders → Request For Quotations → New RFQ`** as shown in the below image.
 
-   ![Create Quotation](/images1/purchases/quotation_create_1.png)
+   <ImagePopup src="/images1/purchases/quotation_create_1.png" alt="Create Quotation" />
 
 2. Filling up fields as per the **section** defined below:
 
@@ -21,7 +21,7 @@ In **AureusERP**, a **Request for Quotation (RFQ)** is the first step in the pur
    - **_Agreement:_** If this RFQ is part of a purchase agreement (e.g., blanket order), link the agreement here.
    - **_Currency:_** The currency to be used in this transaction. This is often auto-filled with your company's default.
 
-   ![RFQ General Section](/images1/purchases/rfq_general_section.png)
+   <ImagePopup src="/images1/purchases/rfq_general_section.png" alt="RFQ General Section" />
 
    ### Product Section
 
@@ -38,7 +38,7 @@ In **AureusERP**, a **Request for Quotation (RFQ)** is the first step in the pur
    - **_Discount (%):_** Enter any vendor-provided discount.
    - **_Amount:_** Auto-calculated total for the line item based on quantity, price, taxes, and discount.
 
-   ![RFQ Product Section](/images1/purchases/rfq_product_section.png)
+   <ImagePopup src="/images1/purchases/rfq_product_section.png" alt="RFQ Product Section" />
 
    ### Additional Information Section
 
@@ -49,7 +49,7 @@ In **AureusERP**, a **Request for Quotation (RFQ)** is the first step in the pur
    - **_Incoterm:_** International commercial term for shipping responsibility (e.g., FOB, CIF).
    - **_Incoterm Location:_** The place tied to the incoterm (e.g., port name or delivery warehouse).
 
-   ![RFQ Additional Information](/images1/purchases/rfq_additional_info.png)
+   <ImagePopup src="/images1/purchases/rfq_additional_info.png" alt="RFQ Additional Information" />
 
    ### Terms and Conditions
 
@@ -67,7 +67,7 @@ In **AureusERP**, a **Request for Quotation (RFQ)** is the first step in the pur
 
 Once created, you are redirected to the **Edit Purchase Order** view.
 
-![Create RFQ](/images1/purchases/rfq_bill_edit.png)
+<ImagePopup src="/images1/purchases/rfq_bill_edit.png" alt="Create RFQ" />
 
 ### Available Actions on View Page:
 
@@ -75,10 +75,10 @@ Once created, you are redirected to the **Edit Purchase Order** view.
 - **_Vendor Bills:_** View vendor bills.
 - **_Receipts:_** Manage delivery receipts.
 - **_Send by Email:_** Send this RFQ directly to the vendor.
-  ![Create RFQ](/images1/purchases/rfq_bill_view.png)
+   <ImagePopup src="/images1/purchases/rfq_bill_view.png" alt="Create RFQ" />
 - **_Print RFQ:_** Download or print the quote in PDF format.
 - **_Confirm Order:_** Approve the RFQ and convert it into a **Purchase Order**.
-  ![Create RFQ](/images1/purchases/rfq_bill_view1.png)
+   <ImagePopup src="/images1/purchases/rfq_bill_view1.png" alt="Create RFQ" />
 - **_Cancel:_** Cancel the RFQ.
 - **_Delete:_** Permanently delete the RFQ.
 
@@ -95,25 +95,25 @@ Once you **Confirm Order**, the RFQ becomes a **Purchase Order**. At this point:
   - **_Create Bills:_**
   - **_Unlock:_** (to make changes again)
 
-![Create RFQ](/images1/purchases/rfq_bill_confirmed.png)
+<ImagePopup src="/images1/purchases/rfq_bill_confirmed.png" alt="Create RFQ" />
 
 ## Receipt Validation Flow
 
 1. Go to the **Receipts** tab.
-   ![Create RFQ](/images1/purchases/rfq_receipt_tab.png)
+   <ImagePopup src="/images1/purchases/rfq_receipt_tab.png" alt="Create RFQ" />
 2. Click **_Edit_** if needed (e.g., change quantity received).
-   ![Create RFQ](/images1/purchases/rfq_receipt_edit.png)
+   <ImagePopup src="/images1/purchases/rfq_receipt_edit.png" alt="Create RFQ" />
 3. Click **_Validate_** to confirm that products have been received into inventory.
-   ![Create RFQ](/images1/purchases/rfq_receipt_validate.png)
+   <ImagePopup src="/images1/purchases/rfq_receipt_validate.png" alt="Create RFQ" />
 
 > ⚠️ Only after validating the receipt can you proceed to create vendor bills.
 
 ## Vendor Bill Generation
 
 1. Click **_Create Bill_**.
-   ![Create RFQ](/images1/purchases/rfq_bill_create.png)
+   <ImagePopup src="/images1/purchases/rfq_bill_create.png" alt="Create RFQ" />
 2. The system auto-fills bill data from the purchase order.
-   ![Create RFQ](/images1/purchases/rfq_bill_auto_fill.png)
+   <ImagePopup src="/images1/purchases/rfq_bill_auto_fill.png" alt="Create RFQ" />
 3. You can review, **_edit_**, and save the bill.
 
 ## Full RFQ-to-Bill Flow

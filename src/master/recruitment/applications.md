@@ -10,7 +10,7 @@ Job Applications represent open job positions within the organization. Each job 
 
 - Navigate to **`Recruitments → Applications → Job Positions`** as shown in the below image.
 
-  ![Create JA](/images1/recruitment/ja_create.png)
+  <ImagePopup src="/images1/recruitment/ja_create.png" alt="Create JA" />
 
   > This section displays all **Job Positions** currently open or in progress. Each job position lists the number of applicants associated with it.
 
@@ -24,13 +24,13 @@ Applicants represent individuals who have applied for a job position. Admins can
 
 1. Navigate to **`Recruitments → Applications → Applicants → New Applicant`** as shown below.
 
-   ![Create Applicant](/images1/recruitment/create_applicant.png)
+  <ImagePopup src="/images1/recruitment/create_applicant.png" alt="Create Applicant" />
 
 2. A modal form appears:
 
    **Candidate** (Select from existing or click **+** to create a new candidate).
 
-   > ![Create Applicant](/images1/recruitment/create_applicant_1.png)
+  > <ImagePopup src="/images1/recruitment/create_applicant_1.png" alt="Create Applicant" />
 
 3. After selection, click **Create**. You will be redirected to the **Edit Applicant** page with additional fields.
 
@@ -46,20 +46,20 @@ Applicants represent individuals who have applied for a job position. Admins can
    - **_Tags:_** Add keywords to categorize applicants (e.g., frontend, fresher, remote).
    - **_Notes:_** Any extra details or remarks about the applicant.
 
-   ![Create Applicant](/images1/recruitment/applicant_general.png)
+  <ImagePopup src="/images1/recruitment/applicant_general.png" alt="Create Applicant" />
 
    ### Education & Availability
 
    - **_Degree:_** Choose the highest qualification of the applicant.
    - **_Availability Date:_** When the candidate can start.
 
-   ![Create Applicant](/images1/recruitment/applicant_edu.png)
+  <ImagePopup src="/images1/recruitment/applicant_edu.png" alt="Create Applicant" />
 
    ### Department
 
    - Link the applicant to a department (e.g., Sales, Engineering).
 
-   ![Create Applicant](/images1/recruitment/applicant_dpt.png)
+  <ImagePopup src="/images1/recruitment/applicant_dpt.png" alt="Create Applicant" />
 
    ### Expected & Proposed Salary
 
@@ -68,20 +68,20 @@ Applicants represent individuals who have applied for a job position. Admins can
    - **_Proposed Salary:_** Amount the company proposes.
    - **_Other Benefits:_** Offered perks from the company.
 
-   ![Create Applicant](/images1/recruitment/applicant_salary.png)
+  <ImagePopup src="/images1/recruitment/applicant_salary.png" alt="Create Applicant" />
 
    ### Source & Medium
 
    - **_Source:_** Where the applicant came from (e.g., LinkedIn).
    - **_Medium:_** Type of communication medium (e.g., email).
 
-   ![Create Applicant](/images1/recruitment/applicant_medium.png)
+  <ImagePopup src="/images1/recruitment/applicant_medium.png" alt="Create Applicant" />
 
 4. Click **Save Changes** to proceed to the **View Applicant** page.
 
 ### View Applicant Page Options
 
-![Create Applicant](/images1/recruitment/applicant_view.png)
+<ImagePopup src="/images1/recruitment/applicant_view.png" alt="Create Applicant" />
 
 - **Edit Applicant**: Modify details.
 
@@ -90,19 +90,19 @@ Applicants represent individuals who have applied for a job position. Admins can
   - Click **Add Skill**.
   - A modal appears:
 
-    > ![Create Applicant](/images1/recruitment/applicant_skills.png)
+    > <ImagePopup src="/images1/recruitment/applicant_skills.png" alt="Create Applicant" />
 
   - **_Skill Type:_** Choose skill category (e.g., technical).
   - **_Skill:_** Choose or create the specific skill.
   - **_Skill Level:_** Indicate proficiency.
   - Click **Create** to add the skill.
-    > ![Create Applicant](/images1/recruitment/applicant_skills_modal.png)
+    > <ImagePopup src="/images1/recruitment/applicant_skills_modal.png" alt="Create Applicant" />
 
 - **Refuse:** Reject applicant.
 - Modal opens with **Refuse Reason** selection.
 - Submit to finalize rejection.
 
-  > ![Create Applicant](/images1/recruitment/applicant_refuse.png)
+  > <ImagePopup src="/images1/recruitment/applicant_refuse.png" alt="Create Applicant" />
 
 - **Delete:** Permanently remove the applicant record.
 
@@ -114,7 +114,7 @@ Candidates are individuals who may apply for jobs. Admins can create candidates 
 
 1. Navigate to **`Recruitments → Applications → Candidates → New Candidate`** as shown below.
 
-   ![Create Candidate](/images1/recruitment/create_candidate.png)
+  <ImagePopup src="/images1/recruitment/create_candidate.png" alt="Create Candidate" />
 
 2. Fill in the form:
 
@@ -125,7 +125,7 @@ Candidates are individuals who may apply for jobs. Admins can create candidates 
    - **_Phone Number:_** Mobile or landline.
    - **_LinkedIn Profile:_** Link to professional profile.
 
-   ![Create Candidate](/images1/recruitment/candidate_basic.png)
+  <ImagePopup src="/images1/recruitment/candidate_basic.png" alt="Create Candidate" />
 
    ### Status
 
@@ -138,11 +138,11 @@ Candidates are individuals who may apply for jobs. Admins can create candidates 
    - **_Manager:_** Person managing this candidate.
    - **_Availability Date:_** When they can start work.
 
-   ![Create Candidate](/images1/recruitment/candidate_additional.png)
+  <ImagePopup src="/images1/recruitment/candidate_additional.png" alt="Create Candidate" />
 
 3. Click **Create**. You will be redirected to the **View Candidate** page.
 
-![Create Candidate](/images1/recruitment/candidate_view.png)
+<ImagePopup src="/images1/recruitment/candidate_view.png" alt="Create Candidate" />
 
 ### View Candidate Page Options
 
@@ -152,12 +152,12 @@ Candidates are individuals who may apply for jobs. Admins can create candidates 
 
   - Click **Add Skill**.
 
-    > ![Create Applicant](/images1/recruitment/candidate_skills.png)
+    > <ImagePopup src="/images1/recruitment/candidate_skills.png" alt="Create Applicant" />
 
   - Fill in **Skill Type**, **Skill**, **Skill Level**.
   - Click **Create**.
 
-  > ![Create Applicant](/images1/recruitment/applicant_skills_modal.png)
+  > <ImagePopup src="/images1/recruitment/applicant_skills_modal.png" alt="Create Applicant" />
 
 - **Create Employee:** Convert this candidate into an employee.
 

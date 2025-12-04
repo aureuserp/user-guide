@@ -10,7 +10,7 @@ Customers can self-register directly from the website interface.
 
 1. Navigate to the **Frontend Website** and click on **Register**.
 
-   ![Frontend Registration](/images1/website/customer_create_frontend_1.png)
+   <ImagePopup src="/images1/website/customer_create_frontend_1.png" alt="Frontend Registration" />
 
 2. Fill out the required registration form fields:
 
@@ -19,13 +19,13 @@ Customers can self-register directly from the website interface.
    - **_Password:_** Create a secure password.
    - **_Confirm Password:_** Re-enter the password.
 
-   ![Frontend Registration Form](/images1/website/customer_create_frontend_2.png)
+   <ImagePopup src="/images1/website/customer_create_frontend_2.png" alt="Frontend Registration Form" />
 
 3. Click on **Create Account**. The user is now logged in and the customer entry is recorded in the admin panel.
 
 4. Log into the admin dashboard, go to **`Website → Customers`**, and verify the newly registered customer.
 
-   ![Admin](/images1/website/customer_create_frontend.png)
+   <ImagePopup src="/images1/website/customer_create_frontend.png" alt="Admin" />
 
 ### Admin View and Edit
 
@@ -42,7 +42,7 @@ From the admin panel, you can now:
 
 1. Navigate to **`Website → Customers → New Customer`** as shown below.
 
-   ![New Customer](/images1/website/customer_create_admin_1.png)
+   <ImagePopup src="/images1/website/customer_create_admin_1.png" alt="New Customer" />
 
    ### General Section
 
@@ -58,7 +58,7 @@ From the admin panel, you can now:
    - **_Tags:_** Helps group customers using labels or categories.
    - **_Address:_** Fill in the street, city, postal code, state, and country.
 
-   ![Create Customer](/images1/website/customer_create_1.png)
+   <ImagePopup src="/images1/website/customer_create_1.png" alt="Create Customer" />
 
    ### Sales and Purchase Section
 
@@ -67,13 +67,13 @@ From the admin panel, you can now:
    - **_Reference:_** External ID or vendor code.
    - **_Industry:_** Select the customer’s business domain.
 
-   ![Sales Purchase Info](/images1/website/customer_create_others.png)
+   <ImagePopup src="/images1/website/customer_create_others.png" alt="Sales Purchase Info" />
 
 ## After Customer Creation
 
 Clicking **Create** redirects to the **View Partner** page.
 
-![View Partner](/images1/website/customer_view_partner.png)
+<ImagePopup src="/images1/website/customer_view_partner.png" alt="View Partner" />
 
 ### Edit Partner
 
@@ -85,7 +85,7 @@ Click on **Edit Partner** to update general or fiscal information.
 - Click **Add Contact** to open a modal.
 - Add additional contact persons with details like name, email, title, etc.
 
-  ![Create Customer](/images1/website/customer_contacts.png)
+   <ImagePopup src="/images1/website/customer_contacts.png" alt="Create Customer" />
 
 > Useful for organizations with multiple representatives.
 
@@ -97,7 +97,7 @@ Click on **Edit Partner** to update general or fiscal information.
   - **_Address Types:_** Permanent, Present, Invoice, Delivery, Other.
   - **_Details:_** Full name, email, phone, mobile, complete address.
 
-  ![Create Customer](/images1/invoices/customer_address.png)
+   <ImagePopup src="/images1/invoices/customer_address.png" alt="Create Customer" />
 
 ## Summary
 

@@ -12,7 +12,7 @@ Use the task creation feature to assign responsibilities, plan workloads, track 
 
 1. Navigate to **`Project → Tasks → New Task`** as shown in the below image.
 
-   ![Create Task](/images1/project/project_task_1.png)
+  <ImagePopup src="/images1/project/project_task_1.png" alt="Create Task" />
 
 2. Fill out the required and optional details in the task form:
 
@@ -41,7 +41,7 @@ Use the task creation feature to assign responsibilities, plan workloads, track 
      - A detailed explanation of what the task entails, objectives, resources, or steps to complete it.
      - Example: "Create a responsive landing page for the marketing campaign. Use brand colors and mobile-first design."
 
-   ![Task Project](/images1/project/project_task_general.png)
+  <ImagePopup src="/images1/project/project_task_general.png" alt="Task Project" />
 
    ### Settings Section
 
@@ -70,7 +70,7 @@ Use the task creation feature to assign responsibilities, plan workloads, track 
      - Estimated time required to complete the task.
      - Used for timesheet entries, tracking efficiency, and resource planning.
 
-   ![Task Project](/images1/project/project_task_setting.png)
+  <ImagePopup src="/images1/project/project_task_setting.png" alt="Task Project" />
 
 ### After Creation
 
@@ -81,7 +81,7 @@ Use the task creation feature to assign responsibilities, plan workloads, track 
   - **_Delete:_** Permanently remove the task.
   - **_Sub Tasks:_** Manage and add sub tasks related to this task.
 
-  ![Task Project](/images1/project/project_task_view.png)
+  <ImagePopup src="/images1/project/project_task_view.png" alt="Task Project" />
 
 ## Sub Task Creation
 
@@ -92,7 +92,7 @@ Sub tasks allow you to divide a main task into smaller, more manageable activiti
 1. From the **View Task** page, click the **Sub Tasks** button.
 2. Click the **Create Sub Task** button.
 
-![Task Project](/images1/project/project_subtask.png)
+<ImagePopup src="/images1/project/project_subtask.png" alt="Task Project" />
 
 3. A modal will appear for sub task creation.
 
@@ -111,7 +111,7 @@ Sub tasks allow you to divide a main task into smaller, more manageable activiti
    - **_Tags:_** Add or create tags to classify sub tasks.
    - **_Description:_** Explain the sub task scope, expectations, or instructions.
 
-     ![Task Project](/images1/project/project_subtask_general.png)
+    <ImagePopup src="/images1/project/project_subtask_general.png" alt="Task Project" />
 
    ### Settings Section
 
@@ -121,7 +121,7 @@ Sub tasks allow you to divide a main task into smaller, more manageable activiti
    - **_Deadline:_** Define the completion date for the sub task.
    - **_Allocated Hours:_** Estimate how much time the sub task should take.
 
-   ![Task Project](/images1/project/project_subtask_settings.png)
+  <ImagePopup src="/images1/project/project_subtask_settings.png" alt="Task Project" />
 
 4. Sub Task Actions
 
@@ -131,7 +131,7 @@ Sub tasks allow you to divide a main task into smaller, more manageable activiti
 
 Once created, the sub task appears under the **Sub Tasks** tab in the parent task. You can use this to assign specialized portions of work, especially in large or complex tasks.
 
-![Task Project](/images1/project/project_subtask_view.png)
+<ImagePopup src="/images1/project/project_subtask_view.png" alt="Task Project" />
 
 ## Summary
 

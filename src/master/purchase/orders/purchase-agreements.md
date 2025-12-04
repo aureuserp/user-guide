@@ -8,7 +8,7 @@ The **Purchase Agreements** module in the **Purchases** plugin of **AureusERP** 
 
 1. Navigate to **`Purchase → Orders → Purchase Agreements → New Purchase Agreement`** as shown in the below image.
 
-   ![Purchase Agreement Create](/images1/purchases/purchase_agreement_create.png)
+  <ImagePopup src="/images1/purchases/purchase_agreement_create.png" alt="Purchase Agreement Create" />
 
 2. Fill out the form with the following fields:
 
@@ -28,7 +28,7 @@ The **Purchase Agreements** module in the **Purchases** plugin of **AureusERP** 
    - **_Company:_** Select the company issuing the agreement (useful in multi-company setups).
    - **_Currency:_** Choose the currency in which the agreement is defined (e.g., USD, INR).
 
-   ![Purchase Agreement General Section](/images1/purchases/purchase_agreement_general.png)
+  <ImagePopup src="/images1/purchases/purchase_agreement_general.png" alt="Purchase Agreement General Section" />
 
 ## Product Section
 
@@ -41,13 +41,13 @@ This section allows you to list items included in the agreement:
 
 > 🔹 _You can add multiple products to the agreement as needed._
 
-![Purchase Agreement Product Section](/images1/purchases/purchase_agreement_products.png)
+<ImagePopup src="/images1/purchases/purchase_agreement_products.png" alt="Purchase Agreement Product Section" />
 
 ## After Creating a Purchase Agreement
 
 Upon clicking **_Create_**, the system redirects to the **_Edit Purchase Agreement_** page. The agreement will be in **_Draft_** status.
 
-![Purchase Agreement Edit Page](/images1/purchases/purchase_agreement_edit.png)
+<ImagePopup src="/images1/purchases/purchase_agreement_edit.png" alt="Purchase Agreement Edit Page" />
 
 - **_Confirm:_**
 
@@ -61,7 +61,7 @@ Upon clicking **_Create_**, the system redirects to the **_Edit Purchase Agreeme
 - **_Print:_** Generates a print-friendly version of the agreement.
 - **_Delete:_** Permanently removes the agreement.
 
-![Purchase Agreement Action Buttons](/images1/purchases/purchase_agreement_actions.png)
+<ImagePopup src="/images1/purchases/purchase_agreement_actions.png" alt="Purchase Agreement Action Buttons" />
 
 ## Use Case
 

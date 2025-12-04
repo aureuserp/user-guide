@@ -8,7 +8,7 @@ The **Refunds** module in **AureusERP** allows users to manage vendor-side credi
 
 1. Navigate to **`Invoices → Vendors → Refunds`** as shown in the image below.
 
-   ![Create Refund](/images1/invoices/refund_create_1.png)
+  <ImagePopup src="/images1/invoices/refund_create_1.png" alt="Create Refund" />
 
 2. Fill in the fields according to the following sections:
 
@@ -25,7 +25,7 @@ The **Refunds** module in **AureusERP** allows users to manage vendor-side credi
    - **_Payment Term:_** Select a pre-defined duration for refund processing (e.g., Net 30, Immediate).
      > 🛈 When a payment term is selected, the **Due Date** field will be automatically replaced with the calculated date based on the selected term.
 
-   ![Create Refund](/images1/invoices/refund_create_general.png)
+  <ImagePopup src="/images1/invoices/refund_create_general.png" alt="Create Refund" />
 
    ### Invoice Lines
 
@@ -41,7 +41,7 @@ The **Refunds** module in **AureusERP** allows users to manage vendor-side credi
      - **_Cost:_** Unit cost as per the bill.
      - **_Subtotal:_** Auto-calculated as `(Quantity × Cost - Discount) + Taxes`.
 
-   ![Create Refund](/images1/invoices/refund_create_invoicelines.png)
+  <ImagePopup src="/images1/invoices/refund_create_invoicelines.png" alt="Create Refund" />
 
    ### Other Information
 
@@ -61,7 +61,7 @@ The **Refunds** module in **AureusERP** allows users to manage vendor-side credi
      - **_Company:_** Select the company receiving the refund.
      - **_Currency:_** Choose the currency of the refund.
 
-   ![Create Refund](/images1/invoices/bill_create_other1.png)
+  <ImagePopup src="/images1/invoices/bill_create_other1.png" alt="Create Refund" />
 
 3. **Action Buttons**
 
@@ -82,7 +82,7 @@ After clicking **Create**, the system opens the **Refund View** page.
 - **_Cancel:_** Mark the refund as cancelled.
 - **_Delete:_** Remove the refund permanently.
 
-![View Refund](/images1/invoices/refund_view1.png)
+<ImagePopup src="/images1/invoices/refund_view1.png" alt="View Refund" />
 
 ## Refund After Confirmation
 
@@ -97,12 +97,12 @@ Once the refund is **Confirmed** (status becomes Posted), the following actions 
   - **_Communication:_** Auto-filled Refund number (e.g., RBILL/2025/05/13).
 
   > 🛈 Clicking **Submit** updates refund status to **Paid**.
-  > ![Create Refund](/images1/invoices/refund_pay.png)
+  > <ImagePopup src="/images1/invoices/refund_pay.png" alt="Create Refund" />
 
 - **Reset to Draft**: Revert the refund back to **Draft** state.
 - **Delete**: Remove the refund if needed.
 
-![Confirmed Refund](/images1/invoices/refund_confirm.png)
+<ImagePopup src="/images1/invoices/refund_confirm.png" alt="Confirmed Refund" />
 
 ## Summary
 

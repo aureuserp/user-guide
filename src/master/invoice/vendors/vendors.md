@@ -8,7 +8,7 @@ The **Vendors** module in AureusERP enables efficient management of your supplie
 
 1.  Navigate to **`Invoices → Vendors → Vendors`**.
 
-    ![Create Vendor](/images1/invoices/vendor_create.png)
+    <ImagePopup src="/images1/invoices/vendor_create.png" alt="Create Vendor" />
 
 2.  Fill out the form with the following details:
 
@@ -26,7 +26,7 @@ The **Vendors** module in AureusERP enables efficient management of your supplie
     - **_Tags:_** Keywords or labels used to categorize the vendor for quick searching or reporting.
     - **_Address:_** Complete address of the vendor including street, city, postal code, state, and country.
 
-    ![Create Customer](/images1/invoices/vendor_create_1.png)
+    <ImagePopup src="/images1/invoices/vendor_create_1.png" alt="Create Customer" />
 
     ### Sales and Purchase Section
 
@@ -41,7 +41,7 @@ The **Vendors** module in AureusERP enables efficient management of your supplie
       - **_Payment Terms:_** Sets default payment deadlines for bills issued by the vendor.
       - **_Payment Method:_** Indicates how your organization intends to pay this vendor regularly.
 
-    ![Create Vendor](/images1/invoices/customer_create_purchase.png)
+    <ImagePopup src="/images1/invoices/customer_create_purchase.png" alt="Create Vendor" />
 
     - **Fiscal Information**
 
@@ -53,7 +53,7 @@ The **Vendors** module in AureusERP enables efficient management of your supplie
       - **_Reference:_** External or custom identifier for the vendor used for tracking or syncing with other systems.
       - **_Industry:_** Categorizes the vendor based on the market or sector they operate in. Useful for analytics and reporting.
 
-    ![Create Customer](/images1/invoices/customer_create_others.png)
+    <ImagePopup src="/images1/invoices/customer_create_others.png" alt="Create Customer" />
 
     ### Invoicing Section
 
@@ -71,13 +71,13 @@ The **Vendors** module in AureusERP enables efficient management of your supplie
       - **_Ignore Abnormal Invoice Amount:_** Allows the system to skip warning prompts for unusually large or small invoice totals from this vendor.
       - **_Ignore Abnormal Invoice Date:_** Lets the system bypass alerts when invoice dates appear irregular (e.g., far in the past or future).
 
-    ![Create Vendor](/images1/invoices/customer_create_invoicing.png)
+    <ImagePopup src="/images1/invoices/customer_create_invoicing.png" alt="Create Vendor" />
 
 ## After Vendor Creation
 
 Clicking **Create** saves the vendor record and redirects you to the **View Partner** page.This page provides a centralized overview of the customer's information and offers tools to manage contacts, addresses, and bank accounts.
 
-![Create Customer](/images1/invoices/vendor_create_view.png)
+<ImagePopup src="/images1/invoices/vendor_create_view.png" alt="Create Customer" />
 
 ### Edit Partner
 
@@ -91,7 +91,7 @@ Update the vendor’s personal, company, or fiscal details by clicking the Edit 
   - Add multiple points of contact for a vendor.
   - Capture details like name, email, phone, title, etc.
 
-![Create Vendor](/images1/invoices/vendor_create_contact.png)
+<ImagePopup src="/images1/invoices/vendor_create_contact.png" alt="Create Vendor" />
 
 > 📌 **_Use Case:_** Helpful for organizations with multiple contact persons.
 
@@ -102,7 +102,7 @@ Update the vendor’s personal, company, or fiscal details by clicking the Edit 
   - **_Toggles:_** Define the type of address — Permanent, Present, Invoice, Delivery, or Other.
   - **_Fields:_** Name, Email, Phone, Mobile, and full Address Details (Street, City, Zip Code, State, Country)
 
-![Create Vendor](/images1/invoices/vendor_create_address.png)
+<ImagePopup src="/images1/invoices/vendor_create_address.png" alt="Create Vendor" />
 
 ### Bank Accounts
 
@@ -114,7 +114,7 @@ Update the vendor’s personal, company, or fiscal details by clicking the Edit 
   - **_Bank:_** Choose from existing banks or click ➕ to create a new one.
   - **_Account Holder:_** Select the relevant vendor from the dropdown.
 
-![Create Vendor](/images1/invoices/vendor_create_bank.png)
+<ImagePopup src="/images1/invoices/vendor_create_bank.png" alt="Create Vendor" />
 
 > 📌 **_Use Case:_** Manage multiple financial accounts for the vendor, control access, and define payment channels.
 

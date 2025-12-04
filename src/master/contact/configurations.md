@@ -12,7 +12,7 @@ This guide explains the key configurations available in the Contacts plugin and 
 
 1. Navigate to **`Contacts → Configurations → Tags → New Tag`** as shown in the below image.
 
-   ![Config Contact](/images1/contacts/navigate_config_tags.png)
+   <ImagePopup src="/images1/contacts/navigate_config_tags.png" alt="Config Contact" />
 
 2. A modal form appears with the following fields:
 
@@ -21,7 +21,7 @@ This guide explains the key configurations available in the Contacts plugin and 
 
 3. Click **Create** to save the tag.
 
-![Config Contact](/images1/contacts/generate_tag.png)
+<ImagePopup src="/images1/contacts/generate_tag.png" alt="Config Contact" />
 
 ## Titles Configuration
 
@@ -31,7 +31,7 @@ This guide explains the key configurations available in the Contacts plugin and 
 
 1. Navigate to **`Contacts → Configurations → Titles → New Title`** as shown in the below image.
 
-   ![Config Contact](/images1/contacts/navigate_config_titles.png)
+   <ImagePopup src="/images1/contacts/navigate_config_titles.png" alt="Config Contact" />
 
 2. A modal form opens with these fields:
 
@@ -40,7 +40,7 @@ This guide explains the key configurations available in the Contacts plugin and 
 
 3. Click **Create** to add the title to your system.
 
-![Config Contact](/images1/contacts/generate_title.png)
+<ImagePopup src="/images1/contacts/generate_title.png" alt="Config Contact" />
 
 ## Industry Configuration
 
@@ -50,7 +50,7 @@ This guide explains the key configurations available in the Contacts plugin and 
 
 1. Navigate to **`Contacts → Configurations → Industry → New Industry`** as shown in the below image.
 
-   ![Config Contact](/images1/contacts/navigate_config_industry.png)
+   <ImagePopup src="/images1/contacts/navigate_config_industry.png" alt="Config Contact" />
 
 2. A modal form appears with:
 
@@ -59,7 +59,7 @@ This guide explains the key configurations available in the Contacts plugin and 
 
 3. Click **Create** to save.
 
-![Config Contact](/images1/contacts/generate_industry.png)
+<ImagePopup src="/images1/contacts/generate_industry.png" alt="Config Contact" />
 
 ## Banks Configuration
 
@@ -69,7 +69,7 @@ This guide explains the key configurations available in the Contacts plugin and 
 
 1. Navigate to **`Contacts → Configurations → Banks → New Bank`** as shown in the below image.
 
-   ![Config Contact](/images1/contacts/navigate_config_banks.png)
+   <ImagePopup src="/images1/contacts/navigate_config_banks.png" alt="Config Contact" />
 
 2. A form with the following sections appears:
 
@@ -90,7 +90,7 @@ This guide explains the key configurations available in the Contacts plugin and 
 
 3. Click **Create** to add the bank.
 
-![Config Contact](/images1/contacts/generate_bank.png)
+<ImagePopup src="/images1/contacts/generate_bank.png" alt="Config Contact" />
 
 ## Bank Accounts Configuration
 
@@ -100,7 +100,7 @@ This guide explains the key configurations available in the Contacts plugin and 
 
 1. Navigate to **`Contacts → Configurations → Bank Accounts → New Bank Account`** as shown in the below image.
 
-   ![Config Contact](/images1/contacts/navigate_config_bank_accounts.png)
+   <ImagePopup src="/images1/contacts/navigate_config_bank_accounts.png" alt="Config Contact" />
 
 2. A modal form appears with these fields:
 
@@ -111,7 +111,7 @@ This guide explains the key configurations available in the Contacts plugin and 
 
 3. Click **Create** to save the new bank account.
 
-![Config Contact](/images1/contacts/generate_bank_account.png)
+<ImagePopup src="/images1/contacts/generate_bank_account.png" alt="Config Contact" />
 
 ## Summary
 

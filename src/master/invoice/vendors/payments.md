@@ -8,7 +8,7 @@ The **Vendor Payments** section in **AureusERP** allows you to efficiently manag
 
 1. Navigate to **`Invoices → Vendors → Payments`** as shown in the image below.
 
-   ![Create Vendor Payment](/images1/invoices/vendor_payment_create_1.png)
+   <ImagePopup src="/images1/invoices/vendor_payment_create_1.png" alt="Create Vendor Payment" />
 
 2. Fill in the fields according to the following section:
 
@@ -24,7 +24,7 @@ The **Vendor Payments** section in **AureusERP** allows you to efficiently manag
    - **_Date:_** The date of the transaction.
    - **_Memo:_** Add optional notes or internal references.
 
-   ![Vendor Payment Form](/images1/invoices/vendor_payment_create_form.png)
+   <ImagePopup src="/images1/invoices/vendor_payment_create_form.png" alt="Vendor Payment Form" />
 
 ## Payment Lifecycle & States
 
@@ -48,7 +48,7 @@ From the **View Payment** page, you can perform the following actions:
 - **_Confirm:_** Move the payment to `In Process` and initiate payment settlement.
 - **_Cancel:_** Cancel the payment at any point before completion.
 
-  ![Vendor Payment View](/images1/invoices/vendor_payment_create_view.png)
+   <ImagePopup src="/images1/invoices/vendor_payment_create_view.png" alt="Vendor Payment View" />
 
 ## Bill Settlement Logic
 
