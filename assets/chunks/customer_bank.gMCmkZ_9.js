@@ -1,1 +1,0 @@
-const s="/images1/invoices/customer_general.png",i="/images1/invoices/customer_sales.png",o="/images1/invoices/customer_others.png",e="/images1/invoices/customer_invoicing.png",n="/images1/invoices/customer_view.png",c="/images1/invoices/customer_bank.png";export{s as _,i as a,o as b,e as c,n as d,c as e};
