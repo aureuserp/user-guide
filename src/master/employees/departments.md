@@ -8,7 +8,7 @@ The **Departments** feature in the **Employees** plugin of **AureusERP** allows 
 
 1. Navigate to **`Employees → Departments → New Department`** as shown below.
 
-   ![Department create](/images1/employees/dep_create.png)
+   <ImagePopup src="/images1/employees/dep_create.png" alt="Department create" />
 
 2. Fill in the following details in the form:
 
@@ -20,7 +20,7 @@ The **Departments** feature in the **Employees** plugin of **AureusERP** allows 
    - **_Company:_** Select the company this department belongs to (useful if your organization has multiple companies or branches).
    - **_Color:_** Choose a color to visually differentiate this department in charts, calendars, or reports. Helps in quickly identifying departments.
 
-   ![Department create](/images1/employees/dep_general.png)
+   <ImagePopup src="/images1/employees/dep_general.png" alt="Department create" />
 
 3. Actions Button
 
@@ -28,7 +28,7 @@ The **Departments** feature in the **Employees** plugin of **AureusERP** allows 
 - **_Create & Create Another:_** Save the current department and open a new form to add another department.
 - **_Cancel:_** Exit without saving.
 
-![Department create](/images1/employees/dep_acreate.png)
+<ImagePopup src="/images1/employees/dep_acreate.png" alt="Department create" />
 
 ## Use Case Example
 

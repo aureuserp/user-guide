@@ -8,7 +8,7 @@ The **Quotation** module in the **Sales** plugin of **AureusERP** allows users t
 
 1. Navigate to **`Sales → Orders → Quotations → New Quotation`** as shown in the below image.
 
-   ![Create Quotation](/images1/sales/quotation_create_1.png)
+  <ImagePopup src="/images1/sales/quotation_create_1.png" alt="Create Quotation" />
 
 2. Filling up fields as per the **section** defeind below :
 
@@ -18,7 +18,7 @@ The **Quotation** module in the **Sales** plugin of **AureusERP** allows users t
    - **_Expiration Quotation Date:_** Set the date after which the quotation will no longer be valid.
    - **_Payment Term:_** Define the terms under which the customer must pay (e.g., Net 30, Immediate).
 
-   ![Create Quotation](/images1/sales/invoice_create_general.png)
+  <ImagePopup src="/images1/sales/invoice_create_general.png" alt="Create Quotation" />
 
    ### Order Line
 
@@ -37,7 +37,7 @@ The **Quotation** module in the **Sales** plugin of **AureusERP** allows users t
    - **_Discount (%):_** Discount on the line item.
    - **_Amount:_** Auto-calculated total after applying taxes and discounts.
 
-   ![Create Invoice](/images1/sales/invoice_create_invoicelines.png)
+  <ImagePopup src="/images1/sales/invoice_create_invoicelines.png" alt="Create Invoice" />
 
    ### Optional Products
 
@@ -48,7 +48,7 @@ The **Quotation** module in the **Sales** plugin of **AureusERP** allows users t
    - **_Unit Price:_** Sale price per unit.
    - **_Discount (%):_** Any promotional or negotiated discount.
 
-   ![Create Invoice](/images1/sales/invoice_create_optional.png)
+  <ImagePopup src="/images1/sales/invoice_create_optional.png" alt="Create Invoice" />
 
    ### Other Information
 
@@ -74,7 +74,7 @@ The **Quotation** module in the **Sales** plugin of **AureusERP** allows users t
      - **_Company:_** If you operate in multi-company mode, select the company issuing the quotation.
      - **_Currency:_** Choose the currency for the quotation. (Default: USD)
 
-     ![Create Invoice](/images1/sales/invoice_create_other_1.png)
+    <ImagePopup src="/images1/sales/invoice_create_other_1.png" alt="Create Invoice" />
 
 3. Action Buttons
 
@@ -88,17 +88,17 @@ The **Quotation** module in the **Sales** plugin of **AureusERP** allows users t
 
 Click **Create** to save and navigate to the **Edit Quotation** page.
 
-![Create Quotation](/images1/sales/salesorder_view.png)
+<ImagePopup src="/images1/sales/salesorder_view.png" alt="Create Quotation" />
 
 ### Available Actions on View Page:
 
 - **_Preview:_** View a PDF/print-friendly version.
 
-  ![Create Quotation](/images1/sales/invoice_view_preview.png)
+  <ImagePopup src="/images1/sales/invoice_view_preview.png" alt="Create Quotation" />
 
 - **_Send by Email:_** Opens email composer to send the quotation to the customer.
 
-  ![Create Quotation](/images1/sales/invoice_view_send_email.png)
+  <ImagePopup src="/images1/sales/invoice_view_send_email.png" alt="Create Quotation" />
 
 - **_Confirm:_** Turn the quotation into a Sales Order.
 - **_Cancel:_** Mark the quotation as void.
@@ -110,7 +110,7 @@ Click **Create** to save and navigate to the **Edit Quotation** page.
 
 When you click **Confirm**, the status changes from **Quotation** to **Sales Order**, and you are redirected to the **Edit Order** page.
 
-![Create Invoice](/images1/sales/order_view.png)
+<ImagePopup src="/images1/sales/order_view.png" alt="Create Invoice" />
 
 ### What Happens on Confirmation:
 
@@ -120,18 +120,18 @@ When you click **Confirm**, the status changes from **Quotation** to **Sales Ord
   - **_Quantity Delivered:_** Shows how many units have been shipped.
   - **_Quantity Invoiced:_** Shows how many units have been invoiced.
 
-![Create Invoice](/images1/sales/order_view_confirmed.png)
+<ImagePopup src="/images1/sales/order_view_confirmed.png" alt="Create Invoice" />
 
 ### Delivery Management (Optional if Product is Stockable)
 
 - Navigate to the **Delivery** tab.
 
-  ![Create Invoice](/images1/sales/delivery_tab.png)
+  <ImagePopup src="/images1/sales/delivery_tab.png" alt="Create Invoice" />
 
 - **_Confirm Picking:_** Confirm items to be picked from inventory.
 - **_Validate Delivery:_** Validate that products have been shipped.
 
-  ![Create Invoice](/images1/sales/delivery_validate.png)
+  <ImagePopup src="/images1/sales/delivery_validate.png" alt="Create Invoice" />
 
 > 🛈 Stock is reserved and reduced from inventory automatically.
 
@@ -141,13 +141,13 @@ When you click **Confirm**, the status changes from **Quotation** to **Sales Ord
   - If the invoice policy is `Ordered Quantities`, invoices can be created immediately upon order confirmation.
   - If the invoice policy is `Delivered Quantities`, the invoice can only be created after delivery validation.
 
-![Create Invoice](/images1/sales/invoice_create.png)
+<ImagePopup src="/images1/sales/invoice_create.png" alt="Create Invoice" />
 
 - Navigate to the **Invoice** tab.
 
 > 🛈 You can generate, send, and register payment directly from the invoice page.
 
-![Create Invoice](/images1/sales/invoice_view.png)
+<ImagePopup src="/images1/sales/invoice_view.png" alt="Create Invoice" />
 
 ## Flow Summary
 

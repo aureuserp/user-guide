@@ -16,7 +16,7 @@ This feature ensures that every product movement can be traced back to its origi
 
 1. Navigate to **`Inventory → Products → New Lots/Serial Number`** as shown below:
 
-   ![Lots Navigation](/images1/inventory/lots_navigation.png)
+  <ImagePopup src="/images1/inventory/lots_navigation.png" alt="Lots Navigation" />
 
 2. Fill in the following details:
 
@@ -30,7 +30,7 @@ This feature ensures that every product movement can be traced back to its origi
 
    - **_Description:_** Add additional details about the lot or serial number, such as production date, expiration date, or other remarks for internal tracking.
 
-   ![Create Lot](/images1/inventory/create_lot.png)
+  <ImagePopup src="/images1/inventory/create_lot.png" alt="Create Lot" />
 
 3. **Action Buttons:**
 
@@ -42,7 +42,7 @@ This feature ensures that every product movement can be traced back to its origi
 
 After creating a record, you are redirected to the **Lot / Serial Number View Page**, where you can manage and monitor all related details.
 
-![Lot View](/images1/inventory/lot_view.png)
+<ImagePopup src="/images1/inventory/lot_view.png" alt="Lot View" />
 
 ### Tabs on the View Page
 

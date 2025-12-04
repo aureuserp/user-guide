@@ -8,7 +8,7 @@ The **Customer** module in **AureusERP** allows users to manage their clients by
 
 1.  Navigate to **`Invoices → Customers → Customers → New Customer`** as shown in the below image.
 
-    ![Create Customer](/images1/invoices/customer.png)
+    <ImagePopup src="/images1/invoices/customer.png" alt="Create Customer" />
 
 2.  Fill out the form with the following details:
 
@@ -29,7 +29,7 @@ The **Customer** module in **AureusERP** allows users to manage their clients by
     - **_Tags:_** Use predefined or custom tags to categorize or label the customer.
     - **_Address:_** Enter the complete physical address including Street, City, Zip Code, State, and Country.
 
-    ![Create Customer](/images1/invoices/customer_general.png)
+    <ImagePopup src="/images1/invoices/customer_general.png" alt="Create Customer" />
 
     ### Sales and Purchase Section
 
@@ -44,7 +44,7 @@ The **Customer** module in **AureusERP** allows users to manage their clients by
       - **_Payment Terms:_** Sets default payment timeline when buying from this customer.
       - **_Payment Method:_** Indicates how your company intends to pay this customer if they’re also a vendor.
 
-    ![Create Customer](/images1/invoices/customer_sales.png)
+    <ImagePopup src="/images1/invoices/customer_sales.png" alt="Create Customer" />
 
     - **_Fiscal Information Subsection_**
 
@@ -56,7 +56,7 @@ The **Customer** module in **AureusERP** allows users to manage their clients by
       - **_Reference:_** A secondary identifier such as a vendor/customer code.
       - **_Industry:_** Select the business sector the customer operates in; helpful for reporting and segmentation.
 
-    ![Create Customer](/images1/invoices/customer_others.png)
+    <ImagePopup src="/images1/invoices/customer_others.png" alt="Create Customer" />
 
     ### Invoicing Section
 
@@ -74,13 +74,13 @@ The **Customer** module in **AureusERP** allows users to manage their clients by
       - **_Ignore Abnormal Invoice Amount:_** Toggles a rule to bypass validation warnings for unusually high or low invoice values.
       - **_Ignore Abnormal Invoice Date:_** Ignores validations triggered by suspicious or mismatched invoice dates.
 
-    ![Create Customer](/images1/invoices/customer_invoicing.png)
+    <ImagePopup src="/images1/invoices/customer_invoicing.png" alt="Create Customer" />
 
 ## After Customer Creation
 
 Once you click **Create**, you will be redirected to the **View Partner** page. This page provides a centralized overview of the customer's information and offers tools to manage contacts, addresses, and bank accounts.
 
-![Create Customer](/images1/invoices/customer_view.png)
+<ImagePopup src="/images1/invoices/customer_view.png" alt="Create Customer" />
 
 ### Edit Partner
 
@@ -94,7 +94,7 @@ Update the customer’s personal, company, or fiscal details by clicking the Edi
   - Add multiple points of contact for a customer.
   - Capture details like name, email, phone, title, etc.
 
-![Create Customer](/images1/invoices/customer_contacts.png)
+<ImagePopup src="/images1/invoices/customer_contacts.png" alt="Create Customer" />
 
 > 📌 **_Use Case:_** Helpful for organizations with multiple contact persons.
 
@@ -106,7 +106,7 @@ Update the customer’s personal, company, or fiscal details by clicking the Edi
   - **_Toggles:_** Define the type of address — Permanent, Present, Invoice, Delivery, or Other.
   - **_Fields:_** Name, Email, Phone, Mobile, and full Address Details (Street, City, Zip Code, State, Country)
 
-![Create Customer](/images1/invoices/customer_address.png)
+<ImagePopup src="/images1/invoices/customer_address.png" alt="Create Customer" />
 
 ### Bank Accounts
 
@@ -118,7 +118,7 @@ Update the customer’s personal, company, or fiscal details by clicking the Edi
   - **_Bank:_** Choose from existing banks or click ➕ to create a new one.
   - **_Account Holder:_** Select the relevant customer from the dropdown.
 
-![Create Customer](/images1/invoices/customer_bank.png)
+<ImagePopup src="/images1/invoices/customer_bank.png" alt="Create Customer" />
 
 > 📌 **_Use Case:_** Manage multiple financial accounts for the customer, control access, and define payment channels.
 

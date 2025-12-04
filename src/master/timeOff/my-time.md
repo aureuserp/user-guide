@@ -8,7 +8,7 @@ The **My Time** section in the **Time Off Plugin** allows employees to manage th
 
 Navigate to **`Time Off -> My Time -> Dashboard`**.
 
-![Time-Off Dashboard](/images1/time-off/time-off-dashboard.png)
+<ImagePopup src="/images1/time-off/time-off-dashboard.png" alt="Time-Off Dashboard" />
 
 ### Use Case:
 
@@ -36,11 +36,11 @@ Click **New Time Off**, a modal appears with the following fields:
   - **Create & Create Another:** Submit and start a new request.
   - **Cancel:** Close without saving.
 
-  ![Create Time-Off](/images1/time-off/time-off-create.png)
+   <ImagePopup src="/images1/time-off/time-off-create.png" alt="Create Time-Off" />
 
   **Post Creation**
 
-  ![After Create Time-Off](/images1/time-off/time-off-create-after.png)
+   <ImagePopup src="/images1/time-off/time-off-create-after.png" alt="After Create Time-Off" />
 
 > Note: You can also click directly on a date in the calendar to open the leave request modal with the date pre-filled.
 
@@ -52,7 +52,7 @@ This section is for creating and tracking personal leave requests. Employees can
 
 1. Navigate to **`Time Off -> My Time -> My Time Off`** as shown in the below image.
 
-   ![Create Time-Off](/images1/time-off/time-off-create2.png)
+   <ImagePopup src="/images1/time-off/time-off-create2.png" alt="Create Time-Off" />
 
 2. Click **New My Time Off**, a modal appears with:
 
@@ -68,7 +68,7 @@ This section is for creating and tracking personal leave requests. Employees can
    - **_Create & Create Another:_** Submit and start another request.
    - **_Cancel:_** Exit without saving.
 
-   ![Create Time-Off](/images1/time-off/time-off-form.png)
+   <ImagePopup src="/images1/time-off/time-off-form.png" alt="Create Time-Off" />
 
 ## My Allocation
 
@@ -78,7 +78,7 @@ Use this section to request or view allocated time off. This is helpful when lea
 
 1. Navigate to **`Time Off -> My Time -> My Allocation`** as shown in the below image.
 
-   ![Create Allocation](/images1/time-off/allocation.png)
+   <ImagePopup src="/images1/time-off/allocation.png" alt="Create Allocation" />
 
 2. Click **New My Allocation**, a form appears:
 
@@ -98,7 +98,7 @@ Use this section to request or view allocated time off. This is helpful when lea
    - **_Create & Create Another:_** Submit and begin a new request.
    - **_Cancel:_** Exit without saving.
 
-   ![Create Allocation](/images1/time-off/allocation-form.png)
+   <ImagePopup src="/images1/time-off/allocation-form.png" alt="Create Allocation" />
 
 ## Summary
 

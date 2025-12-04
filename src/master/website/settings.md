@@ -10,7 +10,7 @@ This section lets you set up your official contact information and social media 
 
 1. Navigate to **`Settings → Settings → Website → Manage Contact`** as shown below.
 
-![Website Settings](/images1/website/website_settings.png)
+<ImagePopup src="/images1/website/website_settings.png" alt="Website Settings" />
 
 2. Update Contact Details and Social Links
 
@@ -21,7 +21,7 @@ This section lets you set up your official contact information and social media 
    - **_Email:_** The email address shown under the **_Contact Us_** section on the website.
    - **_Phone:_** The phone number displayed to users for support or inquiries.
 
-   ![Website Contact](/images1/website/website_contact.png)
+   <ImagePopup src="/images1/website/website_contact.png" alt="Website Contact" />
 
    > These contact details will be directly visible to visitors at the bottom of your website.
 
@@ -42,7 +42,7 @@ This section lets you set up your official contact information and social media 
    - **GitHub**
    - **Slack**
 
-   ![Website Social Links](/images1/website/website_social_links.png)
+   <ImagePopup src="/images1/website/website_social_links.png" alt="Website Social Links" />
 
    > These social media icons appear under the **Follow Us** section on your website. Clicking an icon will redirect users to the corresponding social media page.
 

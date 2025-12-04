@@ -8,7 +8,7 @@ The **Project Plugin** helps you manage your company's projects, assign team mem
 
 1. Navigate to **`Project → Projects → New Project`** as shown in the below image.
 
-   ![Create Project](/images1/project/project_create.png)
+   <ImagePopup src="/images1/project/project_create.png" alt="Create Project" />
 
 2. Fill out the following details in the form that appears:
 
@@ -17,7 +17,7 @@ The **Project Plugin** helps you manage your company's projects, assign team mem
    - **_Name:_** Enter the name of the project (e.g., Website Redesign, Client Onboarding).
    - **_Description:_** Provide a brief overview or purpose of the project. Helps team members understand the goal.
 
-   ![General Project](/images1/project/project_general.png)
+   <ImagePopup src="/images1/project/project_general.png" alt="General Project" />
 
    ### Additional Information
 
@@ -29,7 +29,7 @@ The **Project Plugin** helps you manage your company's projects, assign team mem
    - **_Tags:_** Add labels to organize and filter projects (e.g., Urgent, Internal, Long-Term).
    - **_Company:_** Select the company under which this project is being managed, if applicable.
 
-   ![Additional Project](/images1/project/project_additional.png)
+   <ImagePopup src="/images1/project/project_additional.png" alt="Additional Project" />
 
    ### Settings
 
@@ -47,7 +47,7 @@ The **Project Plugin** helps you manage your company's projects, assign team mem
 
      - **_Allow Milestones:_** Enable to track significant phases of the project like design, development, testing, etc.
 
-     ![Setting Project](/images1/project/project_settings.png)
+   <ImagePopup src="/images1/project/project_settings.png" alt="Setting Project" />
 
 3. After Creating the Project
 
@@ -57,7 +57,7 @@ The **Project Plugin** helps you manage your company's projects, assign team mem
    - **_Tasks:_** Manage all tasks under this project.
    - **_Milestone:_** Track major progress points (if enabled).
 
-   ![Setting Project](/images1/project/project_view.png)
+   <ImagePopup src="/images1/project/project_view.png" alt="Setting Project" />
 
 ## Task Creation in a Project
 
@@ -65,7 +65,7 @@ The **Project Plugin** helps you manage your company's projects, assign team mem
 
 1. On the **View Project** page, click **Tasks**.
 2. Click on the **New Task** button.
-   ![Task Project](/images1/project/project_task.png)
+   <ImagePopup src="/images1/project/project_task.png" alt="Task Project" />
 3. Fill out the task creation form:
 
    ### General Section
@@ -82,7 +82,7 @@ The **Project Plugin** helps you manage your company's projects, assign team mem
    - **_Tags:_** Add tags or create new ones using (+) button to label or group tasks.
    - **_Description:_** Provide a detailed explanation of the task.
 
-   ![Task Project](/images1/project/project_task_general.png)
+   <ImagePopup src="/images1/project/project_task_general.png" alt="Task Project" />
 
    ### Settings Section
 
@@ -92,7 +92,7 @@ The **Project Plugin** helps you manage your company's projects, assign team mem
    - **_Deadline:_** Set the task completion date.
    - **_Allocated Hours:_** Estimate time required for the task.
 
-   ![Task Project](/images1/project/project_task_setting.png)
+   <ImagePopup src="/images1/project/project_task_setting.png" alt="Task Project" />
 
 4. Click **Create** to save the task. You will be redirected to the **View Task** page.
 
@@ -102,7 +102,7 @@ The **Project Plugin** helps you manage your company's projects, assign team mem
 - **_Delete:_** Permanently remove the task.
 - **_Sub Tasks:_** Click to create smaller, trackable items within this task.
 
-![Task Project](/images1/project/project_task_view.png)
+<ImagePopup src="/images1/project/project_task_view.png" alt="Task Project" />
 
 ## Sub Task Creation
 
@@ -111,7 +111,7 @@ The **Project Plugin** helps you manage your company's projects, assign team mem
 1. On the **View Task** page, click **Sub Tasks**.
 2. Click the **Create Sub Task** button.
 
-   ![Task Project](/images1/project/project_subtask.png)
+   <ImagePopup src="/images1/project/project_subtask.png" alt="Task Project" />
 
 3. A modal form will appear. Fill in the details:
 
@@ -122,7 +122,7 @@ The **Project Plugin** helps you manage your company's projects, assign team mem
    - **_Tags:_** Add or create new tags.
    - **_Description:_** Detail the sub task requirements.
 
-   ![Task Project](/images1/project/project_subtask_general.png)
+   <ImagePopup src="/images1/project/project_subtask_general.png" alt="Task Project" />
 
    ### Settings Section
 
@@ -132,7 +132,7 @@ The **Project Plugin** helps you manage your company's projects, assign team mem
    - **_Deadline:_** Set the deadline.
    - **_Allocated Hours:_** Estimated hours for this sub task.
 
-   ![Task Project](/images1/project/project_subtask_settings.png)
+   <ImagePopup src="/images1/project/project_subtask_settings.png" alt="Task Project" />
 
 4. Action Buttons
 

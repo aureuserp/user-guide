@@ -10,7 +10,7 @@
 
 1. Navigate to **`Employees → Configurations → Activity Plans → New Activity Plan`** as shown below.
 
-   ![Config. Activity](/images1/employees/config_activity.png)
+   <ImagePopup src="/images1/employees/config_activity.png" alt="Config. Activity" />
 
 2. Fill in the following fields:
 
@@ -19,7 +19,7 @@
    - **_Company:_** Select or create the relevant company.
    - **_Status:_** Enable or disable the plan.
 
-   ![General Activity](/images1/employees/general_activity.png)
+   <ImagePopup src="/images1/employees/general_activity.png" alt="General Activity" />
 
 3. Action Buttons:
 
@@ -35,7 +35,7 @@
 
 1. Navigate to **`Employees → Configurations → Working Schedules → New Working Schedule`** as shown below.
 
-   ![Config. working](/images1/employees/config_working.png)
+   <ImagePopup src="/images1/employees/config_working.png" alt="Config. working" />
 
 2. Fill in:
 
@@ -56,7 +56,7 @@
    - **_Two Weeks Calendar:_** Enable alternating week schedules.
    - **_Flexible Hours:_** Allow employees to work flexible hours.
 
-   ![General Working](/images1/employees/general_working.png)
+   <ImagePopup src="/images1/employees/general_working.png" alt="General Working" />
 
 3. Action Buttons:
 
@@ -72,11 +72,11 @@
 
 1. Navigate to **`Employees → Configurations → Departure Reasons → New Departure Reason`** as shown below.
 
-   ![Config. Departure](/images1/employees/config_departure.png)
+   <ImagePopup src="/images1/employees/config_departure.png" alt="Config. Departure" />
 
 2. Enter **Name** (e.g., Resignation, Retirement, Termination).
 
-   ![General Departure](/images1/employees/general_departure.png)
+   <ImagePopup src="/images1/employees/general_departure.png" alt="General Departure" />
 
 3. Action Buttons:
 
@@ -92,14 +92,14 @@
 
 1. Navigate to **`Employees → Configurations → Tags → New Tag`** as shown below.
 
-   ![Config. Tags](/images1/employees/config_tags.png)
+   <ImagePopup src="/images1/employees/config_tags.png" alt="Config. Tags" />
 
 2. Enter:
 
    - **Name:** Tag label.
    - **Color:** Assign a color to visually distinguish the tag.
 
-   ![General Tags](/images1/employees/general_tags.png)
+   <ImagePopup src="/images1/employees/general_tags.png" alt="General Tags" />
 
 3. Action Buttons:
 
@@ -115,7 +115,7 @@
 
 1. Navigate to **`Employees → Configurations → Work Locations → New Work Location`** as shown below.
 
-   ![Config. Work](/images1/employees/config_work.png)
+   <ImagePopup src="/images1/employees/config_work.png" alt="Config. Work" />
 
 2. Enter:
 
@@ -125,7 +125,7 @@
    - **_Company:_** Select the associated company.
    - **_Status:_** Enable/disable the location.
 
-   ![General Work](/images1/employees/general_work.png)
+   <ImagePopup src="/images1/employees/general_work.png" alt="General Work" />
 
 3. Action Buttons:
 
@@ -141,7 +141,7 @@
 
 1. Navigate to **`Employees → Configurations → Skill Types → New Skill Type`** as shown below.
 
-   ![Config. Skill](/images1/employees/config_skill.png)
+   <ImagePopup src="/images1/employees/config_skill.png" alt="Config. Skill" />
 
 2. Enter:
 
@@ -149,7 +149,7 @@
    - **_Color:_** For easy identification.
    - **_Status (Toggle):_** Enable/disable this type.
 
-   ![General Skill](/images1/employees/general_skill.png)
+   <ImagePopup src="/images1/employees/general_skill.png" alt="General Skill" />
 
 3. Action Buttons:
 
@@ -160,10 +160,10 @@
 ### Add Skills to Skill Type
 
 - On the **Edit Skill Type** page:
-  ![General Add Skill](/images1/employees/general_add_skill.png)
+   <ImagePopup src="/images1/employees/general_add_skill.png" alt="General Add Skill" />
 
   - Click **New Skill** > enter **Name** > **Create**.
-    ![General Add Skill](/images1/employees/general_add_skill2.png)
+   <ImagePopup src="/images1/employees/general_add_skill2.png" alt="General Add Skill" />
   - Click **New Skill Level** > fill in:
 
     - **Name**
@@ -171,7 +171,7 @@
     - **Default Level (Toggle)**
     - Click **Create**.
 
-    ![General Add Skill](/images1/employees/general_add_skill3.png)
+   <ImagePopup src="/images1/employees/general_add_skill3.png" alt="General Add Skill" />
 
 ## Employment Types
 
@@ -181,14 +181,14 @@
 
 1. Navigate to **`Employees → Configurations → Employment Types → New Employment Type`** as shown below.
 
-   ![Config. Employment](/images1/employees/config_employment.png)
+   <ImagePopup src="/images1/employees/config_employment.png" alt="Config. Employment" />
 
 2. Enter:
 
    - **_Employment Type:_** Label (e.g., Full-Time).
    - **_Country:_** Applicable region.
 
-   ![General Employment](/images1/employees/general_employment.png)
+   <ImagePopup src="/images1/employees/general_employment.png" alt="General Employment" />
 
 3. Action Buttons:
 
@@ -204,7 +204,7 @@
 
 1. Navigate to **`Employees → Configurations → Job Positions → New Job Position`** as shown below.
 
-   ![Config. jb](/images1/employees/config_jb.png)
+   <ImagePopup src="/images1/employees/config_jb.png" alt="Config. jb" />
 
 2. Fill in:
 
@@ -219,7 +219,7 @@
    - **_Employment Type:_** Select employment type.
    - **_Status (Toggle):_** Enable/disable the job position.
 
-     ![General JB](/images1/employees/general_jb.png)
+   <ImagePopup src="/images1/employees/general_jb.png" alt="General JB" />
 
 3. Action Buttons:
 

@@ -10,7 +10,7 @@ The **Sales Configurations** section in **AureusERP** allows administrators to d
 
 1. Navigate to **`Sales → Configuration → Activity Plans`** as shown below:
 
-   ![Activity Plans Navigation](/images1/sales/activity_plans_navigation.png)
+   <ImagePopup src="/images1/sales/activity_plans_navigation.png" alt="Activity Plans Navigation" />
 
 2. Fill in:
 
@@ -18,7 +18,7 @@ The **Sales Configurations** section in **AureusERP** allows administrators to d
    - **_Company:_** Select or create a company.
    - **_Status:_** Toggle to activate or deactivate the plan.
 
-   ![Activity Plan Form](/images1/sales/activity_plan_form.png)
+   <ImagePopup src="/images1/sales/activity_plan_form.png" alt="Activity Plan Form" />
 
 ## Activity Types
 
@@ -28,7 +28,7 @@ The **Sales Configurations** section in **AureusERP** allows administrators to d
 
 1. Navigate to **`Sales → Configuration → Activity Types`** as shown below:
 
-   ![Activity Types Navigation](/images1/sales/activity_types_navigation.png)
+   <ImagePopup src="/images1/sales/activity_types_navigation.png" alt="Activity Types Navigation" />
 
 2. Fill in Activity Type:
 
@@ -60,7 +60,7 @@ The **Sales Configurations** section in **AureusERP** allows administrators to d
    - **_Delay Unit:_** Select from `Minutes`, `Hours`, `Days`, `Weeks`.
    - **_Delay From:_** Either from previous activity's deadline or completion.
 
-   ![Activity Type Form](/images1/sales/activity_type_form.png)
+   <ImagePopup src="/images1/sales/activity_type_form.png" alt="Activity Type Form" />
 
 ## Product Packaging
 
@@ -70,7 +70,7 @@ The **Sales Configurations** section in **AureusERP** allows administrators to d
 
 1. Navigate to **`Sales → Configuration → Packaging → Product`** as shown below:
 
-   ![Packaging Navigation](/images1/sales/packaging_navigation.png)
+   <ImagePopup src="/images1/sales/packaging_navigation.png" alt="Packaging Navigation" />
 
 2. Create Packaging (Modal Form):
 
@@ -80,7 +80,7 @@ The **Sales Configurations** section in **AureusERP** allows administrators to d
    - **_Quantity:_** Number of items in one package.
    - **_Company:_** Applicable company.
 
-   ![Product Packaging Form](/images1/sales/product_packaging_form.png)
+   <ImagePopup src="/images1/sales/product_packaging_form.png" alt="Product Packaging Form" />
 
 ## Categories
 
@@ -88,7 +88,7 @@ The **Sales Configurations** section in **AureusERP** allows administrators to d
 
 1. Navigate to **`Sales → Configuration → Products → Category`** as shown below:
 
-   ![Categories Navigation](/images1/sales/categories_navigation.png)
+   <ImagePopup src="/images1/sales/categories_navigation.png" alt="Categories Navigation" />
 
 2. Fill in Category Details:
 
@@ -97,7 +97,7 @@ The **Sales Configurations** section in **AureusERP** allows administrators to d
 
    > Once created, the category can be edited, deleted, and have products added to it.
 
-   ![Category Form](/images1/sales/category_form.png)
+   <ImagePopup src="/images1/sales/category_form.png" alt="Category Form" />
 
 ## Attributes
 
@@ -105,7 +105,7 @@ The **Sales Configurations** section in **AureusERP** allows administrators to d
 
 1. Navigate to **`Sales → Configuration → Products → Attributes`** as shown below:
 
-   ![Attributes Navigation](/images1/sales/attributes_navigation.png)
+   <ImagePopup src="/images1/sales/attributes_navigation.png" alt="Attributes Navigation" />
 
 2. Fill in Attribute Details:
 
@@ -122,7 +122,7 @@ The **Sales Configurations** section in **AureusERP** allows administrators to d
    - **_Name:_** Value name (e.g., Large, Red).
    - **_Extra Price:_** Price adjustment when the option is selected.
 
-   ![Attribute Form](/images1/sales/attribute_form.png)
+   <ImagePopup src="/images1/sales/attribute_form.png" alt="Attribute Form" />
 
 ## Tags
 
@@ -130,14 +130,14 @@ The **Sales Configurations** section in **AureusERP** allows administrators to d
 
 1. Navigate to **`Sales → Configuration → Sales Orders → Tags`** as shown below:
 
-   ![Tags Navigation](/images1/sales/tags_navigation.png)
+   <ImagePopup src="/images1/sales/tags_navigation.png" alt="Tags Navigation" />
 
 2. Create Sales Order Tag:
 
    - **_Name:_** Tag name (e.g., Urgent, Repeat Customer).
    - **_Color:_** Select a visual indicator.
 
-   ![Sales Order Tag Form](/images1/sales/sales_order_tag_form.png)
+   <ImagePopup src="/images1/sales/sales_order_tag_form.png" alt="Sales Order Tag Form" />
 
 ## Summary
 

@@ -10,7 +10,7 @@ Below is the **step-by-step** guide to creating an invoice.
 
 1.  Navigate to **`Invoices → Customers → New Invoice`** as shown in the below image.
 
-    ![Create Invoice](/images1/invoices/invoices.png)
+    <ImagePopup src="/images1/invoices/invoices.png" alt="Create Invoice" />
 
 2.  Fill up the fields as per the **sections** defined below.
 
@@ -24,7 +24,7 @@ Below is the **step-by-step** guide to creating an invoice.
     - **_Payment Term:_** Select a predefined payment term (e.g., Net 30, Immediate).
       > 🛈 When a payment term is selected, the **Due Date** field will be automatically replaced with the calculated date based on the selected term.
 
-    ![Create Invoice](/images1/invoices/invoices_create.png)
+    <ImagePopup src="/images1/invoices/invoices_create.png" alt="Create Invoice" />
 
     ### Invoice Lines
 
@@ -40,7 +40,7 @@ Below is the **step-by-step** guide to creating an invoice.
       - **_Unit Price:_** Input price per unit.
       - **_Subtotal:_** Automatically calculated as `(Quantity x Unit Price - Discount) + Taxes`.
 
-    ![Create Invoice](/images1/invoices/invoices_product.png)
+    <ImagePopup src="/images1/invoices/invoices_product.png" alt="Create Invoice" />
 
     ### Other Information
 
@@ -52,7 +52,7 @@ Below is the **step-by-step** guide to creating an invoice.
       - **_Payment Reference:_** Add a payment transaction or reference code.
       - **_Delivery Date:_** Mention the expected or actual delivery date.
 
-      ![Create Invoice](/images1/invoices/invoices_other.png)
+      <ImagePopup src="/images1/invoices/invoices_other.png" alt="Create Invoice" />
 
     - **Accounting**
 
@@ -62,14 +62,14 @@ Below is the **step-by-step** guide to creating an invoice.
       - **_Auto Post:_** Enable to automatically post this invoice upon creation.
       - **_Checked:_** Use for internal review or verification before processing.
 
-      ![Create Invoice](/images1/invoices/invoices_accounting.png)
+      <ImagePopup src="/images1/invoices/invoices_accounting.png" alt="Create Invoice" />
 
     - **Additional Information**
 
       - **_Company:_** Select the company issuing the invoice (multi-company support).
       - **_Currency:_** Choose the currency for the invoice. USD is selected by default.
 
-      ![Create Invoice](/images1/invoices/invoices_additional.png)
+      <ImagePopup src="/images1/invoices/invoices_additional.png" alt="Create Invoice" />
 
     - **Marketing**
 
@@ -77,7 +77,7 @@ Below is the **step-by-step** guide to creating an invoice.
       - **_Medium:_** Identify the medium (e.g., Email, Social Media).
       - **_Source:_** Specify the source (e.g., Google, Referral).
 
-      ![Create Invoice](/images1/invoices/invoices_marketing.png)
+      <ImagePopup src="/images1/invoices/invoices_marketing.png" alt="Create Invoice" />
 
 3.  **Action Buttons**
 
@@ -98,7 +98,7 @@ After clicking **Create**, the system redirects to the **Invoice View** page.
 - **_Cancel:_** Mark the invoice as cancelled.
 - **_Delete:_** Permanently remove the invoice.
 
-![Create Invoice](/images1/invoices/invoices_view.png)
+<ImagePopup src="/images1/invoices/invoices_view.png" alt="Create Invoice" />
 
 ## Invoice After Confirmation
 
@@ -113,14 +113,14 @@ Once the invoice is **Confirmed** (status becomes Posted), the following actions
   - **_Communication:_** Auto-filled invoice number (e.g., INV/2025/05/13).
 
   > 🛈 Clicking **Submit** updates invoice status to **Paid**.
-  > ![Create Invoice](/images1/invoices/invoices_pay_modal.png)
+  > <ImagePopup src="/images1/invoices/invoices_pay_modal.png" alt="Create Invoice" />
 
 - **_Reset to Draft:_** Revert the invoice back to **Draft** state.
 - **_Preview:_** Display a printable version of the invoice.
 - **_Credit Note:_** Create a credit note with **Reason** and **Date**.
 - **_Delete:_** Remove the invoice if needed.
 
-![Create Invoice](/images1/invoices/invoices_pay.png)
+<ImagePopup src="/images1/invoices/invoices_pay.png" alt="Create Invoice" />
 
 ## Summary
 

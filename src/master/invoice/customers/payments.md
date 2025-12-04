@@ -8,7 +8,7 @@ The **Payments** section in AureusERP enables you to efficiently record and mana
 
 1. Navigate to **`Invoices → Customers → Payments`** as shown in the below image.
 
-![Create Payment](/images1/invoices/payment_create_1.png)
+<ImagePopup src="/images1/invoices/payment_create_1.png" alt="Create Payment" />
 
 2.  Fill up the fields as per the **sections** defined below.
 
@@ -24,7 +24,7 @@ The **Payments** section in AureusERP enables you to efficiently record and mana
 - **_Date:_** The date of the transaction.
 - **_Memo:_** Add optional notes or references for internal use.
 
-![Create Payment](/images1/invoices/payment_create_form.png)
+<ImagePopup src="/images1/invoices/payment_create_form.png" alt="Create Payment" />
 
 ## Payment Lifecycle & States
 
@@ -48,7 +48,7 @@ From the **View Payment** page, you can perform the following actions:
 - **_Confirm:_** Move the payment to `In Process` and begin settlement.
 - **_Cancel:_** Cancel the payment at any time before it becomes `Paid`.
 
-![Create Payment](/images1/invoices/payment_create_view.png)
+<ImagePopup src="/images1/invoices/payment_create_view.png" alt="Create Payment" />
 
 ## Invoice Settlement Logic
 

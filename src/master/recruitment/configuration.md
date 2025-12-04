@@ -10,7 +10,7 @@ This document explains the **Configuration** section of the Recruitment Plugin i
 
 1. Navigate to **`Recruitments → Configuration → Activities → Activity Plans`** as shown in the below image.
 
-   ![Config. Activity](/images1/recruitment/config_activity.png)
+   <ImagePopup src="/images1/recruitment/config_activity.png" alt="Config. Activity" />
 
 2. Fill in:
 
@@ -19,7 +19,7 @@ This document explains the **Configuration** section of the Recruitment Plugin i
    - **_Company:_** The company where the recruitment is taking place
    - **_Status:_** Set whether the activity plan is active
 
-   ![General Activity](/images1/recruitment/activity_general.png)
+   <ImagePopup src="/images1/recruitment/activity_general.png" alt="General Activity" />
 
 3. Action Buttons
 
@@ -35,7 +35,7 @@ This document explains the **Configuration** section of the Recruitment Plugin i
 
 1. Navigate to **`Recruitments → Configuration → Activities → Activity Types`** as shown in the below image.
 
-   ![Config. Activity Types](/images1/recruitment/config_activity_types.png)
+   <ImagePopup src="/images1/recruitment/config_activity_types.png" alt="Config. Activity Types" />
 
 2. Fill in:
 
@@ -64,7 +64,7 @@ This document explains the **Configuration** section of the Recruitment Plugin i
    - **_Delay Count_** and **_Unit_**: Set delays (e.g., 2 Days)
    - **_Delay From:_** Choose between previous deadline or completion date
 
-   ![General Activity Types](/images1/recruitment/activity_types_general.png)
+   <ImagePopup src="/images1/recruitment/activity_types_general.png" alt="General Activity Types" />
 
 3. Action Buttons
 
@@ -80,14 +80,14 @@ This document explains the **Configuration** section of the Recruitment Plugin i
 
 1. Navigate to **`Recruitments → Configuration → Applications → Tags`** as shown in the below image.
 
-   ![Config. Tags](/images1/recruitment/config_tags.png)
+   <ImagePopup src="/images1/recruitment/config_tags.png" alt="Config. Tags" />
 
 2. Fill in:
 
    - **_Name:_**
    - **_Color:_** (for easy identification)
 
-   ![General tags](/images1/recruitment/tags_general.png)
+   <ImagePopup src="/images1/recruitment/tags_general.png" alt="General tags" />
 
 3. Action Buttons
 
@@ -103,11 +103,11 @@ This document explains the **Configuration** section of the Recruitment Plugin i
 
 1. Navigate to **`Recruitments → Configuration → Applications → Degrees`** as shown in the below image.
 
-   ![Config. Degrees](/images1/recruitment/config_degrees.png)
+   <ImagePopup src="/images1/recruitment/config_degrees.png" alt="Config. Degrees" />
 
 2. Enter the **_Name:_** (e.g., MBA, B.Tech)
 
-   ![General degree](/images1/recruitment/degree_general.png)
+   <ImagePopup src="/images1/recruitment/degree_general.png" alt="General degree" />
 
 3. Action Buttons
 
@@ -123,14 +123,14 @@ This document explains the **Configuration** section of the Recruitment Plugin i
 
 1. Navigate to **`Recruitments → Configuration → Applications → Refuse Reasons`** as shown in the below image.
 
-   ![Config. Refuse](/images1/recruitment/config_refuse.png)
+   <ImagePopup src="/images1/recruitment/config_refuse.png" alt="Config. Refuse" />
 
 2. Fill in:
 
    - **_Name:_** Reason (e.g., Lack of Experience)
    - **_Template:_** Select appropriate template (e.g., Applicant Refused, Not Interested)
 
-   ![General refuse](/images1/recruitment/refuse_general.png)
+   <ImagePopup src="/images1/recruitment/refuse_general.png" alt="General refuse" />
 
 3. Action Buttons
 
@@ -146,11 +146,11 @@ This document explains the **Configuration** section of the Recruitment Plugin i
 
 1. Navigate to **`Recruitments → Configuration → UTMs → Mediums`** as shown in the below image.
 
-   ![Config. Mediums](/images1/recruitment/config_activity_mediums.png)
+   <ImagePopup src="/images1/recruitment/config_activity_mediums.png" alt="Config. Mediums" />
 
 2. Enter **_Name:_** (e.g., LinkedIn, Indeed)
 
-   ![General medium](/images1/recruitment/medium_general.png)
+   <ImagePopup src="/images1/recruitment/medium_general.png" alt="General medium" />
 
 3. Action Buttons
 
@@ -166,11 +166,11 @@ This document explains the **Configuration** section of the Recruitment Plugin i
 
 1. Navigate to **`Recruitments → Configuration → UTMs → Sources`** as shown in the below image.
 
-   ![Config. Sources](/images1/recruitment/config_sources.png)
+   <ImagePopup src="/images1/recruitment/config_sources.png" alt="Config. Sources" />
 
 2. Enter **_Name:_** (e.g., Referral, College Drive)
 
-   ![General sources](/images1/recruitment/sources_general.png)
+   <ImagePopup src="/images1/recruitment/sources_general.png" alt="General sources" />
 
 3. Action Buttons
 
@@ -186,7 +186,7 @@ This document explains the **Configuration** section of the Recruitment Plugin i
 
 1. Navigate to **`Recruitments → Configuration → Employees → Skill Types`** as shown in the below image.
 
-   ![Config. Skills](/images1/recruitment/config_skill_types.png)
+   <ImagePopup src="/images1/recruitment/config_skill_types.png" alt="Config. Skills" />
 
 2. Fill in:
 
@@ -194,7 +194,7 @@ This document explains the **Configuration** section of the Recruitment Plugin i
    - **_Color:_**
    - **_Status:_** Enable/Disable toggle
 
-   ![General skill](/images1/recruitment/skill_general.png)
+   <ImagePopup src="/images1/recruitment/skill_general.png" alt="General skill" />
 
 3. Action Buttons
 
@@ -210,7 +210,7 @@ This document explains the **Configuration** section of the Recruitment Plugin i
 
 1. Navigate to **`Recruitments → Configuration → Employees → Departments`** as shown in the below image.
 
-   ![Config. Departments](/images1/recruitment/config_departments.png)
+   <ImagePopup src="/images1/recruitment/config_departments.png" alt="Config. Departments" />
 
 2. Fill in:
 
@@ -220,7 +220,7 @@ This document explains the **Configuration** section of the Recruitment Plugin i
    - **_Company:_**
    - **_Color:_:** Tag color
 
-   ![General department](/images1/recruitment/department_general.png)
+   <ImagePopup src="/images1/recruitment/department_general.png" alt="General department" />
 
 3. Action Buttons
 
@@ -236,7 +236,7 @@ This document explains the **Configuration** section of the Recruitment Plugin i
 
 1. Navigate to **`Recruitments → Configuration → Job Positions → Stages`** as shown in the below image.
 
-   ![Config. Stages](/images1/recruitment/config_stages.png)
+   <ImagePopup src="/images1/recruitment/config_stages.png" alt="Config. Stages" />
 
 2. Fill in:
 
@@ -255,7 +255,7 @@ This document explains the **Configuration** section of the Recruitment Plugin i
    - **_Hired Stage:_** Marks the stage as final
    - **_Default Stage:_** Set as initial stage
 
-   ![General stages](/images1/recruitment/stages_general.png)
+   <ImagePopup src="/images1/recruitment/stages_general.png" alt="General stages" />
 
 3. Action Buttons
 
@@ -271,14 +271,14 @@ This document explains the **Configuration** section of the Recruitment Plugin i
 
 1. Navigate to **`Recruitments → Configuration → Job Positions → Employment Types`** as shown in the below image.
 
-   ![Config. Employment Types](/images1/recruitment/config_employment_types.png)
+   <ImagePopup src="/images1/recruitment/config_employment_types.png" alt="Config. Employment Types" />
 
 2. Fill in:
 
    - **_Employment Type:_** (e.g., Internship)
    - **_Country:_**
 
-   ![General Employment](/images1/recruitment/employment_general.png)
+   <ImagePopup src="/images1/recruitment/employment_general.png" alt="General Employment" />
 
 3. Action Buttons
 
@@ -294,7 +294,7 @@ This document explains the **Configuration** section of the Recruitment Plugin i
 
 1. Navigate to **`Recruitments → Configuration → Job Positions → Job Positions`** as shown in the below image.
 
-   ![Config. Employment Types](/images1/recruitment/config_job_positions.png)
+   <ImagePopup src="/images1/recruitment/config_job_positions.png" alt="Config. Employment Types" />
 
 2. Fill in:
 
@@ -320,7 +320,7 @@ This document explains the **Configuration** section of the Recruitment Plugin i
    - **_Employment Type:_** Select from previously created types
    - **_Status:_** Toggle to enable/disable the position
 
-   ![General jp](/images1/recruitment/jp_general.png)
+   <ImagePopup src="/images1/recruitment/jp_general.png" alt="General jp" />
 
 3. Action Buttons
 

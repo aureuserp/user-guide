@@ -10,7 +10,7 @@ The **Configurations** section in the **Purchases** plugin of **AureusERP** help
 
 1. Navigate to **`Purchase → Configurations → Vendor Price Lists`** as shown in the image below.
 
-   ![Vendor Price List Navigation](/images1/purchases/vendor_price_list_navigation.png)
+   <ImagePopup src="/images1/purchases/vendor_price_list_navigation.png" alt="Vendor Price List Navigation" />
 
 2. Clicking on **New Vendor Price List** opens a form with the following sections:
 
@@ -31,7 +31,7 @@ The **Configurations** section in the **Purchases** plugin of **AureusERP** help
    - **_Discount (%):_** Optional discount on the listed price.
    - **_Company:_** Choose the company associated with the pricing.
 
-   ![Vendor Price List Form](/images1/purchases/vendor_price_list_form.png)
+   <ImagePopup src="/images1/purchases/vendor_price_list_form.png" alt="Vendor Price List Form" />
 
 3. After creating, the system redirects to the **View Price List** page where you can **edit** as needed.
 
@@ -43,7 +43,7 @@ The **Configurations** section in the **Purchases** plugin of **AureusERP** help
 
 1. Navigate to **`Purchase → Configurations → Products → Categories`** as shown in the image below.
 
-   ![Product Categories Navigation](/images1/purchases/product_categories_navigation.png)
+   <ImagePopup src="/images1/purchases/product_categories_navigation.png" alt="Product Categories Navigation" />
 
 2. Clicking **Create** opens the **Create Category** page:
 
@@ -51,7 +51,7 @@ The **Configurations** section in the **Purchases** plugin of **AureusERP** help
    - **_Parent:_** Optional. Choose a parent category if you're building a nested category structure (e.g., All → Clothing).
 
    > After creation, you can manage or assign products under this category and make further edits.
-   > ![Create Product Category](/images1/purchases/product_category_create.png)
+   > <ImagePopup src="/images1/purchases/product_category_create.png" alt="Create Product Category" />
 
 ## Product Attributes
 
@@ -61,7 +61,7 @@ The **Configurations** section in the **Purchases** plugin of **AureusERP** help
 
 1. Navigate to **`Purchase → Configurations → Products → Attribute`** as shown in the image below.
 
-   ![Product Attributes Navigation](/images1/purchases/product_attributes_navigation.png)
+   <ImagePopup src="/images1/purchases/product_attributes_navigation.png" alt="Product Attributes Navigation" />
 
 2. Attributes define variations of products (like size, color, material).
 
@@ -87,7 +87,7 @@ The **Configurations** section in the **Purchases** plugin of **AureusERP** help
      - **_Color:_** Choose the color visually.
      - **_Extra Price:_** Optional added price.
 
-![Create Product Attribute](/images1/purchases/product_attribute_create.png)
+<ImagePopup src="/images1/purchases/product_attribute_create.png" alt="Create Product Attribute" />
 
 ## Product Packaging
 
@@ -97,7 +97,7 @@ The **Configurations** section in the **Purchases** plugin of **AureusERP** help
 
 1. Navigate to **`Purchase → Configurations → Products → Packaging`** as shown in the image below.
 
-   ![Product Packaging Navigation](/images1/purchases/product_packaging_navigation.png)
+   <ImagePopup src="/images1/purchases/product_packaging_navigation.png" alt="Product Packaging Navigation" />
 
 2. Click **Create Packaging** to open a modal:
 
@@ -107,7 +107,7 @@ The **Configurations** section in the **Purchases** plugin of **AureusERP** help
    - **_Qty:_** Define how many items are in this package.
    - **_Company:_** Associate the packaging with a specific company.
 
-   ![Create Product Packaging](/images1/purchases/product_packaging_create.png)
+   <ImagePopup src="/images1/purchases/product_packaging_create.png" alt="Create Product Packaging" />
 
    > After clicking **Create**, the packaging unit is saved and can be managed later.
 

@@ -11,8 +11,8 @@ This section allows you to control how products are managed and displayed in the
 
 1. Navigate to **`Sales → Settings → Manage Products`** as shown below:
 
-   ![Manage Products Navigation](/images1/sales/manage_products_navigation.png)
-   ![Manage Products Navigation](/images1/sales/manage_products_navigation1.png)
+   <ImagePopup src="/images1/sales/manage_products_navigation.png" alt="Manage Products Navigation" />
+   <ImagePopup src="/images1/sales/manage_products_navigation1.png" alt="Manage Products Navigation" />
 
 2. You will see the following configuration fields:
 
@@ -38,7 +38,7 @@ It helps control whether invoices are created based on ordered or delivered quan
 
 1. Navigate to **`Sales → Settings → Manage Invoices`** as shown below:
 
-   ![Manage Invoices Navigation](/images1/sales/manage_invoices_navigation.png)
+   <ImagePopup src="/images1/sales/manage_invoices_navigation.png" alt="Manage Invoices Navigation" />
 
 2. You will see the following configuration fields:
 
@@ -66,7 +66,7 @@ You can choose to enable product discounts and display profit margins directly i
 
 1. Navigate to **`Sales → Settings → Manage Pricing`** as shown below:
 
-   ![Manage Pricing Navigation](/images1/sales/manage_pricing_navigation.png)
+   <ImagePopup src="/images1/sales/manage_pricing_navigation.png" alt="Manage Pricing Navigation" />
 
 2. You will see the following configuration fields:
 
@@ -91,7 +91,7 @@ It defines quotation validity and ensures sales orders are locked after confirma
 
 1. Navigate to **`Sales → Settings → Manage Quotation & Order`** as shown below:
 
-   ![Manage Quotation Navigation](/images1/sales/manage_quotation_navigation.png)
+   <ImagePopup src="/images1/sales/manage_quotation_navigation.png" alt="Manage Quotation Navigation" />
 
 2. You will see the following configuration fields:
 

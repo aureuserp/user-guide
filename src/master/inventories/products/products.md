@@ -10,7 +10,7 @@ In the Inventory module, products represent the physical or tangible items that 
 
 1. Navigate to **`Inventory → Products → Products`** as shown below:
 
-   ![Products Navigation](/images1/inventory/products_navigation.png)
+  <ImagePopup src="/images1/inventory/products_navigation.png" alt="Products Navigation" />
 
 2. Fill in the following fields:
 
@@ -20,7 +20,7 @@ In the Inventory module, products represent the physical or tangible items that 
    - **_Tags:_**
      > You can **create a new tag** or **select from existing** tags in the dropdown.
 
-   ![Create Product](/images1/inventory/product_general.png)
+  <ImagePopup src="/images1/inventory/product_general.png" alt="Create Product" />
 
    ### Settings Section
 
@@ -37,7 +37,7 @@ In the Inventory module, products represent the physical or tangible items that 
 
    > 🛈 Selecting **Goods** reveals an **Inventory** section at the bottom of the page.
 
-   ![Create Product](/images1/inventory/product_settings.png)
+  <ImagePopup src="/images1/inventory/product_settings.png" alt="Create Product" />
 
    ### Inventory (Visible if 'Goods' is selected)
 
@@ -62,7 +62,7 @@ In the Inventory module, products represent the physical or tangible items that 
      - Primary Warehouse: Deliver in 3 Steps (Pick + Pack + Ship)
 
    These routes ensure each product follows a consistent and well-defined operational path from supplier to customer.
-   ![Create Product](/images1/inventory/product_routes.png)
+  <ImagePopup src="/images1/inventory/product_routes.png" alt="Create Product" />
 
    #### Logistics
 
@@ -70,14 +70,14 @@ In the Inventory module, products represent the physical or tangible items that 
    - **_Weight:_** The product’s weight, used for calculating shipment loads or delivery costs.
    - **_Volume:_** The total space occupied by the product (used for warehouse space management).
    - **_Customer Lead Time (Days):_** The number of days needed to deliver the product to the customer after order confirmation.
-     ![Create Product](/images1/inventory/product_logistics.png)
+    <ImagePopup src="/images1/inventory/product_logistics.png" alt="Create Product" />
 
    ### Pricing Section
 
    - **Price**: Selling price of the product.
    - **Cost:** Internal cost price.
 
-   ![Create Product](/images1/inventory/product_price.png)
+  <ImagePopup src="/images1/inventory/product_price.png" alt="Create Product" />
 
 3. Action Buttons
 
@@ -89,7 +89,7 @@ In the Inventory module, products represent the physical or tangible items that 
 
 After creating a product, you are redirected to the Product View Page where you can manage attributes, variants, and inventory levels.
 
-![Create Product](/images1/inventory/product_view.png)
+<ImagePopup src="/images1/inventory/product_view.png" alt="Create Product" />
 
 ### Tabs on the Product View Page
 
@@ -100,19 +100,19 @@ After creating a product, you are redirected to the Product View Page where you 
   The Quantities section helps you manage the physical stock levels of your products across different warehouses or locations.
   ### Steps to Add a New Quantity
   1. Click **Add Quantity** on the Quantities tab
-     ![Create Product](/images1/inventory/product_add_quantity.png)
+    <ImagePopup src="/images1/inventory/product_add_quantity.png" alt="Create Product" />
   2. Fill the modal fields:
      - **_Location:_** Select the warehouse location where the product is stored (e.g., Stock, Input, Output, Quality Control)
      - **_Package:_** Choose the package type (e.g., Box, Pallet, Carton) if applicable
      - **_On Hand Quantity:_** Enter the number of units physically available at that location
   3. Click **Create** to save the quantity record
-     ![Create Product](/images1/inventory/product_quantity_modal.png)
+    <ImagePopup src="/images1/inventory/product_quantity_modal.png" alt="Create Product" />
 - **IN/OUT:**
   The product’s IN/OUT section tracks all incoming and outgoing quantities:
   - **IN:** Stock received through purchase orders or internal transfers
   - **OUT:** Stock delivered or consumed through sales or internal movement
 
-![Create Product](/images1/inventory/product_inout.png)
+<ImagePopup src="/images1/inventory/product_inout.png" alt="Create Product" />
 
 ## Summary
 
