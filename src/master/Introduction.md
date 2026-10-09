@@ -41,11 +41,11 @@ Each section contains:
 
 ### 🛒 Sales
 
-- [Quotations](../master/sales/orders/quotations.md)
-- [Sales Orders](../master/sales/orders/orders.md)
-- [Sales Products](../master/sales/products.md)
-- [Customers](../master/sales/orders/customers.md)
-- [Sales Settings](../master/sales/settings.md)
+- [Quotations](../master/sales/quotations-orders/create-quotation.md)
+- [Sales Orders](../master/sales/quotations-orders/manage-orders.md)
+- [Sales Products](../master/sales/products-prices/manage-products.md)
+- [Customers](../master/sales/quotations-orders/manage-customers.md)
+- [Sales Settings](../master/sales/configuration/settings.md)
 
 ### 📦 Purchase
 

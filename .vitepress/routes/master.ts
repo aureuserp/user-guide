@@ -117,20 +117,55 @@ const routes = [
   {
     text: 'Sales',
     collapsed: true,
+    link: '/master/sales/',
     items: [
       {
-        text: 'Orders',
+        text: 'Quotations and Orders',
         collapsed: true,
+        link: '/master/sales/quotations-orders/',
         items: [
-          { text: 'Quotations', link: '/master/sales/orders/quotations' },
-          { text: 'Orders', link: '/master/sales/orders/orders' },
-          { text: 'Customers', link: '/master/sales/orders/customers' },
+          { text: 'Create a Quotation', link: '/master/sales/quotations-orders/create-quotation' },
+          { text: 'Optional Products', link: '/master/sales/quotations-orders/optional-products' },
+          { text: 'Send and Confirm a Quotation', link: '/master/sales/quotations-orders/send-and-confirm-quotation' },
+          { text: 'Manage Orders', link: '/master/sales/quotations-orders/manage-orders' },
+          { text: 'Manage Customers', link: '/master/sales/quotations-orders/manage-customers' },
         ]
       },
-      { text: 'To Invoice', link: '/master/sales/toInvoice' },
-      { text: 'Products', link: '/master/sales/products' },
-      { text: 'Configurations', link: '/master/sales/configurations' },
-      { text: 'Settings', link: '/master/sales/settings' },
+      {
+        text: 'Invoicing',
+        collapsed: true,
+        link: '/master/sales/invoicing/',
+        items: [
+          { text: 'Invoicing Policies', link: '/master/sales/invoicing/invoicing-policies' },
+          { text: 'Order to Invoice', link: '/master/sales/invoicing/order-to-invoice' },
+          { text: 'Order to Upsell', link: '/master/sales/invoicing/order-to-upsell' },
+        ]
+      },
+      {
+        text: 'Products and Prices',
+        collapsed: true,
+        link: '/master/sales/products-prices/',
+        items: [
+          { text: 'Manage Products', link: '/master/sales/products-prices/manage-products' },
+          { text: 'Product Variants', link: '/master/sales/products-prices/product-variants' },
+          { text: 'Price Lists', link: '/master/sales/products-prices/price-lists' },
+          { text: 'Discounts and Margins', link: '/master/sales/products-prices/discounts-margins' },
+          { text: 'Currencies', link: '/master/sales/products-prices/currencies' },
+        ]
+      },
+      {
+        text: 'Configuration',
+        collapsed: true,
+        link: '/master/sales/configuration/',
+        items: [
+          { text: 'Settings', link: '/master/sales/configuration/settings' },
+          { text: 'Product Categories', link: '/master/sales/configuration/product-categories' },
+          { text: 'Product Attributes', link: '/master/sales/configuration/product-attributes' },
+          { text: 'Packagings', link: '/master/sales/configuration/packagings' },
+          { text: 'Tags', link: '/master/sales/configuration/tags' },
+          { text: 'UOM Categories', link: '/master/sales/configuration/uom-categories' },
+        ]
+      },
     ]
   },
   {
