@@ -1,5 +1,6 @@
 import { defineConfig } from 'vitepress'
 import sidebar from './routes'
+import { writeRedirects } from './redirects'
 
 
 
@@ -13,6 +14,7 @@ export default defineConfig({
   },
   lang: 'en-US',
   srcDir: 'src',
+  buildEnd: (siteConfig) => writeRedirects(siteConfig.outDir),
   title: 'Aureus ERP',
   base: '/',
   description: 'The powerful Open Source ERP platform built on Laravel',
