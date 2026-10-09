@@ -32,54 +32,54 @@ Each section contains:
 
 ### 🧾 Invoices
 
-- [Customers](../master/invoice/customers/customers.md)
-- [Products](../master/invoice/customers/products.md)
-- [Invoices](../master/invoice/customers/invoices.md)
-- [Payments](../master/invoice/customers/payments.md)
-- [Bills & Payments](../master/invoice/vendors/bills.md)
-- [Invoice Settings](../master/invoice/settings.md)
+- [Customers](../master/finance/invoices/customers/manage-customers.md)
+- [Products](../master/finance/invoices/products/manage-products.md)
+- [Invoices](../master/finance/invoices/customers/create-invoice.md)
+- [Payments](../master/finance/invoices/customers/register-payment.md)
+- [Bills & Payments](../master/finance/invoices/vendors/create-bill.md)
+- [Invoice Settings](../master/finance/invoices/configuration/settings.md)
 
 ### 🛒 Sales
 
-- [Quotations](../master/sales/orders/quotations.md)
-- [Sales Orders](../master/sales/orders/orders.md)
-- [Sales Products](../master/sales/products.md)
-- [Customers](../master/sales/orders/customers.md)
-- [Sales Settings](../master/sales/settings.md)
+- [Quotations](../master/sales/quotations-orders/create-quotation.md)
+- [Sales Orders](../master/sales/quotations-orders/manage-orders.md)
+- [Sales Products](../master/sales/products-prices/manage-products.md)
+- [Customers](../master/sales/quotations-orders/manage-customers.md)
+- [Sales Settings](../master/sales/configuration/settings.md)
 
 ### 📦 Purchase
 
-- [Purchase RFQs](../master/purchase/orders/quotations.md)
-- [Purchase Orders](../master/purchase/orders/purchase-orders.md)
-- [Purchase Agreements](../master/purchase/orders/purchase-agreements.md)
-- [Purchase Settings](../master/purchase/settings.md)
+- [Purchase RFQs](../master/supply-chain/purchase/orders/quotations.md)
+- [Purchase Orders](../master/supply-chain/purchase/orders/purchase-orders.md)
+- [Purchase Agreements](../master/supply-chain/purchase/orders/purchase-agreements.md)
+- [Purchase Settings](../master/supply-chain/purchase/settings.md)
 
 ### 🏬 Inventory
 
-- [Transfers](../master/inventories/operations/transfers.md)
-- [Adjustments](../master/inventories/operations/adjustments.md)
-- [Products](../master/inventories/products/products.md)
-- [Lots/Serial Numbers](../master/inventories/products/lots-serial-number.md)
-- [Warehouse Configuration](../master/inventories/configurations/warehouse-management.md)
-- [Inventory Settings](../master/inventories/settings.md)
+- [Transfers](../master/supply-chain/inventories/operations/transfers.md)
+- [Adjustments](../master/supply-chain/inventories/operations/adjustments.md)
+- [Products](../master/supply-chain/inventories/products/products.md)
+- [Lots/Serial Numbers](../master/supply-chain/inventories/products/lots-serial-number.md)
+- [Warehouse Configuration](../master/supply-chain/inventories/configurations/warehouse-management.md)
+- [Inventory Settings](../master/supply-chain/inventories/settings.md)
 
 ### 👥 Employees
 
-- [Employees](../master/employees/employees.md)
-- [Departments](../master/employees/departments.md)
-- [Employee Configurations](../master/employees/configurations.md)
+- [Employees](../master/human-resources/employees/employees.md)
+- [Departments](../master/human-resources/employees/departments.md)
+- [Employee Configurations](../master/human-resources/employees/configurations.md)
 
 ### 📝 Recruitment
 
-- [Applications](../master/recruitment/applications.md)
-- [Configurations](../master/recruitment/configuration.md)
+- [Applications](../master/human-resources/recruitment/applications.md)
+- [Configurations](../master/human-resources/recruitment/configuration.md)
 
 ### 🕒 Time Off
 
-- [My Time](../master/timeOff/my-time.md)
-- [Overview](../master/timeOff/overview.md)
-- [Management](../master/timeOff/management.md)
-- [Configurations](../master/timeOff/configuration.md)
+- [My Time](../master/human-resources/time-off/my-time.md)
+- [Overview](../master/human-resources/time-off/overview.md)
+- [Management](../master/human-resources/time-off/management.md)
+- [Configurations](../master/human-resources/time-off/configuration.md)
 
 ## 🧭 Guide Structure Overview
 

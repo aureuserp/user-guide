@@ -19,43 +19,43 @@ features:
   - icon: 📊
     title: Project Management System
     details: Streamline projects and collaborate with ease using our comprehensive PMS
-    link: /master/project/projects.md
+    link: /master/services/project/projects.md
   - icon: 👥
     title: Contacts Management
     details: Effortlessly manage and organize your contacts with our intuitive system
-    link: /master/contact/contacts.md
+    link: /master/getting-started/contacts/contacts.md
   - icon: 🛒
     title: Purchase Order System
     details: Simplify and track your purchases with our robust Purchase Order system
-    link: /master/purchase/orders/purchase-orders.md
+    link: /master/supply-chain/purchase/orders/purchase-orders.md
   - icon: 👨‍💼
     title: Employee Management
     details: Manage and track employee details and performance.
-    link: /master/employees/employees.md
+    link: /master/human-resources/employees/employees.md
   - icon: 💼
     title: Job Position Management
     details: Easily define, manage, and track job positions and roles.
-    link: /master/employees/employees.md
+    link: /master/human-resources/employees/employees.md
   - icon: 📦
     title: Inventory Management
     details: Stay on top of your stock levels with efficient inventory management.
-    link: /master/inventories/products/products.md
+    link: /master/supply-chain/inventories/products/products.md
   - icon: 🏢
     title: Warehouse Management
     details: Simplify warehouse operations with real-time stock tracking.
-    link: /master/inventories/configurations/warehouse-management.md
+    link: /master/supply-chain/inventories/configurations/warehouse-management.md
   - icon: 🏭
     title: Manufacturing Management
     details: Plan production, manage BoMs, and track work orders on the shop floor.
-    link: /master/manufacturing/operations/manufacturing-orders.md
+    link: /master/supply-chain/manufacturing/operations/manufacturing-orders.md
   - icon: 🔧
     title: Maintenance Management
     details: Track equipment, schedule preventive maintenance, and log corrective requests.
-    link: /master/maintenance/operations/maintenance-requests.md
+    link: /master/supply-chain/maintenance/operations/maintenance-requests.md
   - icon: 🎓
     title: Recruitment System
     details: Simplify recruitment and find the best talent with ease.
-    link: /master/recruitment/applications.md
+    link: /master/human-resources/recruitment/applications.md
 ---
 
 <script setup>
