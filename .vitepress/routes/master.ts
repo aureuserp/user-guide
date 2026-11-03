@@ -147,6 +147,67 @@ const routes = [
     collapsed: true,
     items: [
       {
+        text: 'CRM',
+        collapsed: true,
+        link: '/master/sales/crm/',
+        items: [
+          {
+            text: 'Acquire Leads',
+            collapsed: true,
+            link: '/master/sales/crm/acquire-leads/',
+            items: [
+              { text: 'Create a Lead', link: '/master/sales/crm/acquire-leads/create-lead' },
+              { text: 'Convert a Lead', link: '/master/sales/crm/acquire-leads/convert-lead' },
+              { text: 'Lead Generation', link: '/master/sales/crm/acquire-leads/lead-generation' },
+            ]
+          },
+          {
+            text: 'Pipeline',
+            collapsed: true,
+            link: '/master/sales/crm/pipeline/',
+            items: [
+              { text: 'Manage Opportunities', link: '/master/sales/crm/pipeline/manage-opportunities' },
+              { text: 'Mark Won or Lost', link: '/master/sales/crm/pipeline/mark-won-lost' },
+              { text: 'Create a Quotation', link: '/master/sales/crm/pipeline/create-quotation' },
+              { text: 'Manage Sales Teams', link: '/master/sales/crm/pipeline/manage-sales-teams' },
+              { text: 'Schedule Activities', link: '/master/sales/crm/pipeline/schedule-activities' },
+            ]
+          },
+          {
+            text: 'Assign and Track',
+            collapsed: true,
+            link: '/master/sales/crm/assign-and-track/',
+            items: [
+              { text: 'Lead Scoring', link: '/master/sales/crm/assign-and-track/lead-scoring' },
+            ]
+          },
+          {
+            text: 'Reporting',
+            collapsed: true,
+            link: '/master/sales/crm/reporting/',
+            items: [
+              { text: 'Forecast', link: '/master/sales/crm/reporting/forecast' },
+              { text: 'Pipeline Analysis', link: '/master/sales/crm/reporting/pipeline-analysis' },
+              { text: 'Lead Analysis', link: '/master/sales/crm/reporting/lead-analysis' },
+              { text: 'Activity Analysis', link: '/master/sales/crm/reporting/activity-analysis' },
+            ]
+          },
+          {
+            text: 'Configuration',
+            collapsed: true,
+            link: '/master/sales/crm/configuration/',
+            items: [
+              { text: 'Settings', link: '/master/sales/crm/configuration/settings' },
+              { text: 'Stages', link: '/master/sales/crm/configuration/stages' },
+              { text: 'Tags', link: '/master/sales/crm/configuration/tags' },
+              { text: 'Lost Reasons', link: '/master/sales/crm/configuration/lost-reasons' },
+              { text: 'Recurring Plans', link: '/master/sales/crm/configuration/recurring-plans' },
+              { text: 'Partner Levels', link: '/master/sales/crm/configuration/partner-levels' },
+            ]
+          },
+        ]
+      },
+      {
         text: 'Sales',
         collapsed: true,
         link: '/master/sales/sales/',
