@@ -28,6 +28,10 @@ features:
     title: Contacts Management
     details: Effortlessly manage and organize your contacts with our intuitive system.
     link: /master/getting-started/contacts/contacts.md
+  - icon: 🎯
+    title: CRM
+    details: Capture leads, work opportunities through a pipeline, send quotations and track forecasts.
+    link: /master/sales/crm/index.md
   - icon: 🧾
     title: Sales
     details: Send quotations, confirm orders, manage products and prices, and invoice customers.

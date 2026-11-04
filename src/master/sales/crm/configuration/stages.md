@@ -8,7 +8,7 @@ Open `CRM → Configuration → Pipeline → Stages`.
 
 ## The stage list
 
-<!-- TODO-SCREENSHOT: /images1/crm/stages-list.png | Stages list with New, Qualified, Proposition and Won, with Sales Teams, Won Stage and Opportunities columns -->
+<ImagePopup src="/images1/crm/stages-list.png" alt="Stages list showing New, Qualified, Proposition and Won with the Sales Teams, Won Stage and Opportunities columns" />
 
 The list opens on one screen with no tabs. The default stages are **New**, **Qualified**, **Proposition** and **Won**.
 
@@ -21,7 +21,7 @@ The list opens on one screen with no tabs. The default stages are **New**, **Qua
 - **_Opportunities:_** How many leads and opportunities sit in the stage.
 - **_Created At:_** Hidden at first. Show it with the column toggle.
 
-**Example:** In the dev data, **New** holds 18 records, **Qualified** 2, **Proposition** 3 and **Won** 1. **Won** has the tick in **Won Stage**.
+**Example:** In the dev data, **New** holds 20 records, **Qualified** 4, **Proposition** 5 and **Won** 3. **Won** has the tick in **Won Stage**.
 
 ### Search, order and export
 
@@ -36,7 +36,7 @@ The list opens on one screen with no tabs. The default stages are **New**, **Qua
 3. Fill in the form.
 4. Click **Create**.
 
-<!-- TODO-SCREENSHOT: /images1/crm/stages-form.png | New Stage form filled with name Negotiation, an empty Sales Teams field and a requirement note -->
+<ImagePopup src="/images1/crm/stages-form.png" alt="Create Stage dialog filled with the name Negotiation and a requirement note, with Sales Teams left empty" />
 
 - **_Stage Name:_** The name on the board column. Required. Up to 255 characters.
 - **_Sales Teams:_** The teams whose pipeline shows this stage. You can pick several. Leave it empty to share the stage with all teams.

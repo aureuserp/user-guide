@@ -8,7 +8,7 @@ Open `CRM → Reporting → Pipeline`. The page title is **Pipeline Analysis**.
 
 ## The report page
 
-<!-- TODO-SCREENSHOT: /images1/crm/pipeline-analysis-list.png | Pipeline analysis list with tabs, Group by, Measure and the summary row -->
+<ImagePopup src="/images1/crm/pipeline-analysis-list.png" alt="Pipeline analysis list with tabs, Group by, Measure and the summary row" />
 
 The page has two views: **List** and **Graph**. Use the view switch to change between them.
 
@@ -65,7 +65,7 @@ Use **Measure** to choose the number the report adds up. The measure is shown as
 
 ## The Graph view
 
-<!-- TODO-SCREENSHOT: /images1/crm/pipeline-analysis-graph.png | Pipeline analysis graph, Expected Revenue by Stage, with Measure and Split by selectors -->
+<ImagePopup src="/images1/crm/pipeline-analysis-graph.png" alt="Pipeline analysis graph showing Expected Revenue by Stage, with Measure and Split by selectors" />
 
 1. Click **Graph** in the view switch.
 2. Choose a **Measure**, for example **Expected Revenue**.

@@ -8,7 +8,7 @@ Open `CRM → Reporting → Leads`. The page title is **Leads Analysis**.
 
 ## The report page
 
-<!-- TODO-SCREENSHOT: /images1/crm/lead-analysis-list.png | Lead analysis list on the Leads tab with Group by, Measure and the summary row -->
+<ImagePopup src="/images1/crm/lead-analysis-list.png" alt="Leads analysis list on the Leads tab with Group by, Measure and the summary rows" />
 
 The page has two views: **List** and **Graph**.
 
@@ -67,7 +67,7 @@ The options are:
 
 ## The Graph view
 
-<!-- TODO-SCREENSHOT: /images1/crm/lead-analysis-graph.png | Lead analysis graph, Count by Creation Date, split by Sales Team -->
+<ImagePopup src="/images1/crm/lead-analysis-graph.png" alt="Leads analysis graph showing Count by Creation Date, split by Sales Team" />
 
 1. Click **Graph** in the view switch.
 2. Choose a **Measure**. The default is **Count**.

@@ -11,7 +11,7 @@ Example: you offer Sharma Textiles the annual licence.
 1. Open **Annual ERP licence - Sharma Textiles** from `CRM → Sales → My Pipeline`.
 2. Click **New Quotation**.
 
-<!-- TODO-SCREENSHOT: /images1/crm/opportunity-new-quotation.png | New Quotation button on the opportunity page -->
+<ImagePopup src="/images1/crm/opportunity-new-quotation.png" alt="Opportunity page header with the New Quotation button highlighted among the action buttons" />
 
 3. If the opportunity already has a customer, the quotation form opens at once. Skip to step 6.
 4. If it has no customer, the dialog **New quotation** opens. It says the opportunity has no customer yet.
@@ -30,7 +30,7 @@ Click **Continue**.
 
 6. The quotation form opens. The subheading reads **From opportunity** with the deal name.
 
-<!-- TODO-SCREENSHOT: /images1/crm/quotation-from-opportunity.png | Quotation form opened from the opportunity with customer and origin filled -->
+<ImagePopup src="/images1/crm/quotation-from-opportunity.png" alt="Create Quotation form opened from the opportunity, with the customer Sharma Textiles Pvt. Ltd. and the line From opportunity" />
 
 7. Add products, prices and terms, then save.
 
@@ -49,9 +49,9 @@ The quotation takes these values from the opportunity.
 - **_Campaign, Medium and Source:_** The marketing details of the opportunity, when they are set.
 - **_Sales Team:_** The opportunity team, when the quotation has no team of its own.
 
-**Example:** The quotation for Sharma Textiles opens with Customer `Sharma Textiles`, Salesperson Priya and Origin `Annual ERP licence - Sharma Textiles`.
+**Example:** The quotation for Sharma Textiles opens with Customer `Sharma Textiles`, Salesperson `ERP Admin` and Origin `Annual ERP licence - Sharma Textiles`.
 
-You fill the rest on the Sales form. For every field, see [Create a quotation](../../sales/quotations-orders/create-quotation.md).
+The **Payment Term** is required on the Sales form. Pick one, for example **Immediate Payment**. You fill the rest on the Sales form. For every field, see [Create a quotation](../../sales/quotations-orders/create-quotation.md).
 
 ## Find quotations
 
@@ -76,7 +76,7 @@ The tab appears on opportunities only, not on leads.
 
 Go to `CRM → Sales → My Quotations`. The page has **List**, **Kanban** and **Graph** layouts. The header has **Export** and **New Quotation**.
 
-<!-- TODO-SCREENSHOT: /images1/crm/my-quotations-list.png | My Quotations list with the Quotations tab open -->
+<ImagePopup src="/images1/crm/my-quotations-list.png" alt="My Quotations list with the Quotations tab open" />
 
 - **Tabs.** **Default**, **My Quotations**, **Quotations**, **Sales Orders** and **Archived**.
 - **Columns.** **Number**, **Creation date**, **Customer**, **Sales person**, **Amount total** and **Status**.

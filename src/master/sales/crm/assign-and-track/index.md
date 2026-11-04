@@ -40,7 +40,7 @@ Automatic assignment is off until you switch it on.
 3. Choose how it runs.
 4. Click **Save changes**.
 
-<!-- TODO-SCREENSHOT: /images1/crm/settings-auto-assignment.png | Manage CRM settings with Automatic Lead Assignment on and Running set to Repeatedly -->
+<ImagePopup src="/images1/crm/settings-auto-assignment-running.png" alt="Manage CRM settings with Automatic Lead Assignment on and Running set to Repeatedly, with Repeat every 1 and Unit Days" />
 
 - **_Automatic Lead Assignment:_** The main switch. All sales teams follow it by default.
 - **_Running:_** Required once the switch is on.
@@ -48,8 +48,6 @@ Automatic assignment is off until you switch it on.
   - **Repeatedly:** Aureus assigns on a schedule, and also each time a new lead or opportunity is created.
 - **_Repeat every:_** A whole number, at least 1. It shows for **Repeatedly**.
 - **_Unit:_** **Minutes**, **Hours**, **Days** or **Weeks**. It shows for **Repeatedly**.
-
-A line under the fields shows **Next run** with the date and time of the next scheduled run.
 
 ## Assign now
 
@@ -60,7 +58,7 @@ When the switch is on, the **Assign now** button appears at the top of the **Man
 
 Aureus then reports how many leads went to teams and how many went to salespeople.
 
-<!-- TODO-SCREENSHOT: /images1/crm/assign-now-confirm.png | Assign now confirmation window on the Manage CRM page -->
+<ImagePopup src="/images1/crm/assign-now-confirm.png" alt="Assign now confirmation window on the Manage CRM page" />
 
 ## How Aureus assigns
 

@@ -8,7 +8,7 @@ Open `CRM → Settings → Manage CRM`. The settings area has three pages: **Man
 
 ## The Manage CRM page
 
-<!-- TODO-SCREENSHOT: /images1/crm/settings-manage-crm.png | Manage CRM settings page with the four switches and the Save changes button -->
+<ImagePopup src="/images1/crm/settings-manage-crm.png" alt="Manage CRM settings page with the four switches and the Save changes button" />
 
 The page has four switches. Turn a switch on or off, then click **Save changes**.
 
@@ -41,14 +41,12 @@ The page has four switches. Turn a switch on or off, then click **Save changes**
    - **_Repeat every:_** A whole number, at least 1. Required.
    - **_Unit:_** Choose **Minutes**, **Hours**, **Days** or **Weeks**. Required.
 
-4. Read the line **Next run** under the fields. It shows when the next assignment will happen.
-5. Click **Save changes**.
+4. Click **Save changes**.
 
-<!-- TODO-SCREENSHOT: /images1/crm/settings-auto-assignment.png | Automatic Lead Assignment on, Running set to Repeatedly, Repeat every 1 Days, Next run shown -->
+<ImagePopup src="/images1/crm/settings-auto-assignment-running.png" alt="Manage CRM settings with Automatic Lead Assignment on, Running set to Repeatedly, Repeat every 1 and Unit Days" />
 
 **Example:** Choose **Repeatedly**, enter 1 and choose **Days**. Aureus assigns new leads every day.
 
-The next run time is set when you first choose **Repeatedly**, and again when you change the number or the unit. It is cleared when you choose **Manually** or turn the switch off.
 
 ### Assign now
 

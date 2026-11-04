@@ -89,5 +89,6 @@ A contact can have several addresses, for example one to bill and one to deliver
 
 - [Contacts configurations](configurations.md)
 - [Chatter](../chatter.md)
+- [CRM](../../sales/crm/index.md)
 - [Search, filter and group](../search-filter-group.md)
 - [Portal access](../../general-settings/users/portal-access.md)

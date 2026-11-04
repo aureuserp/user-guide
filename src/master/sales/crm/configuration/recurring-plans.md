@@ -12,7 +12,7 @@ Open `CRM → Configuration → Members → Recurring Plans`.
 
 ## The recurring plan list
 
-<!-- TODO-SCREENSHOT: /images1/crm/recurring-plans-list.png | Recurring plans list with Monthly, Yearly, Over 3 years and Over 5 years -->
+<ImagePopup src="/images1/crm/recurring-plans-list.png" alt="Recurring plans list with Monthly, Yearly, Over 3 years and Over 5 years" />
 
 The default plans are **Monthly** (1 month), **Yearly** (12), **Over 3 years** (36) and **Over 5 years** (60).
 
@@ -27,7 +27,7 @@ The default plans are **Monthly** (1 month), **Yearly** (12), **Over 3 years** (
 - **_Months:_** How many months it covers.
 - **_Opportunities:_** How many opportunities use the plan.
 
-**Example:** In the dev data, **Monthly** and **Yearly** each have 4 opportunities. The two longer plans have none.
+**Example:** In the dev data, **Monthly** and **Yearly** each have 8 opportunities. The two longer plans have none.
 
 ### Search, order and export
 
@@ -43,7 +43,7 @@ The default plans are **Monthly** (1 month), **Yearly** (12), **Over 3 years** (
 3. Fill in the form.
 4. Click **Create**.
 
-<!-- TODO-SCREENSHOT: /images1/crm/recurring-plans-form.png | New Recurring Plan form filled with Every 6 months and 6 months -->
+<ImagePopup src="/images1/crm/recurring-plans-form.png" alt="Create Recurring Plan dialog filled with Every 6 months and 6 months" />
 
 - **_Plan name:_** The name your team sees. Required. Up to 255 characters. The hint reads `e.g. Monthly`.
 - **_Number of months:_** How many months the recurring revenue covers. Required. A whole number of at least 1. It starts at 1. Monthly is 1 and Yearly is 12.

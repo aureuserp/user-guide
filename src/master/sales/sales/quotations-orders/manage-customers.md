@@ -163,5 +163,6 @@ Check the **Email** and **Payment Terms** before you send the first quotation. A
 - [Create a quotation](./create-quotation.md)
 - [Quotations and orders](./index.md)
 - [Contacts](../../../getting-started/contacts/contacts.md)
+- [CRM](../../crm/index.md)
 - [Tags](../configuration/tags.md)
 - [Payment terms](../../../finance/customer-invoices/payment-terms.md)

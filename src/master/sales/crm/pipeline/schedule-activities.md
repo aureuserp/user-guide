@@ -20,18 +20,18 @@ There are four places to start.
 1. Open the opportunity and click its **Activities** tab.
 2. Click **Schedule Activity**.
 
-<!-- TODO-SCREENSHOT: /images1/crm/schedule-activity-dialog.png | Schedule Activity dialog filled for the Sharma Textiles demo -->
+<ImagePopup src="/images1/crm/schedule-activity-dialog.png" alt="Schedule activity dialog filled with a Meeting, a due date and the summary Product demo for Sharma Textiles" />
 
 3. Fill in the dialog **Schedule activity**.
 
-- **_Opportunity:_** The deal the task belongs to. Required. Hidden when you start from the deal itself.
+- **_Opportunity:_** The deal the task belongs to. Required. It shows when you click **Schedule Activity** on **My Activities**. It is hidden when you schedule from the **Activities** tab of a deal.
 - **_Activity Type:_** The kind of task, such as a call or a meeting. Required. Choosing a type fills the due date, summary and assignee from the type.
 - **_Due Date:_** The day the task is due. Required. The type sets a default date.
 - **_Summary:_** A short title, up to 255 characters.
 - **_Assigned To:_** The user who does the task. Required. The default is the type default user, or you.
 - **_Note:_** More detail in a text editor.
 
-**Example:** Opportunity `Annual ERP licence - Sharma Textiles`, Activity Type `Meeting`, Due Date next Monday, Summary `Product demo for Sharma Textiles`, Assigned To Priya.
+**Example:** Opportunity `Annual ERP licence - Sharma Textiles`, Activity Type `Meeting`, Due Date next Monday, Summary `Product demo for Sharma Textiles`, Assigned To `ERP Admin`.
 
 4. Click **Schedule**. A notification **Activity scheduled** appears.
 
@@ -57,7 +57,7 @@ Go to `CRM → Sales → My Activities`.
 
 The page has **List**, **Kanban** and **Graph** layouts. The title is **Activities**.
 
-<!-- TODO-SCREENSHOT: /images1/crm/my-activities-list.png | My Activities list with the Today tab open -->
+<ImagePopup src="/images1/crm/my-activities-list.png" alt="My Activities list with the Today tab open and four activities due today" />
 
 ### Views
 

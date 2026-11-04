@@ -17,7 +17,7 @@ The Sharma Textiles lead is in the first stage, has a valid email and phone, com
 3. Set a start date if you want to ignore old records.
 4. Click **Save changes**, or click **Update Scoring Probabilities**.
 
-<!-- TODO-SCREENSHOT: /images1/crm/lead-scoring-settings.png | Manage Lead Scoring settings with criteria ticked and a start date -->
+<ImagePopup src="/images1/crm/lead-scoring-settings.png" alt="Manage Lead Scoring settings with criteria ticked and a start date entered" />
 
 The page text reads: the probability of winning each open lead and opportunity is computed from your won and lost history. Stage and sales team are always used.
 
@@ -61,8 +61,8 @@ Open the lead or opportunity and click the information icon next to **Probabilit
 
 - **Computed probability:** The value Aureus calculated. If there is not enough history, you see **Not enough won and lost history yet to compute a probability.**
 - **Sales team:** The team whose history was used.
-- **Top Positives:** Up to three details that raise the chance, such as **Has a valid email address**.
-- **Top Negatives:** Up to three details that lower the chance, such as **Has no valid phone number**.
+
+If you typed the probability by hand, the window says so and still shows the computed value.
 
 <!-- TODO-SCREENSHOT: /images1/crm/lead-probability-details.png | Probability details window with computed probability, top positives and top negatives -->
 

@@ -21,7 +21,7 @@ Sharma Textiles accepts the offer for **Annual ERP licence - Sharma Textiles**.
 1. Open the opportunity from `CRM → Sales → My Pipeline`.
 2. Click **Won**.
 
-<!-- TODO-SCREENSHOT: /images1/crm/opportunity-mark-won.png | Mark as won dialog on Annual ERP licence - Sharma Textiles -->
+<ImagePopup src="/images1/crm/opportunity-mark-won.png" alt="Mark as won dialog with the Cancel and Confirm buttons" />
 
 3. Read the dialog **Mark as won**. It says the opportunity moves to the won stage with a probability of 100%.
 4. Confirm. A notification **Opportunity won** appears.
@@ -39,7 +39,7 @@ Say another deal, with another customer, falls through because the price is too 
 1. Open the opportunity.
 2. Click **Lost**.
 
-<!-- TODO-SCREENSHOT: /images1/crm/opportunity-mark-lost.png | Mark as lost dialog with Lost Reason and Closing Note filled -->
+<ImagePopup src="/images1/crm/opportunity-mark-lost.png" alt="Mark as lost dialog with the Lost Reason Too expensive and a Closing Note filled in" />
 
 3. Fill in the dialog **Mark as lost**.
 

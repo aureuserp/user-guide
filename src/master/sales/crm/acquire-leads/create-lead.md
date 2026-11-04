@@ -18,7 +18,7 @@ This page records one enquiry. Rajesh Sharma of **Sharma Textiles Pvt. Ltd.** as
 2. Switch on **Lead Qualification**.
 3. Click **Save changes**.
 
-<!-- TODO-SCREENSHOT: /images1/crm/settings-lead-qualification.png | Manage CRM settings page with Lead Qualification switched on -->
+<ImagePopup src="/images1/crm/settings-lead-qualification.png" alt="Manage CRM settings page with Lead Qualification switched on" />
 
 See [CRM settings](../configuration/settings.md).
 
@@ -26,7 +26,7 @@ See [CRM settings](../configuration/settings.md).
 
 The list shows every lead, newest first.
 
-<!-- TODO-SCREENSHOT: /images1/crm/leads-list.png | Leads list with view tabs, Import, Export, New Lead, Group by and the layout switcher -->
+<ImagePopup src="/images1/crm/leads-list.png" alt="Leads list with view tabs, Import, Export, New Lead, Group by and the layout switcher" />
 
 ### Views
 
@@ -63,7 +63,7 @@ See [Search, filter and group records](../../../getting-started/search-filter-gr
 3. Fill in the **Lead** section on the left and the **Sales**, **Marketing** and **Analysis** sections on the right.
 4. Click **Create**. Use **Create & create another** to save and open an empty form.
 
-<!-- TODO-SCREENSHOT: /images1/crm/create-lead-form.png | New Lead form filled in for Sharma Textiles -->
+<ImagePopup src="/images1/crm/create-lead-form.png" alt="New Lead form filled in for Sharma Textiles" />
 
 After you save, Aureus shows the lead page and the message **Lead created**. A new lead gets the first stage of your pipeline and you as salesperson, unless you choose otherwise.
 
@@ -113,7 +113,7 @@ After you save, Aureus shows the lead page and the message **Lead created**. A n
 
 ### Probability details
 
-Next to **Probability**, an information icon opens **Probability details**. It shows the **Computed probability**, the **Sales team** used, and the **Top Positives** and **Top Negatives** behind the number.
+Next to **Probability**, an information icon opens **Probability details**. It shows the **Computed probability** and the **Sales team** used. If you typed the probability by hand, the window says so.
 
 If you typed your own value, a refresh icon appears. Click **Use computed probability** to go back to the automatic value.
 
@@ -128,7 +128,7 @@ After you save, the lead opens in read mode. A switcher at the top has these tab
 - **_Activities:_** Planned and done follow-ups for this lead. Click **Schedule Activity** to add one. See [Schedule activities](../pipeline/schedule-activities.md).
 - **_Similar Leads:_** Other leads and opportunities that share the same email, phone number or customer. This tab appears only when Aureus finds at least one, and a number on the tab shows how many.
 
-<!-- TODO-SCREENSHOT: /images1/crm/lead-view.png | Lead page in View mode with the header buttons and the View, Edit, Activities tabs -->
+<ImagePopup src="/images1/crm/lead-view.png" alt="Lead page in View mode with the header buttons and the View, Edit and Activities tabs" />
 
 Open **Chatter** in the header to write notes, send messages and log activities on the lead. See [Chatter](../../../getting-started/chatter/introduction.md).
 
@@ -148,7 +148,7 @@ A lead is either open or lost. The buttons in the header change what happens to 
 
 On the **Edit** tab you see **Chatter**, **Convert to Opportunity** and **Lost**.
 
-<!-- TODO-SCREENSHOT: /images1/crm/lead-mark-lost-dialog.png | Mark as lost window with Lost Reason and Closing Note -->
+<ImagePopup src="/images1/crm/lead-mark-lost-dialog.png" alt="Mark as lost window with the Lost Reason Too expensive and a Closing Note" />
 
 ### Row actions
 

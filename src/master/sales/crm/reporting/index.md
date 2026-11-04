@@ -6,7 +6,7 @@ Reporting turns your leads, opportunities and finished activities into numbers y
 
 Open `CRM → Reporting`. The menu holds four pages.
 
-<!-- TODO-SCREENSHOT: /images1/crm/reporting-menu.png | CRM Reporting menu with Forecast, Pipeline, Leads and Activities -->
+<ImagePopup src="/images1/crm/reporting-menu.png" alt="CRM Reporting menu with Forecast, Pipeline, Leads and Activities" />
 
 ## Pages in this group
 

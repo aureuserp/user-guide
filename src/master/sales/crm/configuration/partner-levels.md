@@ -8,7 +8,7 @@ Open `CRM → Configuration → Members → Levels`.
 
 ## The level list
 
-<!-- TODO-SCREENSHOT: /images1/crm/partner-levels-list.png | Levels list with Gold 3, Silver 2 and Bronze 1 and the contact counts -->
+<ImagePopup src="/images1/crm/partner-levels-list.png" alt="Levels list showing Gold 3, Silver 2 and Bronze 1 with their contact counts" />
 
 The default levels are **Gold** (weight 3), **Silver** (2) and **Bronze** (1).
 
@@ -39,7 +39,7 @@ The default levels are **Gold** (weight 3), **Silver** (2) and **Bronze** (1).
 3. Fill in the form.
 4. Click **Create**.
 
-<!-- TODO-SCREENSHOT: /images1/crm/partner-levels-form.png | New Level form filled with Platinum and Level Weight 4 -->
+<ImagePopup src="/images1/crm/partner-levels-form.png" alt="Create Level dialog filled with the name Platinum and Level Weight 4" />
 
 - **_Name:_** The name of the level. Required. Up to 255 characters.
 - **_Level Weight:_** How likely partners of this level are to be given leads. Required. A whole number, 0 or more. It starts at 1. A weight of 0 means no leads.

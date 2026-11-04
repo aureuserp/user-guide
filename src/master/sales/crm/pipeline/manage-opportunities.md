@@ -17,7 +17,7 @@ Two fields appear only when a setting is on. Go to `CRM → Settings → Manage 
 
 The page has three layouts: **Kanban**, **List** and **Graph**. Switch between them with the layout buttons. It opens in Kanban.
 
-<!-- TODO-SCREENSHOT: /images1/crm/pipeline-kanban.png | Opportunities Kanban view with stage columns and the New Opportunity button -->
+<ImagePopup src="/images1/crm/pipeline-kanban.png" alt="Opportunities Kanban view of My Pipeline with the New, Qualified, Proposition and Won columns and the New Opportunity button" />
 
 ### Views
 
@@ -82,12 +82,12 @@ Select rows in the list to use bulk actions: **Export**, **Restore**, **Delete**
 
 ## Create an opportunity
 
-Example: Priya in the sales team records a chance with Sharma Textiles.
+Example: A salesperson records a chance with Sharma Textiles.
 
 1. Go to `CRM → Sales → My Pipeline`.
 2. Click **New Opportunity**.
 
-<!-- TODO-SCREENSHOT: /images1/crm/opportunity-create-form.png | New Opportunity form filled for Annual ERP licence - Sharma Textiles -->
+<ImagePopup src="/images1/crm/opportunity-create-form.png" alt="New Opportunity form filled for Annual ERP licence - Sharma Textiles" />
 
 3. Fill in the form. The stage bar at the top shows every stage. The first stage is chosen for you.
 
@@ -139,13 +139,13 @@ The page tabs are:
 
 The **Chatter** button opens notes, messages and files. See [Chatter](../../../getting-started/chatter/introduction.md).
 
-<!-- TODO-SCREENSHOT: /images1/crm/opportunity-view.png | Opportunity page header buttons and tabs for Annual ERP licence - Sharma Textiles -->
+<ImagePopup src="/images1/crm/opportunity-view.png" alt="Opportunity page for Annual ERP licence - Sharma Textiles with the header buttons, tabs and stage bar" />
 
 ### Probability details
 
 Next to **Probability** are two small actions on the edit form.
 
-- **Probability details** shows the computed probability, the top positive factors and the top negative factors.
+- **Probability details** shows the computed probability and the sales team used.
 - **Use computed probability** drops your manual value and returns to **Automatic**.
 
 ## Actions and statuses

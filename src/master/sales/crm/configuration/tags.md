@@ -8,7 +8,7 @@ Open `CRM → Configuration → Pipeline → Tags`.
 
 ## The tag list
 
-<!-- TODO-SCREENSHOT: /images1/crm/tags-list.png | Tags list with Consulting, Product, Services, Software, Training and Upsell, each with a colour swatch -->
+<ImagePopup src="/images1/crm/tags-list.png" alt="Tags list with Consulting, Product, Services, Software, Training and Upsell, each with a colour swatch" />
 
 The default tags are **Consulting**, **Product**, **Services**, **Software**, **Training** and **Upsell**.
 
@@ -38,7 +38,7 @@ The default tags are **Consulting**, **Product**, **Services**, **Software**, **
 3. Fill in the form.
 4. Click **Create**.
 
-<!-- TODO-SCREENSHOT: /images1/crm/tags-form.png | New Tag form filled with name Hardware and a colour picked -->
+<ImagePopup src="/images1/crm/tags-form.png" alt="Create Tag dialog filled with the name Hardware and a purple colour picked" />
 
 - **_Tag Name:_** The label text. Required. Up to 255 characters. Two tags cannot have the same name.
 - **_Color:_** The colour of the tag. Pick it from the colour picker or type a hex code such as `#3b82f6`. Optional.

@@ -6,7 +6,7 @@ Configuration holds the lists and rules that shape your sales process. You set u
 
 Open `CRM → Configuration`. The left menu has four groups.
 
-<!-- TODO-SCREENSHOT: /images1/crm/configuration-menu.png | CRM Configuration menu showing Members, Lead Generation, Pipeline and Activities groups -->
+<ImagePopup src="/images1/crm/configuration-menu.png" alt="CRM Configuration menu with the Members, Lead Generation, Pipeline and Activities groups" />
 
 ## What to set up and in which order
 

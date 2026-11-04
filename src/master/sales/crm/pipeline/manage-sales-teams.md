@@ -17,7 +17,7 @@ See [CRM settings](../configuration/settings.md).
 
 Open `CRM → Sales → Teams`. It has two layouts: **Grid** and **List**. Grid is the default. The header button **New Sales Team** opens the team form.
 
-<!-- TODO-SCREENSHOT: /images1/crm/sales-teams-cards.png | Teams page with team cards and the New Sales Team button -->
+<ImagePopup src="/images1/crm/sales-teams-cards.png" alt="Sales Teams page with team cards and the New Sales Team button" />
 
 ### Grid cards
 
@@ -60,7 +60,7 @@ Example: you set up a team for key accounts.
 1. Go to `CRM → Sales → Teams`, or `CRM → Configuration → Sales Teams`.
 2. Click **New Sales Team**.
 
-<!-- TODO-SCREENSHOT: /images1/crm/sales-team-create-form.png | Sales team form filled with name, leader and monthly target -->
+<ImagePopup src="/images1/crm/sales-team-create-form.png" alt="Create Sales Team form filled with the name Key Accounts, a team leader and an invoiced target of 40000 per month" />
 
 3. Fill in the form.
 
@@ -79,7 +79,7 @@ Example: you set up a team for key accounts.
 
 - **_Status:_** A switch for whether the team is active.
 
-**Example:** Sales Team `Key Accounts`, Team Leader Priya, Invoiced Target `40000`, Color blue, Status on.
+**Example:** Sales Team `Key Accounts`, Team Leader `Sales Admin`, Invoiced Target `40000`, Status on.
 
 4. Click **Create**. You can use **Create & create another** or **Cancel**.
 

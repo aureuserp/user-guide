@@ -8,7 +8,7 @@ Open `CRM → Configuration → Pipeline → Lost Reasons`.
 
 ## The lost reason list
 
-<!-- TODO-SCREENSHOT: /images1/crm/lost-reasons-list.png | Lost reasons list with the Active and Archived tabs and three reasons -->
+<ImagePopup src="/images1/crm/lost-reasons-list.png" alt="Lost reasons list with the Active and Archived tabs and three reasons" />
 
 The default reasons are **No resources or skills available**, **Not enough stock** and **Too expensive**.
 
@@ -38,7 +38,7 @@ The default reasons are **No resources or skills available**, **Not enough stock
 3. Fill in the form.
 4. Click **Create**.
 
-<!-- TODO-SCREENSHOT: /images1/crm/lost-reasons-form.png | New Lost Reason form filled with Chose a competitor -->
+<ImagePopup src="/images1/crm/lost-reasons-form.png" alt="Create Lost Reason dialog filled with Chose a competitor" />
 
 - **_Description:_** The reason text. Required. Up to 255 characters.
 

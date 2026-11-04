@@ -8,7 +8,7 @@ Open `CRM → Reporting → Forecast`.
 
 ## The forecast board
 
-<!-- TODO-SCREENSHOT: /images1/crm/forecast-board.png | Forecast board with a column per month, deal count and prorated revenue in each header -->
+<ImagePopup src="/images1/crm/forecast-board.png" alt="Forecast board with a column for each month, showing the deal count and total revenue in each column header" />
 
 The board opens in the **Board** view. The page also offers **List** and **Graph** (see below).
 
@@ -31,7 +31,7 @@ Each header shows the month, the number of deals, and an amount. The amount is t
 
 ### Cards
 
-<!-- TODO-SCREENSHOT: /images1/crm/forecast-card.png | Forecast card showing opportunity name, expected revenue, recurring revenue, customer and tags -->
+<ImagePopup src="/images1/crm/forecast-card.png" alt="Forecast card showing the opportunity name, expected and recurring revenue, customer and tags" />
 
 Each card shows:
 

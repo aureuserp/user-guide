@@ -18,7 +18,7 @@ Turn the feature on first.
 2. Switch on **Visitors to Leads**.
 3. Click **Save changes**.
 
-<!-- TODO-SCREENSHOT: /images1/crm/lead-generation-settings.png | Manage Lead Generation settings with Visitors to Leads switched on -->
+<ImagePopup src="/images1/crm/lead-generation-settings.png" alt="Manage Lead Generation settings with Visitors to Leads switched on and the Manage Rules button" />
 
 Once the switch is on, a line tells you how many rules are active. If there are none, it warns you that visits will not create leads until you add a rule.
 
@@ -54,7 +54,7 @@ The list shows **Rule Name**, **URL Expression**, **Countries**, **Type**, **Sal
 3. Fill in the form.
 4. Click **Create**. Use **Create & create another** to save and open an empty form.
 
-<!-- TODO-SCREENSHOT: /images1/crm/visitor-rule-form.png | New Visitors to Leads Rule form filled in for textile page visitors -->
+<ImagePopup src="/images1/crm/visitor-rule-form.png" alt="Create Visitors to Leads Rule form filled in for textile page visitors from India" />
 
 ### Rule
 

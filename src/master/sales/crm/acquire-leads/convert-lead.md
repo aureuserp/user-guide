@@ -18,7 +18,7 @@ The lead **ERP implementation for textile manufacturing unit** from Sharma Texti
 4. In the **Convert to opportunity** window, fill in the fields below.
 5. Click **Create Opportunity**.
 
-<!-- TODO-SCREENSHOT: /images1/crm/convert-lead-dialog.png | Convert to opportunity window for the Sharma Textiles lead -->
+<ImagePopup src="/images1/crm/convert-lead-dialog.png" alt="Convert to opportunity window with Create a new customer chosen, the salesperson and the sales team" />
 
 You can also use **Convert to Opportunity** in the row menu of the list.
 
@@ -60,7 +60,7 @@ Use this when a campaign brought a batch of leads that you want to move together
 4. Fill in the **Convert to opportunities** window.
 5. Click **Convert**.
 
-<!-- TODO-SCREENSHOT: /images1/crm/convert-lead-mass-dialog.png | Convert to opportunities window with deduplication, salespeople and sales team -->
+<ImagePopup src="/images1/crm/convert-lead-mass-dialog.png" alt="Convert to opportunities window with deduplication on, a salesperson and a sales team chosen" />
 
 - **_Customer:_** Required. It starts as **Link to an existing customer or create one**. The other options are **Link to an existing customer** and **Do not link to a customer**.
 - **_Apply deduplication:_** On by default. Aureus merges each lead with its similar leads and opportunities, found by the same email, phone or customer.
