@@ -26,6 +26,7 @@ Pick the line that matches your job.
 | --- | --- |
 | Learn the basics every screen shares | [Getting started](./getting-started/stages.md) |
 | Add users, companies and options | [General settings](./general-settings/index.md) |
+| Capture leads and track deals | [CRM](./sales/crm/index.md) |
 | Quote, sell and invoice | [Sales](./sales/sales/index.md) |
 | Buy from vendors | [Purchase](./supply-chain/purchase/index.md) |
 | Track and move stock | [Inventory](./supply-chain/inventories/index.md) |
@@ -59,6 +60,7 @@ Short pages on ideas that appear in every module.
 
 ### Sales
 
+- [CRM](./sales/crm/index.md): leads, opportunities, pipeline and forecasts.
 - [Sales](./sales/sales/index.md): quotations, orders, products and prices.
 - [Point of Sale](./sales/point-of-sale/index.md): the cash register for shops and cafés.
 

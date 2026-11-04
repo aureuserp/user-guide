@@ -6,6 +6,10 @@ Everything follows one flow: a **customer** receives a **quotation**, the quotat
 
 > **In simple words:** Sales is where you quote, sell and invoice.
 
+::: tip
+If your sale starts as a lead or a deal, work it in [CRM](../crm/index.md) first. A won opportunity can create the quotation for you.
+:::
+
 ## Where to start
 
 Set up in this order: [Configuration](./configuration/index.md), then [Products and prices](./products-prices/index.md), then [Quotations and orders](./quotations-orders/index.md) (add the customer first), then [Invoicing](./invoicing/index.md).
